@@ -25,6 +25,19 @@
 		<script src="/bower_components/mobile-angular-ui/dist/js/mobile-angular-ui.min.js"></script>
 		<script src="/bower_components/mobile-angular-ui/dist/js/mobile-angular-ui.gestures.min.js"></script>
 
+		<!-- Firebase -->
+		<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
+		<script>
+		var config = {
+			apiKey: "AIzaSyBygMs3vVN04SWO4EFgm_FbpUGAN0WKIk0",
+			authDomain: "thaifood-today.firebaseapp.com",
+			databaseURL: "https://thaifood-today.firebaseio.com",
+			storageBucket: "thaifood-today.appspot.com",
+			messagingSenderId: "1030275091340"
+		};
+		firebase.initializeApp(config);
+		</script>
+
 		<script src="/assets/js/responsivevoice.js"></script>
 		<script src="/assets/js/app.js"></script>
 
@@ -52,12 +65,13 @@
 				<div class="navbar-brand navbar-brand-center" ui-yield-to="title">ThaiFood.today</div>
 				<div class="btn-group pull-left">
 					<div ui-toggle="uiSidebarLeft" class="btn sidebar-toggle">
-						<i class="fa fa-bars"></i> <!-- Menu -->
+						<i class="fa fa-bars"></i>
 					</div>
 				</div>
 				<div class="btn-group pull-right" ui-yield-to="navbarAction">
 					<div ui-toggle="uiSidebarRight" class="btn sidebar-right-toggle">
-						<i class="fa fa-star"></i><!--  Favorites -->
+						<span ng-show="firebaseUser">My Account</span>
+						<span ng-hide="firebaseUser">Login</span>
 					</div>
 				</div>
 			</div>

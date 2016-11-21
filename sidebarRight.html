@@ -1,11 +1,25 @@
 <div class="scrollable">
 	<div class="scrollable-content">
-		<div ng-repeat="(category, dishesArray) in favorites" ng-init="parentIndex = $index" class="dish-favorites-wrap text-capitalize">
-			<h4>{{category | underscoreless}}</h4>
-			<div ng-repeat="(index, dish) in dishesArray" class="list-group dish-favorites">
-				<a class="list-group-item dist-list-item" href="#/{{category}}/{{index}}">
-					{{dish}} <i class="fa fa-trash pull-right" ng-click="favoriteRemove($event);"></i>
-				</a>
+		<div class="user-profile">
+			<div ng-show="firebaseUser">
+				<p><img class="img-circle" src="{{ firebaseUser.photoURL }}" alt="{{ firebaseUser.displayName }}"></p>
+				<p>Hi, <strong>{{ firebaseUser.displayName }}</strong>!</p>
+				<p>All your favorites Thai dishes are displayed below:</p>
+				<div ng-repeat="(category, dishesArray) in favorites" ng-init="parentIndex = $index" class="dish-favorites-wrap text-capitalize">
+					<h5 class="dish-favorites-category">{{category | underscoreless}}</h5>
+					<div ng-repeat="(index, dish) in dishesArray" class="list-group dish-favorites">
+						<a class="list-group-item dist-list-item" href="#/{{category}}/{{index}}">
+							{{dish}} <i class="fa fa-trash pull-right" ng-click="favoriteRemove($event);"></i>
+						</a>
+					</div>
+				</div>
+				<button class="btn btn-facebook btn-facebook-signout" ng-click="auth.$signOut()">Sign Out <i class="fa fa-sign-out" aria-hidden="true"></i></button>
+			</div>
+			<div ng-hide="firebaseUser">
+				<h4>Welcome!</h4>
+				<p>Please sign in to save your favorite dishes.</p>
+				<p><button class="btn btn-lg btn-facebook btn-facebook-signin" ng-click="auth.$signInWithPopup('facebook')"><i class="fa fa-facebook" aria-hidden="true"></i> Login with Facebook</button></p>
+				<p><em>We will never post on your behalf</em></p>
 			</div>
 		</div>
 	</div>

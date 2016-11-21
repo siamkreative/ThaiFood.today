@@ -10,6 +10,7 @@ var app = angular.module('thaifoodtoday', [
 	'ngRoute',
 	'mobile-angular-ui',
 	'LocalStorageModule',
+	'firebase',
 
 	// touch/drag feature: this is from 'mobile-angular-ui.gestures.js'.
 	// This is intended to provide a flexible, integrated and and
@@ -94,7 +95,19 @@ app.filter('underscoreless', function () {
 	}
 });
 
-app.controller('MainController', function ($rootScope, $scope, $http, localStorageService, $routeParams) {
+app.factory('Auth', ['$firebaseAuth',
+	function ($firebaseAuth) {
+		return $firebaseAuth();
+	}
+]);
+
+app.controller('MainController', function ($rootScope, $scope, $http, localStorageService, $routeParams, Auth) {
+
+	// any time auth state changes, add the user data to scope
+	$scope.auth = Auth;
+	$scope.auth.$onAuthStateChanged(function (firebaseUser) {
+		$scope.firebaseUser = firebaseUser;
+	});
 
 	// Needed for the loading screen
 	$rootScope.$on('$routeChangeStart', function () {
