@@ -70,21 +70,45 @@ app.directive('isImage', function () {
  * Allow passing $routeParams to different templates
  * http://stackoverflow.com/a/11535887/1414881
  */
-app.controller('DishController', function ($scope, $http, $routeParams) {
+app.controller('DishController', function ($scope, $http, $routeParams, localStorageService) {
 	$scope.type = $routeParams.type;
 	$scope.id = $routeParams.id;
 
-	$http.get('./data/all.json')
-		.success(function (data) {
-			var key = $scope.type;
+	if (localStorageService.isSupported) {
+
+		if (localStorageService.get('dishAll')) {
+			// Retrieve Object from JSON
+			var data = angular.fromJson(localStorage.getItem('dishAll'));
+
+			$scope.favToggle = function (obj) {
+				obj.preventDefault();
+
+				// Toggle favorite value
+				var id = $scope.id || obj.target.parentNode.getAttribute('data-id');
+				var fav = data[$scope.type][id];
+				fav.favorite = !fav.favorite;
+
+				// Update localStorage
+				localStorage.setItem('dishAll', JSON.stringify(data));
+			};
+
 			var dishNames = [];
 			$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
-			$scope.dishes = data[key];
+			$scope.dishes = data[$scope.type];
 			$scope.dishes.forEach(function (item) {
 				dishNames.push(item.thai_name);
 			});
 			$scope.dish = $scope.dishes[$scope.id];
-		})
+
+		} else {
+			$http.get('./data/all.json')
+				.success(function (data) {
+					localStorage.setItem('dishAll', JSON.stringify(data));
+				})
+
+		}
+
+	}
 });
 
 app.filter('underscoreless', function () {
@@ -106,6 +130,7 @@ app.controller('MainController', function ($rootScope, $scope, $http, localStora
 	// any time auth state changes, add the user data to scope
 	$scope.auth = Auth;
 	$scope.auth.$onAuthStateChanged(function (firebaseUser) {
+		console.log(firebaseUser);
 		$scope.firebaseUser = firebaseUser;
 	});
 
@@ -124,9 +149,13 @@ app.controller('MainController', function ($rootScope, $scope, $http, localStora
 	 * http://stackoverflow.com/a/19544982/1414881
 	 * http://stackoverflow.com/a/832262/1414881
 	 */
+	$scope.dishAll = [];
 	$scope.categories = [];
 	$http.get('./data/all.json')
 		.success(function (data) {
+			$scope.dishAll = data;
+			localStorageService.set('dishAll', JSON.stringify(data));
+
 			angular.forEach(data, function (value, key) {
 				var items = {};
 				items['name'] = key;
@@ -134,69 +163,6 @@ app.controller('MainController', function ($rootScope, $scope, $http, localStora
 				$scope.categories.push(items);
 			});
 		})
-
-	$scope.dishAll = [];
-	$http.get('./data/all.json')
-		.success(function (data) {
-			$scope.dishAll = data;
-		})
-
-	/**
-	 * Add to favorites
-	 * https://github.com/grevory/angular-local-storage
-	 * http://stackoverflow.com/a/18030442/1414881
-	 */
-	if (localStorageService.isSupported) {
-
-		// Retrieve Favorites
-		$scope.favorites = angular.fromJson(localStorageService.get('favorites'));
-		if (!$scope.favorites) {
-			$scope.favorites = {
-				'rice_dishes': {
-					0: 'Chok',
-					2: 'Khao kha mu'
-				},
-				'curries': {
-					7: 'Kaeng het'
-				}
-			};
-		}
-
-		// Add Favorites
-		$scope.favoriteAdd = function (obj) {
-			obj.preventDefault();
-
-			// Prepare variables
-			var type = $routeParams.type;
-			var id = obj.target.parentNode.getAttribute('data-id');
-			var name = obj.target.parentNode.getAttribute('data-name');
-			var icon = obj.target;
-
-			// Update favorite obj
-			var test = $scope.dishAll;
-			console.log(test['rice_dishes'][id]);
-
-			// Update localStorage
-			// localStorageService.set('favorites', JSON.stringify($scope.favorites));
-
-			// !! NOT WORKING
-			// icon.classList.toggle('fa-star-o fa-star');
-
-			// Update UI
-			if (icon.className === 'fa fa-star-o') {
-				icon.className = 'fa fa-star';
-			} else {
-				icon.className = 'fa fa-star-o';
-			}
-		};
-
-		// Remove Favorites
-		$scope.favoriteRemove = function (e) {
-			var listGroupItem = e.target.parentNode;
-			console.log(listGroupItem);
-			e.preventDefault();
-		}
-	}
 
 	/**
 	 * Dish Details - Play Thai Script
