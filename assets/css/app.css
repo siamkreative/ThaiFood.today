@@ -9,6 +9,16 @@ h1 {
 	margin: 10px 0;
 }
 
+.about-dev {
+	padding: 10px 15px;
+    color: #f5f5f5;
+}
+
+.about-dev a {
+	color: white;
+	text-decoration: underline;
+}
+
 .chat-user-avatar {
 	font-size: 40px;
 	background: #ccc;

@@ -1,9 +1,10 @@
 <div class="scrollable">
-	<!-- <h1 class="scrollable-header app-name">ThaiFood.today</h1> -->
-	<div class="scrollable-content">
-		<div id="sidebar_list_group" class="list-group dish-categories" ui-turn-off="uiSidebarLeft">
-			<a class="list-group-item" href="#/">Home <i class="fa fa-chevron-right pull-right"></i></a>
-			<a ng-repeat="category in categories" class="list-group-item" href="#/{{category.name}}">{{category.name | underscoreless}} <span class="badge">{{category.length}}</span></a>
-		</div>
-	</div>
+    <!-- <h1 class="scrollable-header app-name">ThaiFood.today</h1> -->
+    <div class="scrollable-content">
+        <div id="sidebar_list_group" class="list-group dish-categories" ui-turn-off="uiSidebarLeft">
+            <a class="list-group-item" href="#/">Home <i class="fa fa-chevron-right pull-right"></i></a>
+            <a ng-repeat="category in categories" class="list-group-item" href="#/{{category.name}}">{{category.name | underscoreless}} <span class="badge">{{category.length}}</span></a>
+        </div>
+        <p class="about-dev">This app is still under development. To report an issue or suggest new features, please head to <a href="https://github.com/SiamKreative/ThaiFood.today/issues">Github</a></p>
+    </div>
 </div>
