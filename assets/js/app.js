@@ -149,18 +149,20 @@ app.controller('MainController', function ($rootScope, $scope, $http, localStora
 	 * http://stackoverflow.com/a/19544982/1414881
 	 * http://stackoverflow.com/a/832262/1414881
 	 */
-	$scope.dishAll = [];
 	$scope.categories = [];
 	$http.get('./data/all.json')
 		.success(function (data) {
-			$scope.dishAll = data;
 			localStorageService.set('dishAll', JSON.stringify(data));
 
 			angular.forEach(data, function (value, key) {
 				var items = {};
 				items['name'] = key;
 				items['length'] = value.length;
-				$scope.categories.push(items);
+
+				// Hide categories with less than 5 dishes
+				if (value.length > 5) {
+					$scope.categories.push(items);
+				}
 			});
 		})
 
