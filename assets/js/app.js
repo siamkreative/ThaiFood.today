@@ -9,7 +9,6 @@
 var app = angular.module('thaifoodtoday', [
 	'ngRoute',
 	'mobile-angular-ui',
-	'LocalStorageModule',
 	'firebase',
 
 	// touch/drag feature: this is from 'mobile-angular-ui.gestures.js'.
@@ -22,14 +21,6 @@ var app = angular.module('thaifoodtoday', [
 
 app.run(function ($transform) {
 	window.$transform = $transform;
-});
-
-// Configure localStorage
-app.config(function (localStorageServiceProvider) {
-	localStorageServiceProvider
-		.setPrefix('ThaiDishes')
-		.setStorageType('localStorage')
-		.setNotify(true, true)
 });
 
 //
@@ -70,43 +61,46 @@ app.directive('isImage', function () {
  * Allow passing $routeParams to different templates
  * http://stackoverflow.com/a/11535887/1414881
  */
-app.controller('DishController', function ($scope, $http, $routeParams, localStorageService) {
+app.controller('DishController', function ($scope, $http, $routeParams) {
 	$scope.type = $routeParams.type;
 	$scope.id = $routeParams.id;
 
-	if (localStorageService.isSupported) {
+	if (localStorage.getItem('dishAll')) {
 
-		if (localStorageService.get('dishAll')) {
-			// Retrieve Object from JSON
-			var data = angular.fromJson(localStorage.getItem('dishAll'));
+		console.log('localStorage has data!');
 
-			$scope.favToggle = function (obj) {
-				obj.preventDefault();
+		// Retrieve Object from JSON
+		var data = angular.fromJson(localStorage.getItem('dishAll'));
 
-				// Toggle favorite value
-				var id = $scope.id || obj.target.parentNode.getAttribute('data-id');
-				var fav = data[$scope.type][id];
-				fav.favorite = !fav.favorite;
+		$scope.favToggle = function (obj) {
+			obj.preventDefault();
 
-				// Update localStorage
+			// Toggle favorite value
+			var id = $scope.id || obj.target.parentNode.getAttribute('data-id');
+			var fav = data[$scope.type][id];
+			fav.favorite = !fav.favorite;
+
+			// Update localStorage
+			console.log(data);
+			localStorage.setItem('dishAll', JSON.stringify(data));
+		};
+
+		var dishNames = [];
+		$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
+		$scope.dishes = data[$scope.type];
+		$scope.dishes.forEach(function (item) {
+			dishNames.push(item.thai_name);
+		});
+		$scope.dish = $scope.dishes[$scope.id];
+
+	} else {
+
+		console.log('localStorage does not have data!');
+
+		$http.get('./data/all.json')
+			.success(function (data) {
 				localStorage.setItem('dishAll', JSON.stringify(data));
-			};
-
-			var dishNames = [];
-			$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
-			$scope.dishes = data[$scope.type];
-			$scope.dishes.forEach(function (item) {
-				dishNames.push(item.thai_name);
-			});
-			$scope.dish = $scope.dishes[$scope.id];
-
-		} else {
-			$http.get('./data/all.json')
-				.success(function (data) {
-					localStorage.setItem('dishAll', JSON.stringify(data));
-				})
-
-		}
+			})
 
 	}
 });
@@ -125,7 +119,7 @@ app.factory('Auth', ['$firebaseAuth',
 	}
 ]);
 
-app.controller('MainController', function ($rootScope, $scope, $http, localStorageService, $routeParams, Auth) {
+app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth) {
 
 	// any time auth state changes, add the user data to scope
 	$scope.auth = Auth;
@@ -152,8 +146,6 @@ app.controller('MainController', function ($rootScope, $scope, $http, localStora
 	$scope.categories = [];
 	$http.get('./data/all.json')
 		.success(function (data) {
-			localStorageService.set('dishAll', JSON.stringify(data));
-
 			angular.forEach(data, function (value, key) {
 				var items = {};
 				items['name'] = key;
