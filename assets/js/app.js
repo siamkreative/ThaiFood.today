@@ -49,7 +49,7 @@ app.config(function ($routeProvider) {
  * Service Passing Data Between Controllers 
  * http://stackoverflow.com/a/20181543
  */
-app.service('dataService', function () {
+app.service('dataService', function ($http) {
 
 	var dataSave = function (data) {
 		console.log('dataSave', data);
