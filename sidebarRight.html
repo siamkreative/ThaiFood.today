@@ -8,7 +8,7 @@
 				<div ng-repeat="(categoryName, category) in data">
 					<div ng-repeat="dish in category" ng-init="parentIndex = $index">
 						<div ng-show="dish.favorite">
-							<a class="list-group-item dist-list-item" href="#/{{categoryName}}/{{index}}">{{ dish.thai_name }}</a>
+							<a class="list-group-item dist-list-item" href="#/{{categoryName}}/{{parentIndex}}">{{ dish.thai_name }}</a>
 						</div>
 					</div>
 				</div>
