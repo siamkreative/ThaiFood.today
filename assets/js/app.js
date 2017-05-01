@@ -45,15 +45,40 @@ app.config(function ($routeProvider) {
 	});
 });
 
-app.directive('isImage', function () {
-	return {
-		restrict: 'A',
-		link: function (scope, element, attrs) {
-			element.bind('load', function () {
-				console.log('image is loaded');
-			});
-		}
+/**
+ * Service Passing Data Between Controllers 
+ * http://stackoverflow.com/a/20181543
+ */
+app.service('dataService', function () {
+
+	var dataSave = function (data) {
+		console.log('dataSave', data);
+		localStorage.setItem('dishAll', JSON.stringify(data));
 	};
+
+	var dataGet = function () {
+		var data;
+		var from;
+		if (localStorage.getItem('dishAll')) {
+			from = 'localStorage';
+			data = angular.fromJson(localStorage.getItem('dishAll'));
+		} else {
+			from = 'jsonFile';
+			$http.get('./data/all.json')
+				.success(function (data) {
+					data = data;
+					localStorage.setItem('dishAll', JSON.stringify(data));
+				})
+		}
+		console.log('Get Data from', from, data);
+		return data;
+	};
+
+	return {
+		dataGet: dataGet,
+		dataSave: dataSave
+	};
+
 });
 
 /**
@@ -61,48 +86,31 @@ app.directive('isImage', function () {
  * Allow passing $routeParams to different templates
  * http://stackoverflow.com/a/11535887/1414881
  */
-app.controller('DishController', function ($scope, $http, $routeParams) {
+app.controller('DishController', function ($scope, $http, $routeParams, dataService) {
+
+	var dishNames = [];
+
+	$scope.data = dataService.dataGet();
 	$scope.type = $routeParams.type;
 	$scope.id = $routeParams.id;
+	$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
+	$scope.dishes = $scope.data[$scope.type];
+	$scope.dishes.forEach(function (item) {
+		dishNames.push(item.thai_name);
+	});
+	$scope.dish = $scope.dishes[$scope.id];
 
-	if (localStorage.getItem('dishAll')) {
+	$scope.favToggle = function (obj) {
+		obj.preventDefault();
 
-		console.log('localStorage has data!');
+		// Toggle favorite value
+		var id = $scope.id || obj.target.parentNode.getAttribute('data-id');
+		var dish = $scope.data[$scope.type][id];
+		dish.favorite = !dish.favorite;
 
-		// Retrieve Object from JSON
-		var data = angular.fromJson(localStorage.getItem('dishAll'));
-
-		$scope.favToggle = function (obj) {
-			obj.preventDefault();
-
-			// Toggle favorite value
-			var id = $scope.id || obj.target.parentNode.getAttribute('data-id');
-			var fav = data[$scope.type][id];
-			fav.favorite = !fav.favorite;
-
-			// Update localStorage
-			console.log(data);
-			localStorage.setItem('dishAll', JSON.stringify(data));
-		};
-
-		var dishNames = [];
-		$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
-		$scope.dishes = data[$scope.type];
-		$scope.dishes.forEach(function (item) {
-			dishNames.push(item.thai_name);
-		});
-		$scope.dish = $scope.dishes[$scope.id];
-
-	} else {
-
-		console.log('localStorage does not have data!');
-
-		$http.get('./data/all.json')
-			.success(function (data) {
-				localStorage.setItem('dishAll', JSON.stringify(data));
-			})
-
-	}
+		// Update localStorage
+		dataService.dataSave($scope.data);
+	};
 });
 
 app.filter('underscoreless', function () {
@@ -119,14 +127,16 @@ app.factory('Auth', ['$firebaseAuth',
 	}
 ]);
 
-app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth) {
+app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService) {
 
 	// any time auth state changes, add the user data to scope
 	$scope.auth = Auth;
 	$scope.auth.$onAuthStateChanged(function (firebaseUser) {
-		console.log(firebaseUser);
 		$scope.firebaseUser = firebaseUser;
 	});
+
+	// Get favorites from Dish controller
+	$scope.dishByCategories = dataService.dataGet();
 
 	// Needed for the loading screen
 	$rootScope.$on('$routeChangeStart', function () {
@@ -144,19 +154,17 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 	 * http://stackoverflow.com/a/832262/1414881
 	 */
 	$scope.categories = [];
-	$http.get('./data/all.json')
-		.success(function (data) {
-			angular.forEach(data, function (value, key) {
-				var items = {};
-				items['name'] = key;
-				items['length'] = value.length;
+	$scope.data = dataService.dataGet();
+	angular.forEach($scope.data, function (value, key) {
+		var items = {};
+		items['name'] = key;
+		items['length'] = value.length;
 
-				// Hide categories with less than 5 dishes
-				if (value.length > 5) {
-					$scope.categories.push(items);
-				}
-			});
-		})
+		// Hide categories with less than 5 dishes
+		if (value.length > 5) {
+			$scope.categories.push(items);
+		}
+	});
 
 	/**
 	 * Dish Details - Play Thai Script
