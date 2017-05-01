@@ -114,12 +114,17 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	});
 	$scope.dish = $scope.dishes[$scope.id];
 
+	/**
+	 * Save/Remove favorites
+	 */
 	$scope.favToggle = function (obj) {
 		obj.preventDefault();
 
-		// Toggle favorite value
+		// Get dish object
 		var id = $scope.id || obj.target.parentNode.getAttribute('data-id');
 		var dish = $scope.data[$scope.type][id];
+
+		// Toggle value: true/false
 		dish.favorite = !dish.favorite;
 
 		// Update localStorage
@@ -131,6 +136,8 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	 * http://responsivevoice.org/api/
 	 */
 	$scope.play = function (obj) {
+		obj.preventDefault();
+
 		var tts = document.getElementById('tts').innerHTML;
 		var button = document.getElementById('play_label');
 		if (responsiveVoice.voiceSupport()) {
