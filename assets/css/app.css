@@ -195,6 +195,10 @@ body {
 /**
  * Dish List
  */
+.dish-list-image {
+	max-width: 100%;
+	height: auto;
+}
 .dish-list-heading {
 	text-align: center;
 	text-transform: capitalize;
