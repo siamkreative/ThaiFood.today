@@ -45,6 +45,20 @@ app.config(function ($routeProvider) {
 	});
 });
 
+app.filter('underscoreless', function () {
+	return function (input) {
+		if (input) {
+			return input.replace(/_/g, ' ');
+		}
+	}
+});
+
+app.factory('Auth', ['$firebaseAuth',
+	function ($firebaseAuth) {
+		return $firebaseAuth();
+	}
+]);
+
 /**
  * Service Passing Data Between Controllers 
  * http://stackoverflow.com/a/20181543
@@ -111,32 +125,38 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 		// Update localStorage
 		dataService.dataSave($scope.data);
 	};
-});
 
-app.filter('underscoreless', function () {
-	return function (input) {
-		if (input) {
-			return input.replace(/_/g, ' ');
+	/**
+	 * Dish Details - Play Thai Script
+	 * http://responsivevoice.org/api/
+	 */
+	$scope.play = function (obj) {
+		var tts = document.getElementById('tts').innerHTML;
+		var button = document.getElementById('play_label');
+		if (responsiveVoice.voiceSupport()) {
+			responsiveVoice.speak(tts, 'Thai Female');
+			// Update the UI
+			button.innerHTML = ' Loading...';
+			setInterval(function () {
+				if (!responsiveVoice.isPlaying()) {
+					button.innerHTML = ' Speak';
+					button.blur();
+				}
+			}, 100);
 		}
 	}
 });
 
-app.factory('Auth', ['$firebaseAuth',
-	function ($firebaseAuth) {
-		return $firebaseAuth();
-	}
-]);
-
 app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService) {
 
-	// any time auth state changes, add the user data to scope
+	/**
+	 * Any time auth state changes, add the user data to scope
+	 * https://github.com/firebase/angularfire
+	 */
 	$scope.auth = Auth;
 	$scope.auth.$onAuthStateChanged(function (firebaseUser) {
 		$scope.firebaseUser = firebaseUser;
 	});
-
-	// Get favorites from Dish controller
-	$scope.dishByCategories = dataService.dataGet();
 
 	// Needed for the loading screen
 	$rootScope.$on('$routeChangeStart', function () {
@@ -165,24 +185,4 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 			$scope.categories.push(items);
 		}
 	});
-
-	/**
-	 * Dish Details - Play Thai Script
-	 * http://responsivevoice.org/api/
-	 */
-	$scope.play = function (obj) {
-		var tts = document.getElementById('tts').innerHTML;
-		var button = document.getElementById('play_label');
-		if (responsiveVoice.voiceSupport()) {
-			responsiveVoice.speak(tts, 'Thai Female');
-			// Update the UI
-			button.innerHTML = ' Loading...';
-			setInterval(function () {
-				if (!responsiveVoice.isPlaying()) {
-					button.innerHTML = ' Speak';
-					button.blur();
-				}
-			}, 100);
-		}
-	}
 });
