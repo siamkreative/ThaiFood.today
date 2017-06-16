@@ -1,0 +1,2473 @@
+{
+	"rice_dishes": [{
+		"thai_name": "Chok",
+		"thai_script": "โจ๊ก",
+		"english_name": "Rice congee",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jok_mu_sap.JPG/640px-Jok_mu_sap.JPG",
+		"region": "",
+		"description": "Of Chinese origin, it is a rice congee with minced chicken or pork. Mixing an egg in with the congee is optional.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao kan chin",
+		"thai_script": "ข้าวกั๊นจิ๊น",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2013_Khao_kan_chin.jpg/640px-2013_Khao_kan_chin.jpg",
+		"region": "North",
+		"description": "A dish of the Tai Yai (Shan people) of Myanmar and northern Thailand, it is rice that is mixed with pork blood and steamed inside a banana leaf. Khao kan chin is served with cucumber, onions and fried, dried chillies.[1]",
+		"favorite": false
+	}, {
+		"thai_name": "Khao kha mu",
+		"thai_script": "ข้าวขาหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Khao_kha_mu_02.JPG/640px-Khao_kha_mu_02.JPG",
+		"region": "",
+		"description": "Steamed rice is served with sliced pig's trotters which has been simmered in soy sauce and five spice powder. It is always served with a sweet spicy dipping sauce, fresh bird's eye chillies and cloves of garlic on the side. Boiled egg and a clear broth on the side are optional.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao khai chiao",
+		"thai_script": "ข้าวไข่เจียว",
+		"english_name": "Omelet on rice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Khao_khai_chiao_songkhrueng.jpg/640px-Khao_khai_chiao_songkhrueng.jpg",
+		"region": "",
+		"description": "A quick snack or breakfast, it is an omelet with white rice, often eaten with chilli sauce and cucumber. The variant shown in the image is khao khai chiao songkhrueang (Thai: ข้าวไข่เจียวทรงเครื่อง) where the omelet is topped with a minced pork and vegetable stir-fry.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao khluk kapi",
+		"thai_script": "ข้าวคลุกกะปิ",
+		"english_name": "Fried rice with shrimp paste",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Khao.kluke.kapi-01.jpg/640px-Khao.kluke.kapi-01.jpg",
+		"region": "",
+		"description": "Rice is fried with shrimp paste and served with sweet pork, sour mango, fried shrimp, chillies and shallots.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao mok kai",
+		"thai_script": "ข้าวหมกไก่",
+		"english_name": "Thai chicken biryani",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Khao_mok_kai.JPG/640px-Khao_mok_kai.JPG",
+		"region": "",
+		"description": "The Thai version of a \"chicken biryani\". The name literally means \"rice covered chicken\". This Thai-Muslim dish is made by cooking rice together with the chicken curry.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao mok nuea",
+		"thai_script": "ข้าวหมกเนื้อ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Khao_mok_nuea.jpg/640px-Khao_mok_nuea.jpg",
+		"region": "",
+		"description": "The Thai version of a \"beef biryani\".",
+		"favorite": false
+	}, {
+		"thai_name": "Khao man kai",
+		"thai_script": "ข้าวมันไก่",
+		"english_name": "Chicken rice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2013_Khao_man_kai_Chiang_Mai.jpg/640px-2013_Khao_man_kai_Chiang_Mai.jpg",
+		"region": "",
+		"description": "Rice steamed with garlic served with sliced chicken, chicken broth and a spicy dipping sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao mu krop",
+		"thai_script": "ข้าวหมูกรอบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Khao_mu_krop.jpg/640px-Khao_mu_krop.jpg",
+		"region": "",
+		"description": "Rice and crispy pork that is often, as here in this image, served with boiled egg and a bowl of broth. The sauce that always comes with khao mu krop is here served separately in the bowl at the top of the image.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao mu krop mu daeng",
+		"thai_script": "ข้าวหมูกรอบหมูแดง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Khao_mu_krop_mu_daeng_in_Nong_Khai.jpg/640px-Khao_mu_krop_mu_daeng_in_Nong_Khai.jpg",
+		"region": "",
+		"description": "Slices of mu krop (crispy pork) and mu daeng (red roast pork) served on rice, and often covered with a sticky soya and/or oyster-sauce based sauce. Very often, a clear soup, boiled egg, cucumber, and spring onion is served on the side. Sliced chillies in Chinese black vinegar and dark soy sauce are provided as a condiment for this dish.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao na pet",
+		"thai_script": "ข้าวหน้าเป็ด",
+		"english_name": "Red roast duck on rice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Khao_na_pet.JPG/640px-Khao_na_pet.JPG",
+		"region": "",
+		"description": "Boiled rice with roast duck and duck broth on the side. It is served with sliced chillies in soy sauce as a condiment.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao niao",
+		"thai_script": "ข้าวเหนียว",
+		"english_name": "Glutinous or sticky rice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kin_khao_niao.JPG/640px-Kin_khao_niao.JPG",
+		"region": "",
+		"description": "Khao niao is traditionally eaten using only the right hand. It is the staple food of Northern and Northeastern Thais.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao nuea op",
+		"thai_script": "ข้าวเนื้ออบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Khao_nuea_op.jpg/640px-Khao_nuea_op.jpg",
+		"region": "",
+		"description": "Rice with slices of baked beef, served with a spicy chilli dip.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phat",
+		"thai_script": "ข้าวผัด",
+		"english_name": "Thai fried rice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thaifriedrice.jpg/640px-Thaifriedrice.jpg",
+		"region": "",
+		"description": "Fried rice in Thailand can be made with different ingredients. Customarily served with fresh lime, cucumber, spring onions and nam pla phrik (chillies in fish sauce).",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phat amerikan",
+		"thai_script": "ข้าวผัดอเมริกัน",
+		"english_name": "American fried rice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/American_fried_rice.jpg/640px-American_fried_rice.jpg",
+		"region": "",
+		"description": "American fried rice is rice fried with onion, tomato, raisins and flavoured with ketchup. It is often garnished with some sausage, fried chicken and egg.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phat kaeng khiao wan",
+		"thai_script": "ข้าวผัดแกงเขียวหวาน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Khao_phat_kaeng_khiao_wan.jpg/640px-Khao_phat_kaeng_khiao_wan.jpg",
+		"region": "",
+		"description": "Rice fried with green curry.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phat kaphrao mu",
+		"thai_script": "ข้าวผัดกะเพราหมู",
+		"english_name": "Basil fried rice with pork",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Khao_phat_kraphao_mu.jpg/640px-Khao_phat_kraphao_mu.jpg",
+		"region": "",
+		"description": "Rice fried with a certain variety of Thai basil called kaphrao (Ocimum tenuiflorum), sliced pork and chillies.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phat nam liap",
+		"thai_script": "ข้าวผัดหนำเลี๊ยบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Khao_phat_nam_liap.jpg/640px-Khao_phat_nam_liap.jpg",
+		"region": "",
+		"description": "Rice fried with nam liap, the fruit of the Canarium album, also known as \"Chinese olives\".",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phat nam phrik long ruea",
+		"thai_script": "ข้าวผัดน้ำพริกลงเรือ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Khao_phat_nam_phrik_long_ruea.jpg/640px-Khao_phat_nam_phrik_long_ruea.jpg",
+		"region": "Central",
+		"description": "Rice fried with Nam phrik long ruea (lit. \"boat journey chilli paste\") and pieces of khai khem (salted duck's eggs). Fried, sliced, sweet Chinese sausage called kun chiang (Thai: กุนเชียง) are also served here with some sliced cucumber on the side.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phat nam phrik narok",
+		"thai_script": "ข้าวผัดน้ำพริกนรก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Khao_phat_nam_phrik_narok.jpg/640px-Khao_phat_nam_phrik_narok.jpg",
+		"region": "",
+		"description": "The name literally means \"rice fried with chilli paste from hell\". The rice is fried with nam phrik narok, a very spicy chilli paste made with fried catfish, grilled onion and garlic, grilled (dried) chillies, sugar, fish sauce and shrimp paste. Here it is served with mu yang (grilled pork) and nam chim chaeo, a spicy dipping sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao tom",
+		"thai_script": "ข้าวต้ม",
+		"english_name": "Thai rice soup",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Khao_tom_pla_01.jpg/640px-Khao_tom_pla_01.jpg",
+		"region": "",
+		"description": "Boiled rice in a light broth, usually with minced pork, chicken or fish. It is often eaten for breakfast.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao tom kui",
+		"thai_script": "ข้าวต้มกุ๊ย",
+		"english_name": "Plain rice congee",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Khao_tom_kui.jpg/640px-Khao_tom_kui.jpg",
+		"region": "",
+		"description": "Plain rice is cooked to a porridge and eaten as the staple together with a variety of side dishes.",
+		"favorite": false
+	}],
+	"noodle_dishes": [{
+		"thai_name": "Bami haeng pet",
+		"thai_script": "บะหมี่แห้งเป็ด",
+		"english_name": "Egg noodles served \"dry\" with duck",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bami_haeng.jpg/640px-Bami_haeng.jpg",
+		"region": "",
+		"description": "Egg noodles served \"dry\" with slices of braised duck, and often, as shown on the image, together with \"blood tofu\". The broth is served on the side. It is originally a Chinese dish.",
+		"favorite": false
+	}, {
+		"thai_name": "Bami mu daeng",
+		"thai_script": "บะหมี่หมูแดง",
+		"english_name": "Egg noodle soup with red roast pork",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bami_mu_daeng_kiao.JPG/640px-Bami_mu_daeng_kiao.JPG",
+		"region": "",
+		"description": "Originally a Chinese dish, it is now common in Thailand. Often served with chillies in vinegar, and dried chilli flakes. The version shown in the photo also contains kiao kung (Thai: เกี๊ยวกุ้ง; prawn wontons).",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom chin kaeng khiao wan kai",
+		"thai_script": "ขนมจีนแกงเขียวหวานไก่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Khanom_chin_kaeng_kiao_wan_kai.jpg/640px-Khanom_chin_kaeng_kiao_wan_kai.jpg",
+		"region": "",
+		"description": "This noodle dish consists of green chicken curry served over khanom chin, fresh Thai rice noodles. It is usually accompanied by a selection of raw vegetables and herbs on the side. The chicken meat used in this particular version is chicken feet.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom chin nam ngiao",
+		"thai_script": "ขนมจีนน้ำเงี้ยว",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Khanom_chin_nam_ngiao_supoe.jpg/640px-Khanom_chin_nam_ngiao_supoe.jpg",
+		"region": "North",
+		"description": "A speciality of Northern Thailand, it is Thai fermented rice noodles served with pork or chicken blood tofu in a sauce made with pork broth and tomato, crushed fried dry chillies, pork blood, dry fermented soy bean, and dried red kapok flowers.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom chin namya",
+		"thai_script": "ขนมจีนน้ำยา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Khanom_Jeen_Nam_Yaa.jpg/640px-Khanom_Jeen_Nam_Yaa.jpg",
+		"region": "Central",
+		"description": "Thai rice noodles served with a fish based sauce called nam ya.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom chin sao nam",
+		"thai_script": "ขนมจีนซาวน้ำ",
+		"english_name": "",
+		"image": "",
+		"region": "Central",
+		"description": "Cold rice noodles served as a salad with thick coconut milk, finely chopped pineapple, sliced raw garlic and Thai chillies, pounded dried prawns, shredded ginger, lime juice, fish sauce and sugar.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao soi",
+		"thai_script": "ข้าวซอย",
+		"english_name": "Northern Thai curry noodles",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Khao_soi_Chiang_Mai.jpg/640px-Khao_soi_Chiang_Mai.jpg",
+		"region": "North",
+		"description": "Boiled as well as crispy fried egg noodles (bami) are served in a curry soup. The version with chicken is called khao soi kai, with beef it is called khao soi nuea.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao soi Mae Sai",
+		"thai_script": "ข้าวซอยแม่สาย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Khao_soi_Mae_Sai.JPG/640px-Khao_soi_Mae_Sai.JPG",
+		"region": "North",
+		"description": "Khao soi Mae Sai is the name in Chiang Mai of a certain type of khao soi that is more common in Chiang Rai province, in the area along the border with Burma and Laos (Mae Sai is a border town in Chiang Rai province). It is a spicy soup-like dish, similar to the broth used in khanom chin nam ngiao, containing soft, wide rice noodles, pork ribs, congealed pork blood and minced pork. Tomatoes and fermented soy bean give it its specific taste. Sliced raw cabbage and bean sprouts are served on the side.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao soi nam na",
+		"thai_script": "ข้าวซอยน้ำหน้า",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Khao_soi_nam_na.jpg/640px-Khao_soi_nam_na.jpg",
+		"region": "North",
+		"description": "Somewhat similar to khao soi Mae Sai, this variant from the eastern part of Chiang Rai Province is made with wide rice noodles in a clear pork broth. A spoonful of nam phrik ong (a sauce made from minced pork, tomato, fermented soy bean or shrimp paste, and dried chillies) is heaped on top of the noodles (nam na literally means \"with sauce on top\").",
+		"favorite": false
+	}, {
+		"thai_name": "Kuaichap",
+		"thai_script": "กวยจั๊บ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kuaichap.JPG/640px-Kuaichap.JPG",
+		"region": "",
+		"description": "Originally a Teochew Chinese dish (Chinese: 粿汁), it is a soup of pork broth with rolled up rice noodle sheets (resulting in rolls about the size of Italian penne), pork intestines, \"blood tofu\", and boiled egg.",
+		"favorite": false
+	}, {
+		"thai_name": "Kuai-tiao nam",
+		"thai_script": "ก๋วยเตี๋ยวน้ำ",
+		"english_name": "Wide rice noodle soup",
+		"image": "",
+		"region": "",
+		"description": "A soup of wide rice noodles, often with minced pork, pork balls or fish balls.",
+		"favorite": false
+	}, {
+		"thai_name": "Kuai-tiao nuea pueay",
+		"thai_script": "ก๋วยเตี๋ยวเนื้อเปื่อย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kuaitiao_nuea_pueay.JPG/640px-Kuaitiao_nuea_pueay.JPG",
+		"region": "",
+		"description": "A beef noodle soup with slices of very tender beef (nuea pueay).",
+		"favorite": false
+	}, {
+		"thai_name": "Kuai-tiao phat khi mao",
+		"thai_script": "ก๋วยเตี๋ยวผัดขี้เมา",
+		"english_name": "Drunken noodles",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sen_yai_phat_khi_mao.jpg/640px-Sen_yai_phat_khi_mao.jpg",
+		"region": "",
+		"description": "Spicy fried wide rice noodles.",
+		"favorite": false
+	}, {
+		"thai_name": "Kuai-tiao rat na",
+		"thai_script": "ก๋วยเตี๋ยวราดหน้า",
+		"english_name": "Wide rice noodles in gravy",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kuai-tiao_rat_na_mu.JPG/640px-Kuai-tiao_rat_na_mu.JPG",
+		"region": "Central",
+		"description": "Fried wide rice noodles with beef, pork, chicken or seafood in a thickened gravy.",
+		"favorite": false
+	}, {
+		"thai_name": "Kuai-tiao ruea",
+		"thai_script": "ก๋วยเตี๋ยวเรือ",
+		"english_name": "Boat noodles",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Boat_noodles.jpg/640px-Boat_noodles.jpg",
+		"region": "Central",
+		"description": "Rice noodles with beef or pork (and sometimes offal) in a brown broth which contains cinnamon, star anise and sometimes blood. It is spicy and sour.",
+		"favorite": false
+	}, {
+		"thai_name": "Mi krop",
+		"thai_script": "หมี่กรอบ",
+		"english_name": "Thai crispy fried noodles",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mee_krob_%28%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%29.jpg/640px-Mee_krob_%28%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%29.jpg",
+		"region": "",
+		"description": "Deep fried rice vermicelli with a sweet and sour sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat Mama",
+		"thai_script": "ผัดมาม่า",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Phat_mama.jpg/640px-Phat_mama.jpg",
+		"region": "",
+		"description": "Mama (Thai: มาม่า) is the most popular brand of instant noodles in Thailand and the brand name is commonly used, instead of the generic bami kueng samret rup (Thai: บะหมี่กึ่งสำเร็จรูป), to designate instant noodles. The particular version in the image has been stir-fried \"drunken noodle\"-style.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat si-io",
+		"thai_script": "ผัดซีอิ๊ว",
+		"english_name": "Noodles stir-fried with soy sauce",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pad_see_ew.jpg/640px-Pad_see_ew.jpg",
+		"region": "",
+		"description": "Usually wide rice noodles fried with chicken or pork, and soy sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat thai",
+		"thai_script": "ผัดไทย",
+		"english_name": "Noodles pad Thai",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/640px-Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+		"region": "",
+		"description": "Stir fried medium size rice noodles (sen lek) with fish sauce, sugar, lime juice or tamarind pulp, ground peanuts, egg, bean sprouts, and Chinese chives (kuichai), combined with pork, chicken, seafood, or tofu.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat wun sen",
+		"thai_script": "ผัดวุ้นเส้น",
+		"english_name": "Stir-fried glass noodles",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg/640px-Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg",
+		"region": "",
+		"description": "Glass noodles are stir-fried with egg and vegetables, and a variety of ingredients such as meat, seafood, or with vegetarian alternatives.",
+		"favorite": false
+	}, {
+		"thai_name": "Sapaketti phat khi mao",
+		"thai_script": "สปาเกตตีผัดขี้เมา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sapaketti_phat_khi_mao.jpg/640px-Sapaketti_phat_khi_mao.jpg",
+		"region": "",
+		"description": "A Thai fusion dish where the name literally means spaghetti fried \"shit-drunk\" (khi mao = extremely drunk). An explanation is that any dish fried this way is easy to make, spicy, and uses whatever ingredients are available at that time; great after a night out drinking when still hungry.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom yam boran",
+		"thai_script": "ต้มยำโบราณ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tom_yam_boran.jpg/640px-Tom_yam_boran.jpg",
+		"region": "Central",
+		"description": "Tom yam boran is noodles served in a thick spicy sour sauce or broth, with crushed dried chillies, chopped peanuts and blanched vegetables such as bean sprouts. This version is bami mu tom yam boran: with egg noodles and pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Yen tafo",
+		"thai_script": "เย็นตาโฟ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Yen_tafo.jpg/640px-Yen_tafo.jpg",
+		"region": "",
+		"description": "The Thai version of the Chinese noodle dish Yong Tau Foo is slightly sweet, sour, salty and spicy.",
+		"favorite": false
+	}],
+	"miscellaneous": [{
+		"thai_name": "Khai dao",
+		"thai_script": "ไข่ดาว",
+		"english_name": "Fried egg",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Khai_dao.JPG/640px-Khai_dao.JPG",
+		"region": "",
+		"description": "Literally translated khai dao means \"star egg\", referring to the star-like shape of the egg after it has been fried. Traditionally the egg is fried in large amounts of hot vegetable oil which produces a crispy outer texture. Khai dao mai suk is a fried egg where the yolk is still runny, the way it is most commonly eaten when served with, for instance, khao phat (\"fried rice\") or kaphrao mu rat khao (\"pork fried with holy basil served with rice\"). Fried egg with a (very) hard yolk, khai dao suk (mak), is needed when the fried egg is used for making yam khai dao: fried egg salad.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu op",
+		"thai_script": "หมูอบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mu_op.jpg/640px-Mu_op.jpg",
+		"region": "Central",
+		"description": "Oven-roasted pork, this Thai-Chinese dish is most often served sliced, with a sweet soy and five-spice powder sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu ruam luak chim",
+		"thai_script": "หมูรวมลวกจิ้ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mu_ruam_luak_chim.JPG/640px-Mu_ruam_luak_chim.JPG",
+		"region": "",
+		"description": "This dish consist of several types of pork (intestines, liver, and other cuts) which have been shortly blanched in boiling water or stock and then served with fried garlic, spring onions and a spicy dipping sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla sam thap",
+		"thai_script": "ปลาสามทัพ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pla_sam_thap.jpg/640px-Pla_sam_thap.jpg",
+		"region": "",
+		"description": "Fish prepared in 3 different ways: on the left of the image is pla sam rot (deep-fried served with a tangy sweet chilli sauce), in the middle pla nueng manao (steamed fish with a raw garlic, lime and chilli sauce), and on the right pla thot krathiam (deep-fried fish with deep-fried garlic).",
+		"favorite": false
+	}, {
+		"thai_name": "Roti thitchu",
+		"thai_script": "โรตีทิชชู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Roti_titchu_with_beef_curry.jpg/640px-Roti_titchu_with_beef_curry.jpg",
+		"region": "",
+		"description": "Similar to roti canai/roti prata from Malaysia and Singapore, this Indian-style fried flatbread is eaten with certain curries. For a sweet version, see roti kluai khai below in the section \"Sweet snacks and desserts\". The word thitchu in the name of this dish, is a loanword from English meaning \"tissue\".",
+		"favorite": false
+	}],
+	"curries": [{
+		"thai_name": "Chin hum",
+		"thai_script": "จิ๊นฮุ่ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chin_hum.jpg/640px-Chin_hum.jpg",
+		"region": "North",
+		"description": "It is a slowly stewed meat curry from northern Thailand. This particular version is made with beef.[4]",
+		"favorite": false
+	}, {
+		"thai_name": "Chuchi pla kaphong",
+		"thai_script": "ฉู่ฉี่ ปลากะพง",
+		"english_name": "",
+		"image": "",
+		"region": "Central",
+		"description": "A semi-dry red curry with fried Snapper.",
+		"favorite": false
+	}, {
+		"thai_name": "Chuchi pla thu sot",
+		"thai_script": "ฉู่ฉี่ปลาทูสด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Chuchi_pla_thu_sot.jpg/640px-Chuchi_pla_thu_sot.jpg",
+		"region": "South",
+		"description": "A semi-dry curry made with fresh (i.e. unsteamed and unsalted) pla thu (Rastrelliger brachysoma). The version in the image was made at a southern Thai restaurant.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng cha-om",
+		"thai_script": "แกงชะอม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kaeng_chaom.JPG/640px-Kaeng_chaom.JPG",
+		"region": "North",
+		"description": "A northern Thai curry with cha-om (the young leaves of the Acacia pennata) and dried fish.[5] This particular version also contained a mix of different types of mushroom.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng fak sai kai",
+		"thai_script": "แกงฟักใส่ไก่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kaeng_fak_sai_kai.JPG/640px-Kaeng_fak_sai_kai.JPG",
+		"region": "North",
+		"description": "A northern Thai curry made with winter melon and chicken. It is also known under the name kaeng fak khio.[6]",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng dok salae",
+		"thai_script": "แกงดอกสะแล",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kaeng_dok_salae.jpg/640px-Kaeng_dok_salae.jpg",
+		"region": "North",
+		"description": "A northern Thai curry that is made from the unopened flower buds of the shrub Broussonetia kurzii (J. D. Hooker) Corner. These flower buds are only available in northern Thailand from mid-February until late March.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng hangle",
+		"thai_script": "แกงฮังเล",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kaeng_hangle.jpg/640px-Kaeng_hangle.jpg",
+		"region": "North",
+		"description": "A Burmese influenced curry of stewed meat (usually pork), peanuts, dried chillies and tamarind juice but without coconut milk. Thin strips of fresh ginger are added in before serving.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng het",
+		"thai_script": "แกงเห็ด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kaeng_het.jpg/640px-Kaeng_het.jpg",
+		"region": "North",
+		"description": "A northern Thai curry made with pork and a variety of mushrooms.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng ho",
+		"thai_script": "แกงโฮะ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kaeng_ho.jpg/640px-Kaeng_ho.jpg",
+		"region": "North",
+		"description": "A Northern Thai dish where one or more types of curry are refried with glass noodles and other ingredients such as kaffir lime leaves, lemongrass and bamboo shoots. At least one of the curries used in this recipe should be the Northern Thai pork curry called kaeng hangle.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng kari",
+		"thai_script": "แกงกะหรี่",
+		"english_name": "Yellow curry",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kaeng_kari_kai.JPG/640px-Kaeng_kari_kai.JPG",
+		"region": "",
+		"description": "It is a Thai-Muslim dish which is mostly known in the West as \"Thai yellow curry\". It is of Indian origin and is often made with chicken and potatoes. It can also be made with other meats or seafood.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng khae",
+		"thai_script": "แกงแค",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kaeng_khae-963.JPG/640px-Kaeng_khae-963.JPG",
+		"region": "North",
+		"description": "A spicy curry of herbs, vegetables, cha-om leaves (a kind of acacia tree), and meat (chicken, water buffalo, pork or frog). It does not contain any coconut milk.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng khanun",
+		"thai_script": "แกงขนุน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kaeng_kanun_CM.jpg/640px-Kaeng_kanun_CM.jpg",
+		"region": "North",
+		"description": "A northern Thai curry made with boiled whole jackfruit, pork, tomatoes and chopped chakhan (Piper interruptum; \"pepper vine\").[7]",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng khiao wan",
+		"thai_script": "แกงเขียวหวาน",
+		"english_name": "Green curry",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Thai_green_chicken_curry_and_roti.jpg/640px-Thai_green_chicken_curry_and_roti.jpg",
+		"region": "Central",
+		"description": "A coconut curry made with fresh green chillies and flavoured with Thai basil, usually with chicken (kaeng khiao wan kai) or fish balls (kaeng khiao wan luk chin pla).",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng khilek",
+		"thai_script": "แกงขี้เหล็ก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kaeng_khilek.jpg/640px-Kaeng_khilek.jpg",
+		"region": "",
+		"description": "This creamy curry has as its main ingredient the leaves and flower buds of the Senna siamea tree (khilek in Thai).",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng khua",
+		"thai_script": "แกงคั่ว",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaeng_khua_het_fang.jpg/640px-Kaeng_khua_het_fang.jpg",
+		"region": "Central",
+		"description": "A type of Thai curry which uses a larger amount of turmeric in the paste than is usually the norm. A popular preparation is with prawns and pineapple. This particular version is called kaeng khua het fang (Thai: แกงคั่วเห็ดฟาง): with straw mushrooms.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng khua mu bai chamuang",
+		"thai_script": "แกงคั่วหมูใบชะมวง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kaeng_khua_mu_bai_chamuang.JPG/640px-Kaeng_khua_mu_bai_chamuang.JPG",
+		"region": "Central",
+		"description": "A thick central Thai curry with pork and the leaves of chamuang or Garcinia cowa, a tree related to the mangosteen.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng kradang",
+		"thai_script": "แกงกระด้าง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kaeng_kradang.jpg/640px-Kaeng_kradang.jpg",
+		"region": "North",
+		"description": "A pork curry aspic (jelly) from northern Thailand which is eaten cold.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng lueang",
+		"thai_script": "แกงเหลือง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaeng_lueang.JPG/640px-Kaeng_lueang.JPG",
+		"region": "South",
+		"description": "A sour spicy curry that does not contain coconut milk and is yellow in colour due to the use of turmeric, often with fish and vegetables, such as bamboo shoots as in the version in the photo. In southern Thailand it is called kaeng som but due to it being different from the central Thai kaeng som, it is called kaeng lueang (\"yellow curry\") elsewhere. It should not be confused with what is known as \"yellow curry\" outside of Thailand.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng matsaman",
+		"thai_script": "แกงมัสมั่น",
+		"english_name": "Massaman curry",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kaeng_matsaman_kai.JPG/640px-Kaeng_matsaman_kai.JPG",
+		"region": "South",
+		"description": "A thick, Indian style curry containing coconut milk, usually of stewed beef or, as in the image, chicken. This curry contains roasted dried spices that are rarely found in other Thai curries.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng om",
+		"thai_script": "แกงอ่อม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaeng_om_01.jpg/640px-Kaeng_om_01.jpg",
+		"region": "North",
+		"description": "A spicy Lanna \"curry\" with meat and several kinds of vegetables, and without any coconut milk. The version shown in the photo is with chicken.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng pa",
+		"thai_script": "แกงป่า",
+		"english_name": "Jungle curry",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kaeng_phak_wan.JPG/640px-Kaeng_phak_wan.JPG",
+		"region": "North",
+		"description": "Traditionally made with wild boar, most often pork or chicken is used nowadays. This curry, as most curries from northern Thailand, does not contain coconut milk.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phak bung sai pla",
+		"thai_script": "แกงผักบุ้งใส่ปลา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kaeng_phak_bung_sai_pla.jpg/640px-Kaeng_phak_bung_sai_pla.jpg",
+		"region": "North",
+		"description": "A northern Thai curry made with \"morning glory\" and fish. This particular version uses catfish.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phak kat cho kraduk mu",
+		"thai_script": "แกงผักกาดจอกระดูกหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kaeng_phak_kat_cho_kraduk_mu.jpg/640px-Kaeng_phak_kat_cho_kraduk_mu.jpg",
+		"region": "North",
+		"description": "A somewhat spicy soup/curry (kaeng) made with cabbage (phak kat cho, a variety of Brassica rapa chinensis) and pork ribs (kraduk mu). As is usual with Northern Thai \"curries\", it does not contain any coconut milk.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phak lueat",
+		"thai_script": "แกงผักเลือด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kaeng_phak_lueat.JPG/640px-Kaeng_phak_lueat.JPG",
+		"region": "North",
+		"description": "A northern Thai curry made with the leaves of the Ficus virens. This version is with pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phak siangda",
+		"thai_script": "แกงผักเซียงดา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kaeng_phak_siangda.jpg/640px-Kaeng_phak_siangda.jpg",
+		"region": "North",
+		"description": "A northern Thai curry made with the leaves of the vine Gymnema inodorum and dried fish. In this particular version, snakehead fish is used.[8]",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phak wan pa",
+		"thai_script": "แกงผักหวานป่า",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kaeng_phak_wan.JPG/640px-Kaeng_phak_wan.JPG",
+		"region": "North",
+		"description": "A Northern Thai curry made with the leaves of the woody plant Melientha suavis Pierre, glass noodles and dried fish.[9]",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phanaeng",
+		"thai_script": "แกงพะแนง",
+		"english_name": "Phanaeng curry",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Phanaeng_kai.jpg/640px-Phanaeng_kai.jpg",
+		"region": "Central",
+		"description": "A so-called dry, Indian influenced coconut curry with beef (phanaeng nuea, Thai: พะแนงเนื้อ), chicken, pork or seafood such as soft shell crab.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phet",
+		"thai_script": "แกงเผ็ด",
+		"english_name": "Red curry",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kaeng_phet_mu.jpg/640px-Kaeng_phet_mu.jpg",
+		"region": "Central",
+		"description": "A spicy red curry made with dried chillies, containing coconut milk. It can be made with different meats, seafood or tofu, in combination with (several types of) eggplant(s) and sometimes other vegetables. Fresh green peppercorns and Thai basil are often added to enhance the flavour.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng phet pet yang",
+		"thai_script": "แกงเผ็ดเป็ดย่าง",
+		"english_name": "Red curry with roast duck",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Red_roast_duck_curry.jpg/640px-Red_roast_duck_curry.jpg",
+		"region": "Central",
+		"description": "Red curry with roast duck is the quintessential mix of the Thai (red curry) and Chinese (red roast duck) cuisines. This dish often also contains grapes and/or pineapple.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng pli",
+		"thai_script": "แกงปลี",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kaeng_pli.jpg/640px-Kaeng_pli.jpg",
+		"region": "North",
+		"description": "A northern Thai curry made with chopped banana flower and pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng som",
+		"thai_script": "แกงส้ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kaeng_som_chaom_thot.jpg/640px-Kaeng_som_chaom_thot.jpg",
+		"region": "Central",
+		"description": "A hot and sour Thai curry/soup made with tamarind paste and fish (often pla chon [\"Snakehead fish\"]). Kaeng som cha-om thot (Thai: แกงส้มชะอมทอด) is a version of the dish which features deep-fried cha-om (Acacia leaves) as one of its ingredients.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng tai pla",
+		"thai_script": "แกงไตปลา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kaeng_tai_pla.JPG/640px-Kaeng_tai_pla.JPG",
+		"region": "South",
+		"description": "A thick, spicy vegetable curry made with turmeric, a sauce made from fish innards (tai pla), and shrimp paste, containing roasted fish, bamboo shoots and eggplant.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng thepho",
+		"thai_script": "แกงเทโพ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kaeng_thae_pho.jpg/640px-Kaeng_thae_pho.jpg",
+		"region": "Central",
+		"description": "One of the dishes mentioned in King Rama II's poem on Thai dishes, it is a central Thai curry originally made with the fatty belly part of the Pangasius Larnaudii (thae pho; shark catfish) but now more often belly pork is used as is the case with the version shown in the photo. The other main ingredient in this curry is phak bung Chin (Chinese water spinach).",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng tun",
+		"thai_script": "แกงตูน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kaeng_tun.jpg/640px-Kaeng_tun.jpg",
+		"region": "",
+		"description": "A northern Thai curry made with the stalks of the Colocasia gigantea and (cat)fish. Colocasia gigantea is called tun (Thai: ตูน) in the northern Thai language and khun (Thai: คูน) in standard Thai.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng yot maphrao on sai kai",
+		"thai_script": "แกงยอดมะพร้าวอ่อนใส่ไก่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kaeng_yot_maphrao_sai_kai.JPG/640px-Kaeng_yot_maphrao_sai_kai.JPG",
+		"region": "North",
+		"description": "A northern Thai curry made with \"coconut heart\" and chicken.[10] The taste of \"coconut heart\" is similar to bamboo shoots but much sweeter.",
+		"favorite": false
+	}, {
+		"thai_name": "Kaeng yuak",
+		"thai_script": "แกงหยวก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kaeng_yuak.JPG/640px-Kaeng_yuak.JPG",
+		"region": "North",
+		"description": "A northern Thai curry made with the tender core of the trunk of the banana plant.[11]",
+		"favorite": false
+	}, {
+		"thai_name": "Khua kling",
+		"thai_script": "คั่วกลิ้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Khua_kling.JPG/640px-Khua_kling.JPG",
+		"region": "South",
+		"description": "A very spicy, dry fried curry made with chopped meat (usually beef, chicken, pork or lamb) served with a large amount of shredded fresh kaffir lime leaves.",
+		"favorite": false
+	}, {
+		"thai_name": "Khua kraduk mu",
+		"thai_script": "คั่วกระดูกหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Khua_kraduk.JPG/640px-Khua_kraduk.JPG",
+		"region": "South",
+		"description": "A very spicy and, for Thai standards, \"dry\" curry with pork ribs. It is a Southern Thai speciality.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam chin kai",
+		"thai_script": "ยำจิ๊นไก่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yam_chin_kai_sai_hua_pli.jpg/640px-Yam_chin_kai_sai_hua_pli.jpg",
+		"region": "North",
+		"description": "A curry dish from Northern Thailand containing chicken. The version in the image also contains sliced banana flower.[12]",
+		"favorite": false
+	}],
+	"soups": [{
+		"thai_name": "Kai tun ya chin",
+		"thai_script": "ไก่ตุ๋นยาจีน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kai_tun_ya_chin.JPG/640px-Kai_tun_ya_chin.JPG",
+		"region": "",
+		"description": "The name literally translates to \"chicken stewed with Chinese medicine\". It contains medicinal herbs, one of them the dried fruit of the wolfberry, a.k.a. goji berries (Thai: เก๋ากี้; kaoki). The dish is of Chinese origin.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam sup",
+		"thai_script": "น้ำซุป",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nam_sup.jpg/640px-Nam_sup.jpg",
+		"region": "",
+		"description": "This is a clear broth, usually served together with khao man kai (chicken rice), khao mok (Thai biryani), khao kha mu (pork trotter simmered in soy sauce served with rice), khao na pet (red roast duck on rice), or khao mu daeng (red roast pork on rice). The broth can be made from chicken and/or pork, or it can be wholly vegetarian. The version served with duck is usually made from duck bones. It will often contain sliced hua chai thao (daikon; also known as phak kat hua in Thai) and hua chai po khem (a Chinese ingredient of dried and salted chopped turnip). Garlic, ginger, and pepper are often used as additional ingredients. It is most often garnished with fresh coriander leaves and/or spring onion.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom chuet",
+		"thai_script": "ต้มจืด\nแกงจืด",
+		"english_name": "Clear vegetable soup",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tom_jued_tahoo.jpg/640px-Tom_jued_tahoo.jpg",
+		"region": "",
+		"description": "A light vegetable, chicken or pork broth with vegetables and celery, to which minced pork, soft tofu, seaweed, glass noodles and mushroom can be added. This soup can also be called Kaeng chuet (Thai: แกงจืดวุ้นเส้น).",
+		"favorite": false
+	}, {
+		"thai_name": "Tom kha kai",
+		"thai_script": "ต้มข่าไก่",
+		"english_name": "Coconut soup with chicken",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flickr_preppybyday_4711943668--Tom_kha_gai.jpg/640px-Flickr_preppybyday_4711943668--Tom_kha_gai.jpg",
+		"region": "Central",
+		"description": "A mild to spicy soup with coconut milk, galangal (kha) and chicken. Mushrooms can be added to the chicken or substitute it.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom khlong",
+		"thai_script": "ต้มโคล้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tom_khlong.JPG/640px-Tom_khlong.JPG",
+		"region": "",
+		"description": "It is a spicy and sour soup somewhat similar to Tom yam. The sourness however does not derive from lime juice but through the use of tamarind juice. The version in the image contains fried smoked fish, tomato and mushrooms.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom mara",
+		"thai_script": "ต้มมะระ",
+		"english_name": "Bitter melon soup",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tom_mara_yat_sai_mu_sap_wunsen.jpg/640px-Tom_mara_yat_sai_mu_sap_wunsen.jpg",
+		"region": "",
+		"description": "A clear soup made with bitter melon (also known as bitter gourd; Momordica charantia) of Chinese origin. It is often stuffed with minced pork or with minced pork mixed with glass noodles as on this image. The full name of the latter version would then be tom mara yat sai mu sap wunsen.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom phak kat dong mu",
+		"thai_script": "ต้มผักกาดดองหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tom_phak_kat_dong_mu.JPG/640px-Tom_phak_kat_dong_mu.JPG",
+		"region": "",
+		"description": "A soup of boiled pickled Chinese cabbage and pork ribs. This dish is Chinese in origin.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom saep",
+		"thai_script": "ต้มแซ่บ",
+		"english_name": "Hot and sour Isan soup",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_saep.JPG/640px-Tom_saep.JPG",
+		"region": "Northeast",
+		"description": "A spicy soup made with stewed meat (usually pork, chicken or beef), roasted fresh herbs and spices, ground roasted rice, and generous amounts of lime juice and fresh herbs just before serving.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom som kraduk mu",
+		"thai_script": "ต้มส้มกระดูกหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tom_som_kraduk_mu.JPG/640px-Tom_som_kraduk_mu.JPG",
+		"region": "",
+		"description": "Tom som translates to \"sour soup\". This particular version is a basic one with only pork ribs (kraduk mu) and it derives its sourness from lime juice. Other types of tom som can also use tamarind for acidity, or a combination of both lime and tamarind, and can be made from a multitude of ingredients: meats as well as seafood, and vegetables.",
+		"favorite": false
+	}, {
+		"thai_name": "Tom yam",
+		"thai_script": "ต้มยำ",
+		"english_name": "Tom yum soup",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tom_yum.jpg/640px-Tom_yum.jpg",
+		"region": "Central",
+		"description": "A hot and sour broth made from lemon grass, galangal, kaffir lime leaves, dried chillies and lime juice, usually with prawns (Tom yam kung) or chicken (Tom yam kai).",
+		"favorite": false
+	}, {
+		"thai_name": "Tom yuea phai",
+		"thai_script": "ต้มเยื่อไผ่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tom_yuea_phai.jpg/640px-Tom_yuea_phai.jpg",
+		"region": "",
+		"description": "It is a clear broth with, amongst other ingredients, yuea phai (\"bamboo fungus\"; Phallus indusiatus)",
+		"favorite": false
+	}],
+	"salads": [{
+		"thai_name": "Koi pla",
+		"thai_script": "ก้อยปลา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Koi_pla.png/640px-Koi_pla.png",
+		"region": "Northeast",
+		"description": "Minced or finely chopped raw fish in spicy salad dressing. It is a popular raw fish dish in Isan and a common source of infection with Opisthorchis viverrini (Southeast Asian liver fluke).",
+		"favorite": false
+	}, {
+		"thai_name": "Lap Isan",
+		"thai_script": "ลาบอีสาน",
+		"english_name": "Larb",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lap_mu_isan.JPG/640px-Lap_mu_isan.JPG",
+		"region": "Northeast",
+		"description": "Northeastern style lap is a spicy and sour salad of minced raw or cooked meat (mainly pork, chicken or duck), shallots or onions, lime juice, fish sauce, chillies, ground roasted rice and mint.",
+		"favorite": false
+	}, {
+		"thai_name": "Lap Lanna",
+		"thai_script": "ลาบล้านนา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lap_khua_mu.JPG/640px-Lap_khua_mu.JPG",
+		"region": "North",
+		"description": "Northern Thai lap is completely different from lap from northeastern Thailand. Northern Thai lap is made by mixing raw or cooked minced meat (mainly pork, beef, chicken or fish) with an elaborate mix of dry spices and herbs. The northern Thai lap does not contain lime juice or fish sauce. The version in the image is lap khua, meaning that the meat has been fried.",
+		"favorite": false
+	}, {
+		"thai_name": "Lap nuea dip",
+		"thai_script": "ลาบเนื้อดิบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lap_nuea_dip.jpg/640px-Lap_nuea_dip.jpg",
+		"region": "North",
+		"description": "A northern Thai lap-style salad of sliced raw beef (the version in the image also shows slices of raw beef tripe) and ground, dried spices.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu nam tok",
+		"thai_script": "หมูน้ำตก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moo_nam_tok.jpg/640px-Moo_nam_tok.jpg",
+		"region": "Northeast",
+		"description": "A very spicy salad made with pork (mu) and somewhat identical to lap, except that the meat is cut into thin strips rather than minced.",
+		"favorite": false
+	}, {
+		"thai_name": "Naem khluk",
+		"thai_script": "แหนมคลุก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Naem_khluk_1.jpg/640px-Naem_khluk_1.jpg",
+		"region": "",
+		"description": "Naem sausage (pork fermented with sticky rice)[13] is mixed with boiled rice and then deep-fried. The salad is made by crumbling the deep-fried balls and mixing in sliced shallots, dried chillies, fish sauce and lime juice. It is served with raw vegetables and herbs.",
+		"favorite": false
+	}, {
+		"thai_name": "Nuea yang nam tok",
+		"thai_script": "เนื้อย่างน้ำตก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nuea_yang_nam_tok.jpg/640px-Nuea_yang_nam_tok.jpg",
+		"region": "Northeast",
+		"description": "With a similar \"dressing\" as larb, this dish is made with sliced grilled beef. \"Nam tok\" means \"waterfall\" in Thai and it is thought that the meat juices should run out from the meat like a waterfall.",
+		"favorite": false
+	}, {
+		"thai_name": "Phla kung",
+		"thai_script": "พล่ากุ้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phla_kung.jpg/640px-Phla_kung.jpg",
+		"region": "",
+		"description": "A spicy salad of prawns, sliced lemongrass, culantro and/or other herbs, and shallots, with a dressing of lime juice, sweet chilli paste (Nam phrik phao - optional), fish sauce, pounded garlic and bird's eye chili. The version shown in the image also contained minced pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Phla mu",
+		"thai_script": "พล่าหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Phla_mu.jpg/640px-Phla_mu.jpg",
+		"region": "",
+		"description": "A spicy salad of sliced grilled pork, sliced lemongrass, mint, culantro (optional) and shallots, with a dressing of lime juice, sweet chilli paste (Nam phrik phao - optional), fish sauce, pounded garlic and bird's eye chili.",
+		"favorite": false
+	}, {
+		"thai_name": "Phla nuea makhuea on",
+		"thai_script": "พล่าเนื้อมะเขืออ่อน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Phla_nuea_makhuea_on.jpg/640px-Phla_nuea_makhuea_on.jpg",
+		"region": "",
+		"description": "A Thai salad made with medium rare beef and Thai aubergines. The sliced, raw eggplants are mixed in with the warm beef to soften them (makhuea on means \"soft aubergine\"). This particular version of the salad was served with a nam tok-style dressing.",
+		"favorite": false
+	}, {
+		"thai_name": "Sa nuea sadung",
+		"thai_script": "ส้าเนื้อสะดุ้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sa_nuea_sadung_Lap_Lung_Noi.jpg/640px-Sa_nuea_sadung_Lap_Lung_Noi.jpg",
+		"region": "North",
+		"description": "A northern Thai speciality, made with medium rare, thinly sliced beef. Other ingredients for this dish are the elaborate phrik lap Lanna spices-and-chilli mix, onions, some broth, and fresh herbs such as kraphao (holy basil) or phak phai (Vietnamese coriander) although this particular version was made using saranae (spearmint). This particular version also contained nam phia, the partially digested contents from the first of the four stomachs of cattle, for added flavour.[14]",
+		"favorite": false
+	}, {
+		"thai_name": "Som tam khai khem",
+		"thai_script": "ส้มตำไข่เค็ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Som_tam_khai_khem.jpg/640px-Som_tam_khai_khem.jpg",
+		"region": "",
+		"description": "A variation of the standard papaya som tam with salted eggs.",
+		"favorite": false
+	}, {
+		"thai_name": "Som tam pla ra",
+		"thai_script": "ส้มตำปลาร้า",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2013_Tam_Lao.jpg/640px-2013_Tam_Lao.jpg",
+		"region": "Northeast",
+		"description": "Regarded as the original som tam, this version of green papaya salad contains pla ra (a sauce of fermented fish), and very often also brined rice paddy crabs, and makok (the fruit of the Spondias mombin) besides the usual ingredients for som tam. It does not however contain peanuts. It is also known as som tam Lao or, for short, as just tam Lao after the Lao people of Laos and of the Isan region of Thailand.",
+		"favorite": false
+	}, {
+		"thai_name": "Som tam pu",
+		"thai_script": "ส้มตำปู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Som_tam_pu.jpg/640px-Som_tam_pu.jpg",
+		"region": "",
+		"description": "Green papaya salad with brined rice paddy crabs.",
+		"favorite": false
+	}, {
+		"thai_name": "Som tam Thai",
+		"thai_script": "ส้มตำไทย",
+		"english_name": "Thai papaya salad",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Som_tam_thai.JPG/640px-Som_tam_thai.JPG",
+		"region": "Central",
+		"description": "Som tam Thai with peanuts, dried shrimp and palm sugar, is the central Thai variant of green papaya salad.",
+		"favorite": false
+	}, {
+		"thai_name": "Tam khanun",
+		"thai_script": "ตำขนุน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tam_khanun.jpg/640px-Tam_khanun.jpg",
+		"region": "North",
+		"description": "A spicy Northern Thai salad made with boiled green whole jackfruit which has been mashed with a mortar and pestle, and minced pork. It is normally eaten with sticky rice and (as seen on the image) with khaep mu (pork cracklings).",
+		"favorite": false
+	}, {
+		"thai_name": "Tam makhuea",
+		"thai_script": "ตำมะเขือ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tam_makhuea.JPG/640px-Tam_makhuea.JPG",
+		"region": "North",
+		"description": "Chopped and then pounded grilled long green eggplant (makhuea yao; Thai: มะเขือยาว), grilled green chillies, raw garlic and salt put in a banana leaf package mixed together with hard-boiled egg. It's a speciality of Northern Thailand where it is traditionally eaten with sticky rice.",
+		"favorite": false
+	}, {
+		"thai_name": "Tam mamuang",
+		"thai_script": "ตำมะม่วง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tam_mamuang_pla_haeng_thot.jpg/640px-Tam_mamuang_pla_haeng_thot.jpg",
+		"region": "",
+		"description": "A som tam style salad with tangy unripe mango \"au Julienne\" as its main ingredient. The version in the image contains pla haeng thot, deep-fried sun-dried anchovies.",
+		"favorite": false
+	}, {
+		"thai_name": "Tam maphrao on sen mi krop",
+		"thai_script": "ตำมะพร้าวอ่อนเส้นหมี่กรอบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tam_maphrao_on_sen_mi_krop_01.jpg/640px-Tam_maphrao_on_sen_mi_krop_01.jpg",
+		"region": "",
+		"description": "A som tam style salad made with the meat of a young coconut and served with crispy deep-fried thin Chinese rice noodles.",
+		"favorite": false
+	}, {
+		"thai_name": "Tam mu yo",
+		"thai_script": "ตำหมูยอ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tam_mu_yo.jpg/640px-Tam_mu_yo.jpg",
+		"region": "",
+		"description": "A spicy Thai salad made with mu yo, a Thai pork sausage which is often also described in Thailand as \"Vietnamese sausage\". The dressing is somewhat similar to that of som tam.",
+		"favorite": false
+	}, {
+		"thai_name": "Tam phonla mai ruam",
+		"thai_script": "ตำผลไม้รวม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tam_phonla_mai_ruam.jpg/640px-Tam_phonla_mai_ruam.jpg",
+		"region": "",
+		"description": "The fruits used in this particular salad show the fusion aspect of Thai cuisine, as it incorporates \"modern\" (for Thais) fruit such as apples and grapes besides traditional fruit such as pineapple and guava. The dressing is made with pounded garlic, sugar, chillies, dried shrimp, lime juice and fish sauce, and is similar to that of som tam.",
+		"favorite": false
+	}, {
+		"thai_name": "Tam som-o nam pu",
+		"thai_script": "ตำส้มโอน้ำปู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tam_som-o_nam_pu.JPG/640px-Tam_som-o_nam_pu.JPG",
+		"region": "North",
+		"description": "It is a spicy pomelo salad which uses crab extract as a flavouring. This black sauce is achieved by pounding pu na (\"ricefield crabs\", Somanniathelphusa) to a pulp, straining the juices which are then boiled and reduced until the sauce becomes as thick as molasses.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam",
+		"thai_script": "ยำ",
+		"english_name": "Thai salad",
+		"image": "",
+		"region": "",
+		"description": "A general name for many types of sour Thai salads. The main ingredient can be vegetable, fruit, meat, seafood and even noodles, which can be raw, cooked, grilled, fried or deep-fried. The basic recipe for the dressing consists of sliced shallots or onion, fish sauce, lime juice, sugar, bird's eye chillies, tomato and Chinese celery (khuen chai).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam bai cha",
+		"thai_script": "ยำใบชา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Yam_bai_cha.jpg/640px-Yam_bai_cha.jpg",
+		"region": "",
+		"description": "A spicy Thai salad made with young, fresh tea leaves.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam hu mu",
+		"thai_script": "ยำหูหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yam_hu_mu.jpg/640px-Yam_hu_mu.jpg",
+		"region": "",
+		"description": "Made with thinly sliced, boiled pig's ears, the version in the image also contained fresh mint, lime juice, shallots, lemon grass, fish sauce and sugar.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam huapli thot",
+		"thai_script": "ยำหัวปลีทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yam_huapli_thot_02.jpg/640px-Yam_huapli_thot_02.jpg",
+		"region": "",
+		"description": "A spicy Thai \"yam\"-style salad with deep-fried slices of banana blossom as its main ingredient.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam hoi khraeng",
+		"thai_script": "ยำหอยแครง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yam_hoi_khraeng.jpg/640px-Yam_hoi_khraeng.jpg",
+		"region": "",
+		"description": "A spicy Thai salad made with blood cockles.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam khai dao",
+		"thai_script": "ยำไข่ดาว",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Yam_khai_dao.JPG/640px-Yam_khai_dao.JPG",
+		"region": "",
+		"description": "A spicy Thai salad made with fried egg (khai dao).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam khamin khao kung",
+		"thai_script": "ยำขมิ้นขาวกุ้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Yam_khamin_khao_kung.jpeg/640px-Yam_khamin_khao_kung.jpeg",
+		"region": "",
+		"description": "A spicy Thai salad made with finely sliced (au Julienne) \"white curcuma\" (probably Curcuma zedoaria), shredded coconut, cooked prawns, sliced shallots, dried chillies, fresh green bird's eye chillies, roasted cashew nuts, and crispy fried onion rings.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam kun chiang",
+		"thai_script": "ยำกุนเชียง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Yam_kun_chiang.JPG/640px-Yam_kun_chiang.JPG",
+		"region": "",
+		"description": "A Thai salad made with a sweet dried pork sausage called kun chiang. This sausage is of Chinese origin. This dish is often eaten with plain rice congee (khao tom kui; Thai: ข้าวต้มกุ๊ย).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam mu krop",
+		"thai_script": "ยำหมูกรอบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Yam_mu_krop.JPG/640px-Yam_mu_krop.JPG",
+		"region": "",
+		"description": "A Thai salad made with crispy belly pork (mu krop).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam mu yo",
+		"thai_script": "ยำหมูยอ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Yam_mu_yo.jpg/640px-Yam_mu_yo.jpg",
+		"region": "",
+		"description": "A spicy yam-style Thai salad with mu yo (Vietnamese sausage).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam mu yo thot khai dao",
+		"thai_script": "ยำหมูยอทอดไข่ดาว",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Yam_mu_yo_thot_khai_dao.jpg/640px-Yam_mu_yo_thot_khai_dao.jpg",
+		"region": "",
+		"description": "A spicy Thai salad made with crispy fried mu yo (Vietnamese sausage) and khai dao (fried egg).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam naem sot",
+		"thai_script": "ยำแหนมสด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yam_naem.JPG/640px-Yam_naem.JPG",
+		"region": "",
+		"description": "A Thai salad containing sausage made from fermented raw pork and sticky rice (naem sausage).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam no mai",
+		"thai_script": "ยำหน่อไม้",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Yam_no_mai.jpg/640px-Yam_no_mai.jpg",
+		"region": "North",
+		"description": "A Northern Thai salad made with strips of boiled bamboo shoots, shallots, herbs, fish sauce, lime juice, and chillies.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam no mai sai nam pu",
+		"thai_script": "ยำหน่อไม้ใส่น้ำปู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yam_no_mai_sai_nam_pu.JPG/640px-Yam_no_mai_sai_nam_pu.JPG",
+		"region": "North",
+		"description": "A northern Thai salad made with boiled bamboo shoots and a thick paste made from the rice paddy crabs.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam nuea yang",
+		"thai_script": "ยำเนื้อย่าง",
+		"english_name": "Thai grilled beef salad",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yam_nuea_yang.jpg/640px-Yam_nuea_yang.jpg",
+		"region": "",
+		"description": "A spicy salad of grilled beef, shallots and Thai celery or spearmint.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam phak khut",
+		"thai_script": "ยำผักกูด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yam_phak_khut.jpg/640px-Yam_phak_khut.jpg",
+		"region": "",
+		"description": "A salad of edible fern shoots (Diplazium esculentum) and pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam pla duk fu",
+		"thai_script": "ยำปลาดุกฟู",
+		"english_name": "\"Exploded\" catfish salad",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yum_pladook_foo.jpg/640px-Yum_pladook_foo.jpg",
+		"region": "",
+		"description": "Crispy fried shredded pla duk (catfish) served with a spicy and tangy green mango salad.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam pla khem",
+		"thai_script": "ยำปลาเค็ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Yam_pla_khem.JPG/640px-Yam_pla_khem.JPG",
+		"region": "",
+		"description": "A Thai salad (yam) made with fried sun-dried salted fish (pla khem).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam pla thu",
+		"thai_script": "ยำปลาทู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Yam_plathu.JPG/640px-Yam_plathu.JPG",
+		"region": "",
+		"description": "Made with short mackerel (pla thu).",
+		"favorite": false
+	}, {
+		"thai_name": "Yam sanat",
+		"thai_script": "ยำสะนัด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Yam_sanat.jpg/640px-Yam_sanat.jpg",
+		"region": "North",
+		"description": "A northern Thai \"salad\" of roughly chopped, blanched vegetables that are then refried with a chilli paste. It is served here together with northern Thai pork cracklings and deep-fried, sun-dried chillies.[15]",
+		"favorite": false
+	}, {
+		"thai_name": "Yam som-o",
+		"thai_script": "ยำส้มโอ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Yam_som-o.JPG/640px-Yam_som-o.JPG",
+		"region": "",
+		"description": "A salad made with pomelo. The other ingredients are: sliced red bird's eye chillies, deep-fried sun-dried anchovies, roasted peanuts, fish sauce and tamarind juice.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam takhrai kung sot",
+		"thai_script": "ยำตะไคร้กุ้งสด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Yam_takhrai_kung_sot.jpg/640px-Yam_takhrai_kung_sot.jpg",
+		"region": "",
+		"description": "A spicy \"yam-style\" salad with finely sliced raw lemongrass and prawns.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam thale",
+		"thai_script": "ยำทะเล",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yam_thale.jpg/640px-Yam_thale.jpg",
+		"region": "",
+		"description": "A spicy salad with mixed seafood (cuttlefish, shelled prawns, mussels), shallots, lime juice, fish sauce and Thai celery.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam thua phu",
+		"thai_script": "ยำถั่วพู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yam_thua_phu.jpg/640px-Yam_thua_phu.jpg",
+		"region": "",
+		"description": "A Thai salad with winged beans, salted eggs, toasted coconut, shallots, fish sauce, lime juice and chillies. The version in this image also contains squid.",
+		"favorite": false
+	}, {
+		"thai_name": "Yam wun sen",
+		"thai_script": "ยำวุ้นเส้น",
+		"english_name": "Thai glass noodle salad",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Yam_wun_sen.JPG/640px-Yam_wun_sen.JPG",
+		"region": "",
+		"description": "A spicy salad with glass noodles (cellophane noodles), minced chicken or pork and often either mixed seafood, squid or prawns. Cloud ear fungus also often features in this dish.",
+		"favorite": false
+	}],
+	"fried_and_stir-fried_dishes": [{
+		"thai_name": "Kai phat khing",
+		"thai_script": "ไก่ผัดขิง",
+		"english_name": "Ginger fried chicken",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kai_phat_khing.jpg/640px-Kai_phat_khing.jpg",
+		"region": "Central",
+		"description": "A simple dish of fried slices of chicken with sliced ginger, soy sauce, fish sauce and chillies.",
+		"favorite": false
+	}, {
+		"thai_name": "Kai phat met mamuang himmaphan",
+		"thai_script": "ไก่ผัดเม็ดมะม่วงหิมพานต์",
+		"english_name": "Chicken with cashewnuts",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kai_phat_met_mamuang_himaphan.JPG/640px-Kai_phat_met_mamuang_himaphan.JPG",
+		"region": "Central",
+		"description": "The Thai Chinese version of the Sichuan style fried chicken with cashew nuts known as Kung Pao chicken, stir-fried with whole dried chillies.",
+		"favorite": false
+	}, {
+		"thai_name": "Khai yat sai",
+		"thai_script": "ไข่ยัดไส้",
+		"english_name": "Stuffed omelette",
+		"image": "",
+		"region": "",
+		"description": "An omelette is fried filled with various ingredients of choice (minced beef or pork, prawns, and vegetables) and then folded over.",
+		"favorite": false
+	}, {
+		"thai_name": "Khua chin som sai khai",
+		"thai_script": "คั่วจิ๊นส้มใส่ไข่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Khua_chin_som_sai_khai.JPG/640px-Khua_chin_som_sai_khai.JPG",
+		"region": "North",
+		"description": "Northern Thai pickled pork stir-fried with egg.",
+		"favorite": false
+	}, {
+		"thai_name": "Khua ho",
+		"thai_script": "คั่วห่อ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Khua_ho.JPG/640px-Khua_ho.JPG",
+		"region": "North",
+		"description": "Glass noodles are stir-fried with left-overs from other dishes. Unlike kaeng ho, this dish will not contain any left-over curry dishes. It was traditionally eaten at the end of a ceremony or festival. It is served here with pork rinds.",
+		"favorite": false
+	}, {
+		"thai_name": "Khua no mai sai mu",
+		"thai_script": "คั่วหน่อไม้ใส่หมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Khua_no_mai_sai_mu.jpg/640px-Khua_no_mai_sai_mu.jpg",
+		"region": "North",
+		"description": "Stir-fried bamboo shoots with pork. In this particular version, the pork is minced.[16]",
+		"favorite": false
+	}, {
+		"thai_name": "Kaphrao hoi lai",
+		"thai_script": "กะเพราหอยลาย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kraphao_hoi_lai.jpg/640px-Kraphao_hoi_lai.jpg",
+		"region": "",
+		"description": "Undulated surf clam stir-fried with holy basil (Ocimum tenuiflorum)",
+		"favorite": false
+	}, {
+		"thai_name": "Khai luk khoei",
+		"thai_script": "ไข่ลูกเขย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Khai_luk_khoei.jpg/640px-Khai_luk_khoei.jpg",
+		"region": "",
+		"description": "Boiled eggs are (deep-)fried until crispy on the outside, and then served sliced with a tangy sauce made from tamarind juice. The Thai name literally translates as \"son-in-law eggs\".",
+		"favorite": false
+	}, {
+		"thai_name": "Kung thot krathiam phrik thai",
+		"thai_script": "กุ้งทอดกระเทียมพริกไทย",
+		"english_name": "Deep fried prawns with garlic and pepper",
+		"image": "",
+		"region": "",
+		"description": "Prawns fried with garlic and fresh peppercorns.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu phat phrik khing",
+		"thai_script": "หมูผัดพริกขิง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mu_phat_phrik_khing.jpg/640px-Mu_phat_phrik_khing.jpg",
+		"region": "",
+		"description": "Sliced pork fried with yardlong beans and kaffir lime leaves in a sweet chilli paste. Sometimes red curry paste is used instead of the phrik khing chilli paste.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu phat sato",
+		"thai_script": "หมูผัดสะตอ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mu_phat_sato.jpg/640px-Mu_phat_sato.jpg",
+		"region": "",
+		"description": "Sliced pork stir-fried with sato (the beans of the Parkia speciosa, also known as \"stink bean\" or \"bitter bean\"), onion, garlic, fish sauce, chillies and oyster sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu phat sato phak Tai",
+		"thai_script": "หมูผัดสะตอภาคใต้",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mu_phat_sato_southern_style.jpg/640px-Mu_phat_sato_southern_style.jpg",
+		"region": "South",
+		"description": "A spicy, southern Thai, version of mu phat sato where the pork and \"stink beans\" are fried with a copious amount of chillies and chilli paste.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu wan",
+		"thai_script": "หมูหวาน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mu_wan.jpg/640px-Mu_wan.jpg",
+		"region": "South",
+		"description": "Sliced pork is simmered or fried with sugar and soy sauce until the sauce is reduced and coats the meat.",
+		"favorite": false
+	}, {
+		"thai_name": "No mai farang phat kung",
+		"thai_script": "หน่อไม้ฝรั่งผัดกุ้ง",
+		"english_name": "Asparagus stir-fried with prawns",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nor_mai_farang_phat_kung.jpg/640px-Nor_mai_farang_phat_kung.jpg",
+		"region": "",
+		"description": "Green asparagus stir-fried with prawns, garlic, sliced chillies, fish sauce and oyster sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Nuea phat bai yira",
+		"thai_script": "เนื้อผัดใบยี่หร่า",
+		"english_name": "Beef stir-fried with African basil",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Nuea_phat_bai_yira.jpg/640px-Nuea_phat_bai_yira.jpg",
+		"region": "",
+		"description": "Besides beef and basil, other ingredients are garlic, chillies, light soya sauce and fish sauce. African basil leaves have a slight anise taste.",
+		"favorite": false
+	}, {
+		"thai_name": "Phak bung fai daeng",
+		"thai_script": "ผักบุ้งไฟแดง",
+		"english_name": "Fried morning-glory",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pak_boong_fai_daeng.jpg/640px-Pak_boong_fai_daeng.jpg",
+		"region": "",
+		"description": "Morning-glory (a.k.a. water spinach) stir fried with yellow bean sauce, garlic and chillies. It is a very popular vegetable dish in Thailand.",
+		"favorite": false
+	}, {
+		"thai_name": "Phak khana nam man hoi",
+		"thai_script": "ผักคะน้าน้ำมันหอย",
+		"english_name": "Chinese kale stir-fried with oyster sauce",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Phak_kana_nam_man_hoi.jpg/640px-Phak_kana_nam_man_hoi.jpg",
+		"region": "",
+		"description": "Originally a Chinese dish, it has been adapted to Thai taste by adding fish sauce to the recipe, and by omitting the ginger. Here with fried shiitake mushroom.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat buap",
+		"thai_script": "ผัดบวบ",
+		"english_name": "Stir-fried Luffa",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Phat_buap.jpg/640px-Phat_buap.jpg",
+		"region": "",
+		"description": "Stir-fried luffa (sponge gourd) with pork/shrimp and egg or just egg.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat dok hom",
+		"thai_script": "ผัดดอกหอม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Phat_dok_hom.jpg/640px-Phat_dok_hom.jpg",
+		"region": "",
+		"description": "Stir-fried onion flowers with pork and pork liver.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat khana mu krop",
+		"thai_script": "ผัดคะน้าหมูกรอบ",
+		"english_name": "Fried kale with crispy pork",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Phat_khana_mu_krop.jpg/640px-Phat_khana_mu_krop.jpg",
+		"region": "Central",
+		"description": "Khana (gailan or Chinese kale) is stir fried with crispy pork (mu krop), garlic, oyster sauce, soy sauce, pepper and (optionally) sliced chillies.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat khanaeng mu",
+		"thai_script": "ผัดแขนงหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Phat_khanaeng_mu.jpg/640px-Phat_khanaeng_mu.jpg",
+		"region": "",
+		"description": "Stir-fried khanaeng with pork, garlic, oyster sauce, fish sauce and white pepper. Khanaeng are the sprouts of Chinese broccoli and grow from the root after the main stem has been harvested. The taste is in between Brussels sprouts and kale, and very sweet.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat kaphrao",
+		"thai_script": "ผัดกะเพรา",
+		"english_name": "Fried with holy basil",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kraphao_moo.jpg/640px-Kraphao_moo.jpg",
+		"region": "",
+		"description": "Minced beef, pork, chicken or whole prawns stir fried with Thai holy basil, chillies, garlic and soya sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat naem sai khai",
+		"thai_script": "ผัดแหนมไส่ไข่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Phat_naem_sai_khai.jpg/640px-Phat_naem_sai_khai.jpg",
+		"region": "",
+		"description": "Naem sausage (made from fermented raw pork skin and sticky rice) stir fried with egg.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat no mai sai khai",
+		"thai_script": "ผัดหน่อไม้ใส่ไข่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Phat_no_mai_sai_khai.jpg/640px-Phat_no_mai_sai_khai.jpg",
+		"region": "",
+		"description": "Stir-fried bamboo shoots and egg.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat phak khom",
+		"thai_script": "ผัดผักโขม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Phat_phak_khom.jpg/640px-Phat_phak_khom.jpg",
+		"region": "",
+		"description": "Thai spinach (Amaranthus spinosus; Thai name: Phak khom nam; Thai script: ผักโขมหนาม) is often stir-fried with minced pork and egg.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat phak ruam",
+		"thai_script": "ผัดผักรวม",
+		"english_name": "Stir fried mixed vegetables",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2008-06-14ThaiRestaurant03.jpg/640px-2008-06-14ThaiRestaurant03.jpg",
+		"region": "",
+		"description": "Stir fried combination of vegetables depending on availability and preference. Usually fried with oyster sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat phrik",
+		"thai_script": "ผัดพริก",
+		"english_name": "Fried with chillies",
+		"image": "",
+		"region": "",
+		"description": "Stir fried meat (usually beef) or seafood with chillies, garlic and ginger.",
+		"favorite": false
+	}, {
+		"thai_name": "Phat yot fak maeo",
+		"thai_script": "ผัดยอดฟักแม้ว",
+		"english_name": "Stir-fried mountain melon greens",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2013_Phat_sayongte.jpg/640px-2013_Phat_sayongte.jpg",
+		"region": "",
+		"description": "Yot sayongte, which is also known in Thailand as yot fak meao (yot meaning \"shoots\"), are the young vines and leaves of a certain type of melon (chayote, originally from Central America) which in Thailand grows mainly in the mountains up north. These greens have a very sweet taste and combine extremely well with oyster sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Phunim phat phong kari",
+		"thai_script": "ปูนิ่มผัดผงกะหรี่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phunim_phat_pong_kari.jpg/640px-Phunim_phat_pong_kari.jpg",
+		"region": "",
+		"description": "Deep-fried pieces of soft-shell crab which have been stir-fried with egg and curry powder.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla duk phat phet",
+		"thai_script": "ปลาดุกผัดเผ็ด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pla_duk_phat_phet.jpg/640px-Pla_duk_phat_phet.jpg",
+		"region": "",
+		"description": "Slices of catfish (most often pre-fried) are stir-fried in a sauce made with red curry paste. Pea eggplant feature in this dish for added taste and texture.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla kaphong phat khuen chai",
+		"thai_script": "ปลากะพงผัดขึ้นฉ่าย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pla_kaphong_phat_khuen_chai.jpg/640px-Pla_kaphong_phat_khuen_chai.jpg",
+		"region": "",
+		"description": "Barramundi (often called \"sea bass\" in Thailand) stir-fried with Chinese celery, light soy sauce, garlic, ginger and fermented soy beans.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla muek phat phrik phao",
+		"thai_script": "ปลาหมึกผัดพริกเผา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pla_muek_phat_phrik_phao.JPG/640px-Pla_muek_phat_phrik_phao.JPG",
+		"region": "",
+		"description": "Squid stir-fried with sweet and mild chilli paste (nam phrik phao), onion, garlic, spring onion and sliced large red chillies. Paprika can be used instead of chillies if a milder version is preferred.",
+		"favorite": false
+	}, {
+		"thai_name": "Tap kai phat phrik sot",
+		"thai_script": "ตับไก่ผัดพริกสด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tap_kai_phat_phrik_sot.jpg/640px-Tap_kai_phat_phrik_sot.jpg",
+		"region": "",
+		"description": "Chicken liver fried with young (mainly green) chillies, light soy sauce, oyster sauce, onion, spring onion, black pepper, and garlic. Here it is served with rice and a fried egg (khai dao).",
+		"favorite": false
+	}, {
+		"thai_name": "Thua ngok pla khem",
+		"thai_script": "ถั่วงอกปลาเค็ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Thua_ngok_pla_khem.jpg/640px-Thua_ngok_pla_khem.jpg",
+		"region": "",
+		"description": "A stir-fried dish of mung bean sprouts, salted fish, chillies and garlic.",
+		"favorite": false
+	}],
+	"deep-fried_dishes": [{
+		"thai_name": "Kai ho bai toei",
+		"thai_script": "ไก่ห่อใบเตย",
+		"english_name": "Chicken wrapped in pandan leaves",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kai_ho_bai_toei.jpg/640px-Kai_ho_bai_toei.jpg",
+		"region": "Central",
+		"description": "Pieces of marinated chicken are wrapped in fragrant pandan leaves and then deep fried.",
+		"favorite": false
+	}, {
+		"thai_name": "Kai thot takhrai",
+		"thai_script": "ไก่ทอดตะไคร้",
+		"english_name": "Deep fried chicken and lemongrass",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kai_thot_takhrai.jpg/640px-Kai_thot_takhrai.jpg",
+		"region": "",
+		"description": "Pieces of chicken are deep fried together with finely chopped or shredded lemongrass, and served with a sweet chilli sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Kai thot",
+		"thai_script": "ไก่ทอด",
+		"english_name": "Deep-fried chicken",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kai_thot_krueng_thae.JPG/640px-Kai_thot_krueng_thae.JPG",
+		"region": "",
+		"description": "The version of kai thot as shown in the image is made in the Southern Thai manner, having been marinated with khamin (turmeric) and served with krueng thae (crispy fried chopped garlic and turmeric) as a topping.",
+		"favorite": false
+	}, {
+		"thai_name": "Khaep mu",
+		"thai_script": "แคบหฺมู",
+		"english_name": "Pork cracklings",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Khaep_mu.jpg/640px-Khaep_mu.jpg",
+		"region": "",
+		"description": "Deep fried pork skin. Khaep mu eaten with nam phrik num (grilled green chilli dip) from Chiang Mai is renowned in the whole of Thailand.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu krop",
+		"thai_script": "หมูกรอบ",
+		"english_name": "Crispy pork",
+		"image": "",
+		"region": "",
+		"description": "Cooked belly pork is first marinated and then deep fried until crispy. Often used sliced in vegetables stir fries.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu thot krathiam",
+		"thai_script": "หมูทอดกระเทียม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mu_thot_krathiam.jpg/640px-Mu_thot_krathiam.jpg",
+		"region": "",
+		"description": "Deep-fried pork and garlic",
+		"favorite": false
+	}, {
+		"thai_name": "Nang kai thot",
+		"thai_script": "หนังไก่ทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nang_kai_thot.JPG/640px-Nang_kai_thot.JPG",
+		"region": "",
+		"description": "Crispy, deep-fried chicken skin. It can be eaten as a snack or together with chilli pastes or salads.",
+		"favorite": false
+	}, {
+		"thai_name": "No yat sai thot",
+		"thai_script": "หน่อยัดไส้ทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/No_yat_sai_thot_01.jpg/640px-No_yat_sai_thot_01.jpg",
+		"region": "North",
+		"description": "A northern Thai speciality of deep-fried bamboo shoots with a filling of minced pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Pik kai sot sai thot",
+		"thai_script": "ปีกไก่สอดไส้ทอด",
+		"english_name": "Stuffed chicken wings",
+		"image": "",
+		"region": "",
+		"description": "Deep fried, partially de-boned chicken wings, stuffed usually with minced pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla buang",
+		"thai_script": "ปลาบ้วง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2013_Pla_buang.jpg/640px-2013_Pla_buang.jpg",
+		"region": "North",
+		"description": "Cuts of Giant snakehead fish (pla chado) are first salted and sun-dried for three days, and then deep-fried. This dish is somewhat similar to pla chado daet diao from central Thailand but there the fish is only dried for only one day, making the taste less intense.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla krai thot krathiam",
+		"thai_script": "ปลากรายทอดกระเทียม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pla_krai_thot.JPG/640px-Pla_krai_thot.JPG",
+		"region": "",
+		"description": "Deep-fried pla krai (\"Clown Knifefish\") and garlic. It is served with a spicy dipping sauce on the side made from coriander root, lime juice, fresh bird's eye chillies, garlic, sugar and fish sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla nin thot samun phrai",
+		"thai_script": "ปลานิลทอดสมุนไพร",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pla_nin_thot_samun_prai.jpg/640px-Pla_nin_thot_samun_prai.jpg",
+		"region": "",
+		"description": "Deep-fried pla nin (\"Nile Tilipia\") served with deep-fried herbs such as lemongrass, kaffir lime leaves, garlic, and fingerroot (Boesenbergia rotunda). A chilli-lime dip is served on the side as a condiment.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla sam rot",
+		"thai_script": "ปลาสามรส",
+		"english_name": "Three flavours fish",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pla_tub_tim_tod_samrod.jpg/640px-Pla_tub_tim_tod_samrod.jpg",
+		"region": "Central",
+		"description": "Deep fried fish with a sweet, tangy and spicy tamarind sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla thot",
+		"thai_script": "ปลาทอด",
+		"english_name": "Deep-fried fish",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pla_nin_thot.jpg/640px-Pla_nin_thot.jpg",
+		"region": "",
+		"description": "A simple deep-fried fish, most often served with a spicy dipping sauce. The fish in this image is pla nin, a Nile Tilapia.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla thot khamin",
+		"thai_script": "ปลาทอดขมิ้น",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pla_sai_daeng_thot.jpg/640px-Pla_sai_daeng_thot.jpg",
+		"region": "South",
+		"description": "Typical for southern Thai cuisine, this deep-fried fish has first been marinated in a spice mixture which includes a large amount of turmeric (khamin). In addition, this particular version was topped with crispy deep-fried chopped garlic and turmeric. It is often served with raw vegetables on the side, and a spicy dipping sauce.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla wong thot",
+		"thai_script": "ปลาวงทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pla_wong_thot.jpg/640px-Pla_wong_thot.jpg",
+		"region": "",
+		"description": "Deep-fried pla wong (literally meaning \"circle fish\"): fish which have first been cut open, arranged into a circle and then sun-dried. Here it is served Southern Thai style with a spoonful of a deep-fried mix of minced garlic, galangal, and turmeric.",
+		"favorite": false
+	}, {
+		"thai_name": "Pu cha",
+		"thai_script": "ปูจ๋า",
+		"english_name": "Crab cakes",
+		"image": "",
+		"region": "",
+		"description": "A mixture of cooked crab meat, pork, garlic and pepper, deep fried inside the crab shells and usually served with nam chim buoy (Thai: น้ำจิ้มบ๋วย, plum sauce). Instead of being fried in the crab shell it is also sometimes served as patties.",
+		"favorite": false
+	}, {
+		"thai_name": "Sai mu thot",
+		"thai_script": "ไส้หมูทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sai_mu_thot.JPG/640px-Sai_mu_thot.JPG",
+		"region": "",
+		"description": "Deep-fried pork intestines",
+		"favorite": false
+	}, {
+		"thai_name": "Si khrong mu thot",
+		"thai_script": "ซี่โครงหมูทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Si_khrong_mu_thot.JPG/640px-Si_khrong_mu_thot.JPG",
+		"region": "",
+		"description": "Deep-fried pork ribs. The version in the image however, had first been boiled, then marinated, then deep-fried with garlic, and then again stir-fried with a sweet and tangy tamarind sauce just before serving.",
+		"favorite": false
+	}],
+	"grilled_dishes": [{
+		"thai_name": "Aep mu",
+		"thai_script": "แอ็บหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aep_mu.JPG/640px-Aep_mu.JPG",
+		"region": "North",
+		"description": "A Northern Thai \"soufflé\" of egg, minced pork, herbs and curry paste that is slowly grilled inside a banana leaf wrapper over a charcoal fire.[17]",
+		"favorite": false
+	}, {
+		"thai_name": "Aep ong-o",
+		"thai_script": "แอ็บอ่องออ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aep_ong-o.jpg/640px-Aep_ong-o.jpg",
+		"region": "North",
+		"description": "Roughly chopped pig's brain mixed with egg and curry paste are grilled over a low fire, wrapped inside banana leaves [18]",
+		"favorite": false
+	}, {
+		"thai_name": "Aep pla noi",
+		"thai_script": "แอ็บปลาน้อย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aep_pla_noi.jpg/640px-Aep_pla_noi.jpg",
+		"region": "North",
+		"description": "Freshwater small fry and brine shrimp are mixed with curry paste and then grilled over a low fire wrapped inside banana leaves",
+		"favorite": false
+	}, {
+		"thai_name": "Chin som mok",
+		"thai_script": "จิ๊นส้มหมก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chin_som_mok.JPG/640px-Chin_som_mok.JPG",
+		"region": "North",
+		"description": "Chin som is the northern Thai version of the pickled pork sausage called naem. In chin som mok (lit. \"covered chin som\") the pickled pork is grilled inside a banana leaf before serving.",
+		"favorite": false
+	}, {
+		"thai_name": "Kai yang",
+		"thai_script": "ไก่ย่าง",
+		"english_name": "Grilled chicken",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kai_yang_CM.jpg/640px-Kai_yang_CM.jpg",
+		"region": "Northeast",
+		"description": "Grilled marinated chicken, usually eaten together with Som tam (papaya salad).",
+		"favorite": false
+	}, {
+		"thai_name": "Kho mu yang kratha ron",
+		"thai_script": "คอหมูย่างกระทะร้อน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kho_mu_yang_kratha_ron.jpg/640px-Kho_mu_yang_kratha_ron.jpg",
+		"region": "",
+		"description": "Kho mu yang kratha ron literally translates to \"pork neck grilled on a hot skillet\".",
+		"favorite": false
+	}, {
+		"thai_name": "Kung yang/kung phao",
+		"thai_script": "กุ้งย่าง/กุ้งเผา",
+		"english_name": "Grilled prawns",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kung_yang.JPG/640px-Kung_yang.JPG",
+		"region": "",
+		"description": "Grilled prawns are normally served with a nam chim, a spicy dipping sauce, made with mashed raw garlic and green bird's eye chillies, sugar, fish sauce and lime juice.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu manao",
+		"thai_script": "หมูมะนาว",
+		"english_name": "Pork with lime juice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mu_manao.JPG/640px-Mu_manao.JPG",
+		"region": "",
+		"description": "Sliced grilled pork with a dressing (nam chim) of mashed garlic, green bird's eye chillies, sugar, fish sauce and lime juice. Here it is served with additional sliced bird's eye chillies and raw garlic on a bed of ice-water chilled sliced raw phak khana (Chinese broccoli)",
+		"favorite": false
+	}, {
+		"thai_name": "Mu yang",
+		"thai_script": "หมูย่าง",
+		"english_name": "Isan grilled pork",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Huay_Kaew_waterfall_mu_yang.jpg/640px-Huay_Kaew_waterfall_mu_yang.jpg",
+		"region": "Northeast",
+		"description": "Originally from the Isan region of Thailand, the fatty parts of belly pork, together with the skin, are preferred over lean meat. It is served with nam chim chaeo, a spicy dipping sauce made with dried chillies and roasted, then pounded, sticky rice.",
+		"favorite": false
+	}, {
+		"thai_name": "Nuea ping",
+		"thai_script": "เนื้อปิ้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nuea_ping.jpg/640px-Nuea_ping.jpg",
+		"region": "",
+		"description": "Marinated and barbecued beef.",
+		"favorite": false
+	}, {
+		"thai_name": "Pam khai mot",
+		"thai_script": "ป่ามไข่มด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pam_khai_mot.jpg/640px-Pam_khai_mot.jpg",
+		"region": "North[19]",
+		"description": "Grilled banana leaf cups containing a mixture of ant eggs, chicken eggs and some salt. After grilling the dish is sprinkled with chopped spring onion and pepper. The ant eggs make the dish much more creamy. It can also be eaten as a snack.",
+		"favorite": false
+	}, {
+		"thai_name": "Sai krok Isan",
+		"thai_script": "ไส้กรอกอีสาน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sai_krok_Isan_yai.jpg/640px-Sai_krok_Isan_yai.jpg",
+		"region": "Northeast",
+		"description": "Grilled, fermented pork and sticky rice sausage, originally from the Isan region of Thailand. It can be shaped like a sausage as in the image, or as round balls.[20] It is also often eaten as a snack at festivals and fairs, and served together with sliced ginger, bird's eye chillies and raw cabbage.",
+		"favorite": false
+	}, {
+		"thai_name": "Sai mu ping",
+		"thai_script": "ไส้หมูปิ้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sai_mu_ping.jpg/640px-Sai_mu_ping.jpg",
+		"region": "",
+		"description": "Marinated and barbecued pork intestines",
+		"favorite": false
+	}, {
+		"thai_name": "Sai ua",
+		"thai_script": "ไส้อั่ว",
+		"english_name": "\"Chiang mai sausage\"",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sai_ua_CR.jpg/640px-Sai_ua_CR.jpg",
+		"region": "North",
+		"description": "A grilled sausage of ground pork mixed with spices and herbs,[21] and which is often served with chopped fresh ginger and chillies at a meal.",
+		"favorite": false
+	}, {
+		"thai_name": "Suea rong hai",
+		"thai_script": "เสือร้องไห้",
+		"english_name": "Weeping tiger beef",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Suea_rong_hai.jpg/640px-Suea_rong_hai.jpg",
+		"region": "Northeast",
+		"description": "Suea rong hai literally means \"weeping tiger\". It is grilled marinated beef which is eaten with vegetables and Nam chim chaeo dipping sauce.",
+		"favorite": false
+	}],
+	"steamed_or_blanched_dishes": [{
+		"thai_name": "Bai po",
+		"thai_script": "ใบปอ",
+		"english_name": "Jute leaves",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bai_po.JPG/640px-Bai_po.JPG",
+		"region": "",
+		"description": "Eaten blanched as a dish with khao tom kui (plain rice congee), the taste is similar to that of spinach or samphire",
+		"favorite": false
+	}, {
+		"thai_name": "Ho mok pla",
+		"thai_script": "ห่อหมกปลา",
+		"english_name": "Fish curry pâté",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thai_style_Otah.JPG/640px-Thai_style_Otah.JPG",
+		"region": "Central",
+		"description": "A Thai curry \"pâté\" or \"soufflé\" of fish, spices, coconut milk and egg, steamed in a banana leaf cup and topped with thick coconut cream before serving.",
+		"favorite": false
+	}, {
+		"thai_name": "Ho mok maphrao on",
+		"thai_script": "ห่อหมกมะพร้าวอ่อน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ho_mok_thale.jpg/640px-Ho_mok_thale.jpg",
+		"region": "",
+		"description": "A Thai curry \"pâté\" or \"soufflé\" of mixed seafood and the soft meat of a young coconut, here served inside a coconut.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla nueng manao",
+		"thai_script": "ปลานึ่งมะนาว",
+		"english_name": "Steamed fish with lime juice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Thai_steamed_fish_with_lime_juice-2.jpg/640px-Thai_steamed_fish_with_lime_juice-2.jpg",
+		"region": "Central",
+		"description": "Steamed fish which is drenched in a spicy garlic, chilli, chicken stock and lime juice dressing.[22]",
+		"favorite": false
+	}],
+	"stewed_dishes": [{
+		"thai_name": "Khai phalo",
+		"thai_script": "ไข่พะโล้",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mu_phalo.JPG/640px-Mu_phalo.JPG",
+		"region": "",
+		"description": "Egg stewed with meat in soy sauce, garlic, ginger and phong phalo (Thai: ผงพะโล้; five-spice powder). Meats used in khai phalo tend to be pork (belly or trotter) or chicken wings. Other ingredients, such as mushrooms and fried tofu, can also be incorporated. The dish is of Chinese origin.[23] Similar dishes are mu phalo and kha mu phalo (using only pork, and ham hocks), kai phalo (chicken) and pet phalo (duck).",
+		"favorite": false
+	}],
+	"dipping_sauces_and_pastes": [{
+		"thai_name": "Nam chim chaeo",
+		"thai_script": "น้ำจิ้มแจ่ว",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nam_chim_chaeo_2.jpg/640px-Nam_chim_chaeo_2.jpg",
+		"region": "Northeast",
+		"description": "It is a sticky, sweet and spicy dipping sauce made with dried chillies, fish sauce, palm sugar, lime juice and coarsely ground roasted sticky rice. Often served as a dip with mu yang (grilled pork).",
+		"favorite": false
+	}, {
+		"thai_name": "Nam chim kai",
+		"thai_script": "น้ำจิ้มไก่",
+		"english_name": "Chicken chilli sauce",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sweet_chilli_sauce.jpg/640px-Sweet_chilli_sauce.jpg",
+		"region": "",
+		"description": "A very common all-round chilli dipping sauce with the consistency of a thick syrup, it is medium spicy and very sweet. Often used as a dipping sauce for grilled chicken (kai means \"chicken\"), it can also be used as a generic chilli sauce for other dishes. It forms the base of a few other types of nam chim, such as nam chim thot man pla (\"dipping sauce for deep-fried fish cakes\").",
+		"favorite": false
+	}, {
+		"thai_name": "Nam chim paesa",
+		"thai_script": "น้ำจิ้มแป๊ะซะ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nam_Chim_Paesa_-_Thai_dip.jpg/640px-Nam_Chim_Paesa_-_Thai_dip.jpg",
+		"region": "Northeast",
+		"description": "A spicy dipping sauce eaten with steamed fish wrapped in raw lettuce or cabbage.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam chim sate",
+		"thai_script": "น้ำจิ้มสะเต๊ะ",
+		"english_name": "Peanut sauce",
+		"image": "",
+		"region": "",
+		"description": "A peanut sauce which is normally served with satay.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam pla phrik",
+		"thai_script": "น้ำปลาพริก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Phrik_nam_pla.jpg/640px-Phrik_nam_pla.jpg",
+		"region": "",
+		"description": "Colloquially called phrik nam pla, it is a standard sauce served with every Thai buffet style meal, fried rice or fried noodles, and used as a kind of \"salt\". It is made by mixing fish sauce with some lime juice, chopped bird's eye chillies and often also sliced garlic.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik i-ke",
+		"thai_script": "น้ำพริกอีเก๋",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nam_phrik_i-ke.jpg/640px-Nam_phrik_i-ke.jpg",
+		"region": "North",
+		"description": "A northern Thai chilli paste made with chillies, sliced aubergine, pork rinds, and fermented shrimp paste.[24]",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik kapi",
+		"thai_script": "น้ำพริกกะปิ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nam_phrik_kapi_2.jpg/640px-Nam_phrik_kapi_2.jpg",
+		"region": "",
+		"description": "A pungent chilli dip made with shrimp paste, pounded dried shrimp, bird's eye chillies, garlic, lime juice, fish sauce, (palm) sugar and, optionally, pea sized aubergines; most often eaten as part of the dish called Nam phrik pla thu.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik kha",
+		"thai_script": "น้ำพริกข่า",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nam_phrik_kha.JPG/640px-Nam_phrik_kha.JPG",
+		"region": "North",
+		"description": "A Northern Thai fried chilli paste containing galangal (kha). It is often eaten, as seen here, with steamed het nang fa (Thai script: เห็ดนางฟ้า; lit. \"fairy mushroom\"; Pleurotus pulmonarius).",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik khaep mu",
+		"thai_script": "น้ำพริกแคบหมู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nam_phrik_kaep_mu.jpg/640px-Nam_phrik_kaep_mu.jpg",
+		"region": "North",
+		"description": "A northern Thai chilli paste of mashed grilled green chillies, deep-fried pork rinds, fresh garlic and salt.[25]",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik long ruea",
+		"thai_script": "น้ำพริกลงเรือ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nam_phrik_long_ruea.jpg/640px-Nam_phrik_long_ruea.jpg",
+		"region": "Central",
+		"description": "The name means \"chilli paste for in a boat\" as it was often eaten while travelling the rivers of Thailand by boat. A sweet, savoury and spicy chilli dip, it is served together with fresh vegetables, salted egg and sweet pork. This version also included khamin khao (\"white curcuma\") and the slightly sour and bitter leaves of makok (Spondias mombin)",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik num",
+		"thai_script": "น้ำพริกหนุ่ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nam_phrik_num.jpg/640px-Nam_phrik_num.jpg",
+		"region": "North",
+		"description": "A paste of pounded roasted large green chillies, roasted shallots, roasted garlic, coriander leaves, lime juice and fish sauce; eaten with steamed and raw vegetables, khaep mu (crispy pork rind) and sticky rice.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik ong",
+		"thai_script": "น้ำพริกอ่อง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Nam_phrik_ong_02.jpg/640px-Nam_phrik_ong_02.jpg",
+		"region": "North",
+		"description": "Resembling a thick Bolognese sauce, it is made with dried chillies, minced pork and tomato; eaten with steamed and raw vegetables, and sticky rice.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik phao",
+		"thai_script": "น้ำพริกเผา",
+		"english_name": "Chilli jam",
+		"image": "",
+		"region": "",
+		"description": "A sweet roasted chilli paste, often used as an ingredient in Tom yam or when frying meat or seafood, and also popular as a spicy \"jam\" on bread or toast.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phrik pla chi",
+		"thai_script": "น้ำพริกปลาจี่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nam_phrik_pla_chi.jpg/640px-Nam_phrik_pla_chi.jpg",
+		"region": "North",
+		"description": "A chilli paste made with grilled fish, roasted chillies, roasted shallots and roasted garlic, lemongrass and shrimp paste. It's normally served with both steamed and raw vegetables and/or other leaves.[26]",
+		"favorite": false
+	}, {
+		"thai_name": "Pu ong or ong pu",
+		"thai_script": "ปูอ่อง or อ่องปู",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pu_ong.jpg/640px-Pu_ong.jpg",
+		"region": "North",
+		"description": "A northern Thai speciality that is eaten as a pungent dipping sauce for sticky rice. It is made by collecting the \"fat\" of rice field crabs (Parathelphusidae) and grilling this inside the crab shell.[27]",
+		"favorite": false
+	}, {
+		"thai_name": "Sot Siracha",
+		"thai_script": "ซอสศรีราชา",
+		"english_name": "Sriracha sauce",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Siracha_sauce.jpg/640px-Siracha_sauce.jpg",
+		"region": "",
+		"description": "It is a hot sauce made from sun-ripened chilli peppers, vinegar, garlic, sugar and salt. It is commonly known in Thailand as sot Siracha (sot is the Thai pronunciation of the English word \"sauce\"), but also as nam chim Siracha or nam phrik Siracha. The name is derived from the seaside town of Si Racha.",
+		"favorite": false
+	}],
+	"savoury_snacks_and_starters": [{
+		"thai_name": "Chingrit thot",
+		"thai_script": "จิ้งหรีดทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chingrit_thot.jpg/640px-Chingrit_thot.jpg",
+		"region": "",
+		"description": "Deep-fried crickets, either Gryllus bimaculatus or, as shown in the image, Acheta domesticus. This dish is often eaten as a snack to go with drinks.",
+		"favorite": false
+	}, {
+		"thai_name": "Kai rom khwan",
+		"thai_script": "ไก่รมควัน",
+		"english_name": "Smoked chicken",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kai_rom_khwan.jpg/640px-Kai_rom_khwan.jpg",
+		"region": "",
+		"description": "Smoked chicken is often eaten as a snack to go with drinks.",
+		"favorite": false
+	}, {
+		"thai_name": "Karipap",
+		"thai_script": "กะหรี่ปั๊บ",
+		"english_name": "Curry puff",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Karipap_Chiang_Mai.jpg/640px-Karipap_Chiang_Mai.jpg",
+		"region": "",
+		"description": "Deep-fried pastry shells usually containing a chicken meat and potato curry.",
+		"favorite": false
+	}, {
+		"thai_name": "Khaep mu",
+		"thai_script": "แคบหมู",
+		"english_name": "Crispy pork rind",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Khaep_mu.jpg/640px-Khaep_mu.jpg",
+		"region": "North",
+		"description": "Deep fried crispy pork rinds, often eaten with nam phrik num and other northern Thai dips",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom chip",
+		"thai_script": "ขนมจีบ",
+		"english_name": "Siu mai",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Khanom_chip.jpg/640px-Khanom_chip.jpg",
+		"region": "",
+		"description": "The Thai version of the Chinese steamed dumplings called siu mai in Cantonese. The colour indicates the filling: the green dumplings contain a mix of minced pork and crab meat, the others have a filling of only minced pork.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom kuichai",
+		"thai_script": "ขนมกุยช่าย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Khanom_kuichai.jpg/640px-Khanom_kuichai.jpg",
+		"region": "",
+		"description": "Originally a dish of the Teochew people called \"gu chai gue\" (Chinese script: 韭菜馃) in the Teochew language, these are steamed dumplings made from rice powder and a filling of garlic chives. The dipping sauce for this dish is soy sauce which often is spiced with dried chilli flakes. This particular version was fried to give it a crispy texture.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom Tokiao",
+		"thai_script": "ขนมโตเกียว",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Khanom_Tokiao.jpg/640px-Khanom_Tokiao.jpg",
+		"region": "",
+		"description": "Literally translated it means \"Tokyo cake\", it is a Thai style crêpe wrapped around a hot dog and sweet chilli sauce. The chilli sauce can also be served on the side as a dip. Other versions of khanom Tokiao use yam or sweet condensed milk as a filling.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phan nga muan",
+		"thai_script": "ข้าวพันงาม้วน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Khao_phan_nga_muan.jpg/640px-Khao_phan_nga_muan.jpg",
+		"region": "North",
+		"description": "Rolled khao phan with sesame seeds. Khao phan is a speciality from northern Laos which in Thailand is only found in Uttaradit province. Rice flour is mixed with water and let to ferment overnight. The resulting batter is then spread out thinly over a cloth stretched out over a steamer, covered with a hood and let to steam for a few minutes. Rolled up it is served with a chilli dip.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao phan phak",
+		"thai_script": "ข้าวพันผัก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Khao_phan_phak.jpg/640px-Khao_phan_phak.jpg",
+		"region": "North",
+		"description": "Khao phan are thin, steamed rice sheets made from the fermented batter of rice flour mixed with water. Here served as a wrap for stir-fried vegetables.",
+		"favorite": false
+	}, {
+		"thai_name": "Luk chin ping",
+		"thai_script": "ลูกชิ้นปิ้ง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Grilled_pork_and_beef_balls.jpg/640px-Grilled_pork_and_beef_balls.jpg",
+		"region": "",
+		"description": "Meatballs made from fish, pork, beef or chicken are grilled on a stick and served with a spicy and tangy dipping sauce. The ones shown on the image are made with pork and beef. It is commonly sold from street stalls in Thailand.",
+		"favorite": false
+	}, {
+		"thai_name": "Mamuang nam pla wan",
+		"thai_script": "มะม่วงน้ำปลาหวาน",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mamuang_nam_pla_wan.jpg/640px-Mamuang_nam_pla_wan.jpg",
+		"region": "",
+		"description": "Tart, unripe mango served with a sweet, salty and spicy dipping sauce made from shallots, fish sauce, dried chillies, dried shrimp, and palm sugar (nam pla wan means \"sweet fish sauce\"). This is normally eaten as a snack on its own.",
+		"favorite": false
+	}, {
+		"thai_name": "Miang kham",
+		"thai_script": "เมี่ยงคำ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Miang_kam_ready.JPG/640px-Miang_kam_ready.JPG",
+		"region": "",
+		"description": "Dried shrimp and other ingredients wrapped in cha phlu (Thai: ช้าพลู) leaves.",
+		"favorite": false
+	}, {
+		"thai_name": "Miang pla",
+		"thai_script": "เมี่ยงปลา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Miang_pla.jpg/640px-Miang_pla.jpg",
+		"region": "",
+		"description": "Similar to Miang kham, the main ingredient for this wrap is deep-fried fish.",
+		"favorite": false
+	}, {
+		"thai_name": "Mu daet diao",
+		"thai_script": "หมูแดดเดียว",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mu_daet_diao.jpg/640px-Mu_daet_diao.jpg",
+		"region": "",
+		"description": "Deep-fried strips of sun dried pork, here with sesame seeds. A spicy dipping sauce (very often Sriracha sauce) is almost always provided with this dish.",
+		"favorite": false
+	}, {
+		"thai_name": "Nuea daet diao kaphrao thot",
+		"thai_script": "เนื้อแดดเดียวกะเพราทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nuea_daet_diao_kraphao_thot.jpg/640px-Nuea_daet_diao_kraphao_thot.jpg",
+		"region": "",
+		"description": "Deep-fried strips of sun dried beef and with crispy fried holy basil.",
+		"favorite": false
+	}, {
+		"thai_name": "Nuea khem thot",
+		"thai_script": "เนื้อเค็มทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nuea_khem_thot.jpg/640px-Nuea_khem_thot.jpg",
+		"region": "North",
+		"description": "Salted, sun-dried beef that has been deep-fried before serving.",
+		"favorite": false
+	}, {
+		"thai_name": "Pla muek yang",
+		"thai_script": "ปลาหมึกย่าง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Plamuk_yang.jpg/640px-Plamuk_yang.jpg",
+		"region": "",
+		"description": "Grilled cuttlefish.",
+		"favorite": false
+	}, {
+		"thai_name": "Sate",
+		"thai_script": "สะเต๊ะ",
+		"english_name": "Satay",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mu_sate.JPG/640px-Mu_sate.JPG",
+		"region": "",
+		"description": "Marinated beef, chicken or pork grilled on bamboo skewers and usually served with nam chim sate (peanut sauce) and achat (pickled cucumber).",
+		"favorite": false
+	}, {
+		"thai_name": "Thot man khaophot",
+		"thai_script": "ทอดมันข้าวโพด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Thot_man_khaophot.JPG/640px-Thot_man_khaophot.JPG",
+		"region": "",
+		"description": "Deep-fried cakes made with corn and herbs in a batter, and served with a sweet chilli sauce",
+		"favorite": false
+	}, {
+		"thai_name": "Thot man pla",
+		"thai_script": "ทอดมันปลา",
+		"english_name": "Fried fish cakes",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Thanin_market_tod_man_pla.jpg/640px-Thanin_market_tod_man_pla.jpg",
+		"region": "",
+		"description": "Deep fried patties of minced fish mixed with red curry paste, finely chopped yardlong beans (tua fak yao), and finely shredded leaves of kaffir lime (makrut). Knife fish (pla krai) is popularly used. For this variety of thot man, a sweet & hot similar to chicken chili sauce is provided usually mixed with chopped pieces of cucumber, crushed peanuts, and topped with phak chi.",
+		"favorite": false
+	}, {
+		"thai_name": "Thot man pu",
+		"thai_script": "ทอดมันปู",
+		"english_name": "Fried crab cakes",
+		"image": "",
+		"region": "",
+		"description": "Deep fried patties of minced crab meat. Plum sauce is commonly provided.",
+		"favorite": false
+	}, {
+		"thai_name": "Thot man kung",
+		"thai_script": "ทอดมันกุ้ง",
+		"english_name": "Fried prawn cakes",
+		"image": "",
+		"region": "",
+		"description": "Another popular variety of thot man where minced shrimp or prawn is used. Plum sauce is commonly provided.",
+		"favorite": false
+	}, {
+		"thai_name": "Thung thong",
+		"thai_script": "ถุงทอง",
+		"english_name": "Money bag",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Thung_thong_kung_sot.jpg/640px-Thung_thong_kung_sot.jpg",
+		"region": "",
+		"description": "Small, crispy, deep-fried pastry purses filled with a mixture of minced chicken or pork together with minced prawns, mushroom and water chestnut, and served with sweet plum sauce or Thai sweet chilli sauce[28]",
+		"favorite": false
+	}, {
+		"thai_name": "Tua mai thot",
+		"thai_script": "ตัวไหมทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tua_mai_thot.jpg/640px-Tua_mai_thot.jpg",
+		"region": "",
+		"description": "Crispy, deep-fried pupae of silkworms. This dish is most often eaten as a snack to go with drinks.",
+		"favorite": false
+	}],
+	"sweet_snacks_and_desserts": [{
+		"thai_name": "Chaokuai",
+		"thai_script": "เฉาก๊วย",
+		"english_name": "Grass jelly",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chao_guay_thai_grass_jelly.jpg/640px-Chao_guay_thai_grass_jelly.jpg",
+		"region": "",
+		"description": "Grass jelly is made from a herb from the mint family. It is often served with only shaved ice and brown sugar.",
+		"favorite": false
+	}, {
+		"thai_name": "Dara thong",
+		"thai_script": "ดาราทอง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dara_Thong2.jpg/640px-Dara_Thong2.jpg",
+		"region": "",
+		"description": "Dara thong or thong ek krachang (ทองเอกกระจัง) is a golden dough ball made from wheat flour, egg yolks, coconut milk and sugar, topped with a little piece of gold leaf, and decorated with sugar-coated, dry-fried watermelon seeds. Nowadays, it is often wrongly referred to as cha mongkut (จ่ามงกุฎ), which is the name of another Thai traditional sweet.",
+		"favorite": false
+	}, {
+		"thai_name": "Foi thong",
+		"thai_script": "ฝอยทอง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Foi_thong.jpg/640px-Foi_thong.jpg",
+		"region": "",
+		"description": "The name translates to \"golden threads\", it is a sweet snack or dessert of strings of egg yolk shortly boiled in sugar syrup. This, and other egg-based sweets such as sangkhaya, were introduced to the royal court of Ayutthaya by Maria Guyomar de Pinha in the 17th century CE.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom bua loi",
+		"thai_script": "ขนมบัวลอย",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "Taro root mixed with flour into balls and served in coconut milk.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom chan",
+		"thai_script": "ขนมชั้น",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "A multi-colored pudding of layers of sticky rice flour and tapioca flour mixed with coconut milk and sugar. Each layer will be differently scented (pandan, jasmine and more). It is similar to the Indonesian, Malaysian and Singaporean kueh lapis.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom farang kutti chin",
+		"thai_script": "ขนมฝรั่งกุฎีจีน",
+		"english_name": "\"Foreigner's snack of the Chinese church\"",
+		"image": "",
+		"region": "Bangkok",
+		"description": "Small muffins. The main ingredients are duck eggs, sugar and wheat flour. No butter, milk or yeast. No preservatives. The little cakes are topped with raisins, gourds dipped in syrup, and persimmon.[29]",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom khrok",
+		"thai_script": "ขนมครก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Khanom_khrok.jpg/640px-Khanom_khrok.jpg",
+		"region": "",
+		"description": "Small coconut hotcakes with different fillings. These are made on a special cast-iron pan with indentations. Two halves are eventually stuck to one another to form the finished mini-pancake.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom mo kaeng",
+		"thai_script": "ขนมหม้อแกง",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mo_Geng.JPG/640px-Mo_Geng.JPG",
+		"region": "",
+		"description": "A sweet baked pudding containing coconut milk, eggs, palm sugar and flour, sprinkled with sweet fried onions.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom piakpun",
+		"thai_script": "",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "The unique smoky flavor and the deep black color comes from coconut ash. It is made from a mix of sticky rice flour and tapioca flour, together with coconut milk and sugar.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom tako",
+		"thai_script": "ขนมตะโก้",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Khanom_tako_sai.jpg/640px-Khanom_tako_sai.jpg",
+		"region": "",
+		"description": "Jasmine scented coconut pudding set in cups of fragrant pandan leaf.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom tako phueak",
+		"thai_script": "ขนมตะโก้เผือก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Khanom_tako_pheuak70.jpg/640px-Khanom_tako_pheuak70.jpg",
+		"region": "",
+		"description": "Traditional sweets made with coconut milk, rice, flour, sugar and boiled taro pieces in a banana leaf cone.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom tan",
+		"thai_script": "ขนมตาล",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "Palm flavoured mini cake with shredded coconut on top.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom thuai talai",
+		"thai_script": "ขนมถ้วยตะไล",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "Steamed sweet coconut jelly and cream.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom tom",
+		"thai_script": "ขนมต้ม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Khanom_tom.JPG/640px-Khanom_tom.JPG",
+		"region": "",
+		"description": "These sweets are made by boiling balls of dough made from glutinous rice powder, coconut cream, grated coconut, sugar and flavourings, and then covering them with more grated coconut.",
+		"favorite": false
+	}, {
+		"thai_name": "Khanom wun",
+		"thai_script": "ขนมวุ้น",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/CM_khanom_wun.jpg/640px-CM_khanom_wun.jpg",
+		"region": "",
+		"description": "These are desserts made with an agar gelatine. The colours represent different flavours.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao niao mamuang",
+		"thai_script": "ข้าวเหนียวมะม่วง",
+		"english_name": "Mango with sticky rice",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mango_with_glutinous_rice.jpg/640px-Mango_with_glutinous_rice.jpg",
+		"region": "",
+		"description": "Sticky rice cooked in sweetened thick coconut milk, served with slices of ripe mango.",
+		"favorite": false
+	}, {
+		"thai_name": "Khao niao sangkhaya",
+		"thai_script": "ข้าวเหนียวสังขยา",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Khao_niao_sangkhaya.JPG/640px-Khao_niao_sangkhaya.JPG",
+		"region": "",
+		"description": "Sticky rice served with an egg and coconut custard (coconut jam).",
+		"favorite": false
+	}, {
+		"thai_name": "Khao tom mat sai kluai",
+		"thai_script": "ข้าวต้มมัดไส้กล้วย",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Khao_tom_mat_sai_kluai_01.jpg/640px-Khao_tom_mat_sai_kluai_01.jpg",
+		"region": "",
+		"description": "The dish is made by wrapping sweet banana and sticky rice inside a banana leaf and then steaming it. The banana takes on a pink colour after steaming.",
+		"favorite": false
+	}, {
+		"thai_name": "Kluai thot",
+		"thai_script": "กล้วยทอด",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kluai_thot.jpg/640px-Kluai_thot.jpg",
+		"region": "",
+		"description": "Deep-fried bananas in a light batter",
+		"favorite": false
+	}, {
+		"thai_name": "Kraya sat",
+		"thai_script": "กระยาสารท",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "Wafers or chunks of rice candy with beans and sesame. Often prepared as an offering to the monks[30]",
+		"favorite": false
+	}, {
+		"thai_name": "Lot chong nam kathi",
+		"thai_script": "ลอดช่องน้ำกะทิ",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "Pandan-flavoured rice flour noodles in sweetened coconut milk, similar to the Indonesian cendol.",
+		"favorite": false
+	}, {
+		"thai_name": "Mamuang dong",
+		"thai_script": "มะม่วงดอง",
+		"english_name": "Pickled mango",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mamuang_dong.jpg/640px-Mamuang_dong.jpg",
+		"region": "",
+		"description": "Pickled green mango is often eaten as a (semi-)sweet snack.",
+		"favorite": false
+	}, {
+		"thai_name": "Roti kluai khai",
+		"thai_script": "โรตีกล้วยไข่",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Roti_kluai_khai_chiang_mai_04.jpg/640px-Roti_kluai_khai_chiang_mai_04.jpg",
+		"region": "",
+		"description": "Sliced banana and a beaten egg are fried inside a thin sheet of dough, then cut and served with sweetened condensed milk and/or sugar.",
+		"favorite": false
+	}, {
+		"thai_name": "Roti sai mai",
+		"thai_script": "โรตีสายไหม",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Roti_sai_mai_2.jpg/640px-Roti_sai_mai_2.jpg",
+		"region": "",
+		"description": "An extremely sweet kind of candy floss/cotton candy which is wrapped inside small, thin pancakes.",
+		"favorite": false
+	}, {
+		"thai_name": "Ruam mit",
+		"thai_script": "รวมมิตร",
+		"english_name": "",
+		"image": "",
+		"region": "",
+		"description": "A chilled sweet snack/dessert with a mix of ingredients, such as sweetened chestnuts, jackfruit, lotus root, tapioca, and lot chong, in sweetened coconut milk.",
+		"favorite": false
+	}, {
+		"thai_name": "Sangkhaya fak thong",
+		"thai_script": "สังขยาฟักทอง",
+		"english_name": "Stuffed pumpkin",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sangkhaya_fak_thong.JPG/640px-Sangkhaya_fak_thong.JPG",
+		"region": "",
+		"description": "Steamed pumpkin with an egg-and-coconut custard filling, similar to the coconut jam from Malaysia, Indonesia and the Philippines.",
+		"favorite": false
+	}, {
+		"thai_name": "Sakhu thua dam",
+		"thai_script": "สาคูถั่วดำ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sakhu_thua_dam.jpg/640px-Sakhu_thua_dam.jpg",
+		"region": "",
+		"description": "Tapioca pearls and black beans (one of the vigna cultivars) with sweetened coconut milk and the flesh of a young coconut.",
+		"favorite": false
+	}, {
+		"thai_name": "That khai",
+		"thai_script": "ทาร์ตไข่",
+		"english_name": "Egg tart",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Thad_khai.jpg/640px-Thad_khai.jpg",
+		"region": "",
+		"description": "The Thai version of the Portuguese pastel de nata.",
+		"favorite": false
+	}, {
+		"thai_name": "Sakhu sai mu",
+		"thai_script": "สาคูไส้หมู",
+		"english_name": "Tapioca Balls with Pork Filling",
+		"image": "",
+		"region": "",
+		"description": "In Thailand tapioca balls with pork filling are call sakhu sai mu. Sakhu sai mu is a kind of snack which is very famous in Thailand and found at street stalls and markets. It is a dumpling which consists of a flour ball with a pork filling. Most people in Thailand eat it with khao kriap pak mo.",
+		"favorite": false
+	}, {
+		"thai_name": "Thong yip",
+		"thai_script": "ทองหยิบ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thong_yib.jpg/640px-Thong_yib.jpg",
+		"region": "",
+		"description": "Thong yip is, like foi thong, made from egg yolks. The difference is that instead of being thread-like, thong yip are shaped like flowers.",
+		"favorite": false
+	}],
+	"drinks": [{
+		"thai_name": "Cha dam yen",
+		"thai_script": "ชาดำเย็น",
+		"english_name": "Black iced tea",
+		"image": "",
+		"region": "",
+		"description": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar and served with ice.",
+		"favorite": false
+	}, {
+		"thai_name": "Cha manao",
+		"thai_script": "ชามะนาว",
+		"english_name": "Lime flavored tea",
+		"image": "",
+		"region": "",
+		"description": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar flavored with sugar and lime and served hot or with ice. Mint may also be added.",
+		"favorite": false
+	}, {
+		"thai_name": "Cha ron",
+		"thai_script": "ชาร้อน",
+		"english_name": "Thai hot tea",
+		"image": "",
+		"region": "",
+		"description": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar and condensed milk and served hot.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam wan",
+		"thai_script": "น้ำหวาน",
+		"english_name": "Concentrated artificial fruit-flavored syrup",
+		"image": "",
+		"region": "",
+		"description": "Normally poured on grated ice",
+		"favorite": false
+	}, {
+		"thai_name": "Cha yen",
+		"thai_script": "ชาเย็น",
+		"english_name": "Thai iced tea",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cha_yen.JPG/640px-Cha_yen.JPG",
+		"region": "",
+		"description": "It is made from strongly brewed black tea (\"red tea\" in East Asia). Additional ingredients may include orange blossom water, star anise, crushed tamarind seed and sometimes other spices. The tea is sweetened with sugar and condensed milk and served chilled.",
+		"favorite": false
+	}, {
+		"thai_name": "Kafae boran",
+		"thai_script": "กาแฟโบราณ",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kafae_boran_Chiang_Mai.jpg/640px-Kafae_boran_Chiang_Mai.jpg",
+		"region": "",
+		"description": "Kafae boran literally translates to \"ancient/traditional coffee\". It is a strong coffee that is served with sweetened condensed milk, similar in taste to the kopi that is served at kopi tiam (traditional coffee shops) of Malaysia and Singapore. It is usually made with robusta coffee beans, by steeping the grounds inside a brewing \"sock\".",
+		"favorite": false
+	}, {
+		"thai_name": "Krating Daeng",
+		"thai_script": "กระทิงแดง",
+		"english_name": "Thai red bull",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Krating_Daeng.jpg/640px-Krating_Daeng.jpg",
+		"region": "",
+		"description": "An energy drink and the origin of Red Bull.",
+		"favorite": false
+	}, {
+		"thai_name": "Lao khao",
+		"thai_script": "เหล้าขาว",
+		"english_name": "Rice vodka",
+		"image": "",
+		"region": "",
+		"description": "A distilled alcohol made from glutinous rice, it is often a home-made moonshine.",
+		"favorite": false
+	}, {
+		"thai_name": "Lao Mae Khong",
+		"thai_script": "เหล้าแม่โขง",
+		"english_name": "Mekhong whiskey",
+		"image": "",
+		"region": "",
+		"description": "Closer to a rum, it is distilled from sugarcane and rice.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam bai bua bok",
+		"thai_script": "น้ำใบบัวบก",
+		"english_name": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nam_bai_bua_bok.JPG/640px-Nam_bai_bua_bok.JPG",
+		"region": "",
+		"description": "A refreshing drink made from the leaves of the Asiatic Pennywort (Centella asiatica).",
+		"favorite": false
+	}, {
+		"thai_name": "Nam dok anchan",
+		"thai_script": "น้ำดอกอัญชัน",
+		"english_name": "Clitoria ternatea drink",
+		"image": "",
+		"region": "",
+		"description": "A refreshing drink made from Clitoria ternatea flower flavored with sugar served with ice.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam manao",
+		"thai_script": "น้ำมะนาว",
+		"english_name": "Lime drink",
+		"image": "",
+		"region": "",
+		"description": "A refreshing drink made from lime juice flavored with sugar and a pinch of salt served with ice.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam phan",
+		"thai_script": "น้ำพันช์",
+		"english_name": "Thai punch",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nam_phan.jpg/640px-Nam_phan.jpg",
+		"region": "",
+		"description": "Resembling a slush puppie laced with alcohol, this drink is popular with students. Nam means liquid or water, phan is derived from the English word \"punch\": a beverage based on fruit and often containing alcohol.",
+		"favorite": false
+	}, {
+		"thai_name": "Nam takhrai",
+		"thai_script": "น้ำตะไคร้",
+		"english_name": "Lemongrass tea",
+		"image": "",
+		"region": "",
+		"description": "A refreshing drink made from lemongrass. It can be served either hot or with ice.",
+		"favorite": false
+	}, {
+		"thai_name": "Oliang",
+		"thai_script": "โอเลี้ยง",
+		"english_name": "Iced black coffee",
+		"image": "",
+		"region": "",
+		"description": "A sweet Thai black ice coffee. The name is of Teochew origin where \"o\" means black, and \"liang\" means cold.",
+		"favorite": false
+	}, {
+		"thai_name": "Saeng som",
+		"thai_script": "แสงโสม",
+		"english_name": "Sang Som",
+		"image": "",
+		"region": "",
+		"description": "A Thai rum which has been distilled since 1977.",
+		"favorite": false
+	}, {
+		"thai_name": "Satho",
+		"thai_script": "สาโท",
+		"english_name": "Thai rice wine",
+		"image": "",
+		"region": "",
+		"description": "A traditional rice wine from the Isan region.",
+		"favorite": false
+	}]
+}
