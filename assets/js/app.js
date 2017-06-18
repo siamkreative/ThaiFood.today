@@ -85,7 +85,6 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 	};
 
 	var getDataFromFirebase = function(uid) {
-		console.log(uid);
 		var ref = firebase.database().ref('siam/users/'+uid)
 		var dbObj = $firebaseObject(ref);
 		return dbObj;
@@ -179,45 +178,73 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	}
 });
 
-app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService) {
+app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService, $location) {
 	$scope.firebaseUser;
 	$scope.auth = Auth;
+	$scope.categories = [];	
+
 	/**
 	 * Any time auth state changes, add the user data to scope
 	 * https://github.com/firebase/angularfire
 	 */
-	
-
 	$scope.auth.$onAuthStateChanged(function (firebaseUser) {
 		$scope.firebaseUser = firebaseUser;
-		//check to see if a user is logged in
+		//USER is logged in 
 		if(firebaseUser) {
 			var user = firebaseUser;
-			console.log(user.uid);
 			//we will store user's favorites here if they have favorites
 			var usersFavorites = dataService.getDataFromFirebase(user.uid);
 			//wait until the async request comes back
 			usersFavorites.$loaded().then(function() {
 				//check to see if the user has saved at least one favorite
 				console.log(usersFavorites);
+				//USER has favorite food
 				if(usersFavorites.food) {
 					console.log('MainCtrl: recieved user\'s favorite foods');
+					$scope.data = usersFavorites.food;
+					filterSmallCategories(usersFavorites);
+				
 				}
+				//USER does not have favorite food
 				else {
 					console.log('MainCtrl: the user does not have anything saved to the db yet ');
+					loadDefaultData();			
 				}
 
 			});
 		}
+		//NO USER in load default data
+		else {
+			//route back to main page
+			$location.path("/");
+			//empty previous users categories
+			$scope.categories = [];
+			//get rid of user data
+			$scope.firebaseUser = null;
+			//load default json
+			loadDefaultData();
+		}
 
+		function loadDefaultData() {
+			console.log('loading default data');
+			$http.get('./data/all.json')
+				.success(function (jsonData) {
+					$scope.data = jsonData;
+					filterSmallCategories(jsonData);		
+				});
+		}
 
-
-
-
-
-
-
-
+		function filterSmallCategories(jsonData) {
+			angular.forEach(jsonData, function (val, key) {
+				var items = {};
+				items['name'] = key;
+				items['length'] = val.length;
+				// Hide categories with less than 5 dishes
+				if (val.length > 5) {
+					$scope.categories.push(items);
+				}
+			});
+		}
 	});
 
 	// Needed for the loading screen
@@ -235,16 +262,15 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 	 * http://stackoverflow.com/a/19544982/1414881
 	 * http://stackoverflow.com/a/832262/1414881
 	 */
-	$scope.categories = [];
-	$scope.data = dataService.dataGet();
-	angular.forEach($scope.data, function (value, key) {
-		var items = {};
-		items['name'] = key;
-		items['length'] = value.length;
+	// $scope.data = dataService.dataGet();
+	// angular.forEach($scope.data, function (value, key) {
+	// 	var items = {};
+	// 	items['name'] = key;
+	// 	items['length'] = value.length;
 
-		// Hide categories with less than 5 dishes
-		if (value.length > 5) {
-			$scope.categories.push(items);
-		}
-	});
+	// 	// Hide categories with less than 5 dishes
+	// 	if (value.length > 5) {
+	// 		$scope.categories.push(items);
+	// 	}
+	// });
 });
