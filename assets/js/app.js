@@ -65,10 +65,10 @@ app.factory('Auth', ['$firebaseAuth',
  */
 app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 
-	var dataSave = function (data) {
-		console.log('dataSave', data);
-		localStorage.setItem('dishAll', JSON.stringify(data));
-	};
+	// var dataSave = function (data) {
+	// 	console.log('dataSave', data);
+	// 	localStorage.setItem('dishAll', JSON.stringify(data));
+	// };
 	//save favorites to firebase
 	var saveToFirebase = function(data) {
 		var user = firebase.auth().currentUser;
@@ -90,27 +90,27 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 		return dbObj;
 	}
 
-	var dataGet = function () {
-		var data;
-		var from;
-		if (localStorage.getItem('dishAll')) {
-			from = 'localStorage';
-			data = angular.fromJson(localStorage.getItem('dishAll'));
-		} else {
-			from = 'jsonFile';
-			$http.get('./data/all.json')
-				.success(function (data) {
-					data = data;
-					localStorage.setItem('dishAll', JSON.stringify(data));
-				})
-		}
-		console.log('Get Data from', from, data);
-		return data;
-	};
+	// var dataGet = function () {
+	// 	var data;
+	// 	var from;
+	// 	if (localStorage.getItem('dishAll')) {
+	// 		from = 'localStorage';
+	// 		data = angular.fromJson(localStorage.getItem('dishAll'));
+	// 	} else {
+	// 		from = 'jsonFile';
+	// 		$http.get('./data/all.json')
+	// 			.success(function (data) {
+	// 				data = data;
+	// 				localStorage.setItem('dishAll', JSON.stringify(data));
+	// 			})
+	// 	}
+	// 	console.log('Get Data from', from, data);
+	// 	return data;
+	// };
 
 	return {
-		dataGet: dataGet,
-		dataSave: dataSave,
+		// dataGet: dataGet,
+		// dataSave: dataSave,
 		saveToFirebase: saveToFirebase,
 		getDataFromFirebase: getDataFromFirebase
 	};
@@ -122,7 +122,7 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
  * Allow passing $routeParams to different templates
  * http://stackoverflow.com/a/11535887/1414881
  */
-app.controller('DishController', function ($scope, $http, $routeParams, dataService, Auth, $location) {
+app.controller('DishController', function ($scope, $http, $routeParams, dataService, Auth) {
 	$scope.auth = Auth;
 	$scope.firebaseUser;
 	$scope.data;	
@@ -150,34 +150,42 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 			//wait for the async call to come back
 			usersFavorites.$loaded().then(function() {
 				if(usersFavorites.food) {
-					console.log('DishCtrl: recieved user\'s favorite foods');					
+					console.log('DishCtrl: recieved user\'s favorite food from DB');	
+					setScopeWithData(usersFavorites.food);
 				}
 				if(!usersFavorites.food) {
-					console.log('DishCtrl no favorite food saved in database');	
-
-
+					console.log('DishCtrl: NO favorite food saved in DB');	
+					loadDefaultData();
 				}
 			});
-
 		}
 		//NO USER logged in load default data
 		if(!firebaseUser) {
-			console.log('loading default data');
+			loadDefaultData();
+		}
+
+		function loadDefaultData() {
+			console.log('loading default data');			
 			$http.get('./data/all.json')
-				.success(function (jsonData) {
-					$scope.data = jsonData;
-					$scope.type = $routeParams.type;
-					$scope.id = $routeParams.id;
-					$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
-					$scope.dishes = $scope.data[$scope.type];
-					if($scope.dishes) {
-						$scope.dishes.forEach(function (item) {
-							dishNames.push(item.thai_name);
-						});
-						$scope.dish = $scope.dishes[$scope.id];						
-					}					
+				.success(function(jsonData) {
+					setScopeWithData(jsonData);
 				});
 		}
+
+		function setScopeWithData(jsonData) {
+			$scope.data = jsonData;
+			$scope.type = $routeParams.type;
+			$scope.id = $routeParams.id;
+			$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
+			$scope.dishes = $scope.data[$scope.type];
+			if ($scope.dishes) {
+				$scope.dishes.forEach(function (item) {
+					dishNames.push(item.thai_name);
+				});
+				$scope.dish = $scope.dishes[$scope.id];
+			}			
+		}
+
 	})
 
 	/**
@@ -194,7 +202,7 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 		dish.favorite = !dish.favorite;
 
 		// Update localStorage
-		dataService.dataSave($scope.data);
+		// dataService.dataSave($scope.data);
 
 		dataService.saveToFirebase($scope.data);
 	};
@@ -222,7 +230,7 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	}
 });
 
-app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService, $location) {
+app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService) {
 	$scope.firebaseUser;
 	$scope.auth = Auth;
 	$scope.categories = [];	
@@ -241,17 +249,16 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 			//wait until the async request comes back
 			usersFavorites.$loaded().then(function() {
 				//check to see if the user has saved at least one favorite
-				console.log(usersFavorites);
+				// console.log(usersFavorites);
 				//USER has favorite food
 				if(usersFavorites.food) {
-					console.log('MainCtrl: recieved user\'s favorite foods');
+					console.log('MainCtrl: recieved user\'s favorite food from DB');
 					$scope.data = usersFavorites.food;
-					filterSmallCategories(usersFavorites);
-				
+					filterSmallCategories(usersFavorites.food);		
 				}
 				//USER does not have favorite food
 				if(!usersFavorites.food) {
-					console.log('MainCtrl: the user does not have anything saved to the db yet ');
+					console.log('MainCtrl: NO favorite food saved in DB');
 					loadDefaultData();			
 				}
 
@@ -259,8 +266,6 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 		}
 		//NO USER logged in load default data
 		if(!firebaseUser) {
-			//route back to main page
-			$location.path("/");
 			//empty previous users categories
 			$scope.categories = [];
 			//get rid of user data
