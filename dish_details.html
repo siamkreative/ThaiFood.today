@@ -2,9 +2,14 @@
 	<a href="#/">ThaiFood.today</a>
 </div>
 
-<div class="scrollable">
+<div ng-if="!data" id="spinnerWrapper">
+	<i id="spinner" class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+	<span class="sr-only">Loading...</span>
+</div>
+
+<div ng-if="data" class="scrollable">
 	<div class="scrollable-content">
-		<img class="dish-details-image" alt="{{ dish.thai_name }}" src="{{dish.image}}">
+		<img class="dish-details-image" alt="{{ dish.thai_name }}" ng-src="{{dish.image}}">
 		<div class="dish-details-list-group list-group">
 			<div class="list-group-item text-center">
 				<h1 class="dish-details-heading">{{ dish.thai_name }} <small id="tts">{{ dish.thai_script }}</small></h1>
