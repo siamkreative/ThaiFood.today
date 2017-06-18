@@ -63,11 +63,25 @@ app.factory('Auth', ['$firebaseAuth',
  * Service Passing Data Between Controllers 
  * http://stackoverflow.com/a/20181543
  */
-app.service('dataService', function ($http) {
+app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 
 	var dataSave = function (data) {
 		console.log('dataSave', data);
 		localStorage.setItem('dishAll', JSON.stringify(data));
+	};
+	//save favorites to firebase
+	var saveToFirebase = function(data) {
+		var user = firebase.auth().currentUser;
+		//each user with a their own path to save their favorites to using their uid
+		var ref = firebase.database().ref('siam/users/'+user.uid);
+
+		var dbObj = $firebaseObject(ref);
+		dbObj.food = data;
+		dbObj.$save().then(function(ref) {
+			console.log(ref);
+		}, function(err) {
+			console.log('Error:', err);
+		});
 	};
 
 	var dataGet = function () {
@@ -90,7 +104,8 @@ app.service('dataService', function ($http) {
 
 	return {
 		dataGet: dataGet,
-		dataSave: dataSave
+		dataSave: dataSave,
+		saveToFirebase: saveToFirebase
 	};
 
 });
@@ -129,6 +144,8 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 
 		// Update localStorage
 		dataService.dataSave($scope.data);
+
+		dataService.saveToFirebase($scope.data);
 	};
 
 	/**
