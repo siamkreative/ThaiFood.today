@@ -122,19 +122,61 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
  * Allow passing $routeParams to different templates
  * http://stackoverflow.com/a/11535887/1414881
  */
-app.controller('DishController', function ($scope, $http, $routeParams, dataService) {
-
+app.controller('DishController', function ($scope, $http, $routeParams, dataService, Auth, $location) {
+	$scope.auth = Auth;
+	$scope.data;	
 	var dishNames = [];
+	$scope.type;
+	$scope.id;
+	$scope.categoryImg;
+	$scope.dishes;
+	$scope.dish;
 
-	$scope.data = dataService.dataGet();
-	$scope.type = $routeParams.type;
-	$scope.id = $routeParams.id;
-	$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
-	$scope.dishes = $scope.data[$scope.type];
-	$scope.dishes.forEach(function (item) {
-		dishNames.push(item.thai_name);
-	});
-	$scope.dish = $scope.dishes[$scope.id];
+	// $scope.data = dataService.dataGet();
+	// $scope.type = $routeParams.type;
+	// $scope.id = $routeParams.id;
+	// $scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
+	// $scope.dishes = $scope.data[$scope.type];
+	// $scope.dishes.forEach(function (item) {
+	// 	dishNames.push(item.thai_name);
+	// });
+	// $scope.dish = $scope.dishes[$scope.id];
+
+	$scope.auth.$onAuthStateChanged(function(firebaseUser) {
+		if(firebaseUser) {
+			var usersFavorites = dataService.getDataFromFirebase(firebaseUser.uid);
+			//wait for the async call to come back
+			usersFavorites.$loaded().then(function() {
+				if(usersFavorites.food) {
+					console.log('DishCtrl: recieved user\'s favorite foods');					
+				}
+				if(!usersFavorites.food) {
+					console.log('DishCtrl no favorite food saved in database');	
+
+
+				}
+			});
+
+		}
+		//NO USER logged in load default data
+		if(!firebaseUser) {
+			console.log('loading default data');
+			$http.get('./data/all.json')
+				.success(function (jsonData) {
+					$scope.data = jsonData;
+					$scope.type = $routeParams.type;
+					$scope.id = $routeParams.id;
+					$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
+					$scope.dishes = $scope.data[$scope.type];
+					if($scope.dishes) {
+						$scope.dishes.forEach(function (item) {
+							dishNames.push(item.thai_name);
+						});
+						$scope.dish = $scope.dishes[$scope.id];						
+					}					
+				});
+		}
+	})
 
 	/**
 	 * Save/Remove favorites
@@ -206,15 +248,15 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 				
 				}
 				//USER does not have favorite food
-				else {
+				if(!usersFavorites.food) {
 					console.log('MainCtrl: the user does not have anything saved to the db yet ');
 					loadDefaultData();			
 				}
 
 			});
 		}
-		//NO USER in load default data
-		else {
+		//NO USER logged in load default data
+		if(!firebaseUser) {
 			//route back to main page
 			$location.path("/");
 			//empty previous users categories
