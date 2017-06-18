@@ -124,6 +124,7 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
  */
 app.controller('DishController', function ($scope, $http, $routeParams, dataService, Auth, $location) {
 	$scope.auth = Auth;
+	$scope.firebaseUser;
 	$scope.data;	
 	var dishNames = [];
 	$scope.type;
@@ -143,6 +144,7 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	// $scope.dish = $scope.dishes[$scope.id];
 
 	$scope.auth.$onAuthStateChanged(function(firebaseUser) {
+		$scope.firebaseUser = firebaseUser;
 		if(firebaseUser) {
 			var usersFavorites = dataService.getDataFromFirebase(firebaseUser.uid);
 			//wait for the async call to come back

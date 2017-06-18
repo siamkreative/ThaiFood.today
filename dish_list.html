@@ -11,7 +11,7 @@
 		<div class="dish-list list-group">
 			<div ng-repeat="dish in dishes | filter:searchText">
 				<a class="list-group-item dist-list-item" href="#/{{ type }}/{{$index}}">
-					<span class="add-to-fav" ng-click="favToggle($event)" data-id="{{$index}}">
+					<span ng-if="firebaseUser" class="add-to-fav" ng-click="favToggle($event)" data-id="{{$index}}">
 						<i ng-class="dish.favorite ? 'fa fa-star' : 'fa fa-star-o'"></i>
 					</span>
 					<span class="dish-name">{{ dish.thai_name }} ({{ dish.thai_script }}) <i class="fa fa-chevron-right pull-right"></i></span>
