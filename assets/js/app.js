@@ -78,11 +78,18 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 		var dbObj = $firebaseObject(ref);
 		dbObj.food = data;
 		dbObj.$save().then(function(ref) {
-			console.log(ref);
+			//console.log(ref.key);
 		}, function(err) {
 			console.log('Error:', err);
 		});
 	};
+
+	var getDataFromFirebase = function(uid) {
+		console.log(uid);
+		var ref = firebase.database().ref('siam/users/'+uid)
+		var dbObj = $firebaseObject(ref);
+		return dbObj;
+	}
 
 	var dataGet = function () {
 		var data;
@@ -105,7 +112,8 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 	return {
 		dataGet: dataGet,
 		dataSave: dataSave,
-		saveToFirebase: saveToFirebase
+		saveToFirebase: saveToFirebase,
+		getDataFromFirebase: getDataFromFirebase
 	};
 
 });
@@ -172,14 +180,44 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 });
 
 app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService) {
-
+	$scope.firebaseUser;
+	$scope.auth = Auth;
 	/**
 	 * Any time auth state changes, add the user data to scope
 	 * https://github.com/firebase/angularfire
 	 */
-	$scope.auth = Auth;
+	
+
 	$scope.auth.$onAuthStateChanged(function (firebaseUser) {
 		$scope.firebaseUser = firebaseUser;
+		//check to see if a user is logged in
+		if(firebaseUser) {
+			var user = firebaseUser;
+			console.log(user.uid);
+			//we will store user's favorites here if they have favorites
+			var usersFavorites = dataService.getDataFromFirebase(user.uid);
+			//wait until the async request comes back
+			usersFavorites.$loaded().then(function() {
+				//check to see if the user has saved at least one favorite
+				console.log(usersFavorites);
+				if(usersFavorites.food) {
+					console.log('MainCtrl: recieved user\'s favorite foods');
+				}
+				else {
+					console.log('MainCtrl: the user does not have anything saved to the db yet ');
+				}
+
+			});
+		}
+
+
+
+
+
+
+
+
+
 	});
 
 	// Needed for the loading screen
