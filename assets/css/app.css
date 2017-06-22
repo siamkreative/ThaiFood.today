@@ -1,3 +1,10 @@
+#spinnerWrapper {
+	width: 100%;
+}
+#spinner {
+	display: block;
+	margin: 100px auto;
+}
 #lightbulb {
 	font-size: 100px;
 	display: block;

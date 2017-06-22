@@ -2,7 +2,13 @@
 	<a href="#/">ThaiFood.today</a>
 </div>
 
-<div class="scrollable" ui-shared-state="searchBar">
+<div ng-if="!data" id="spinnerWrapper">
+	<i id="spinner"
+	class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+	<span class="sr-only">Loading...</span>
+</div>
+
+<div ng-if="data" class="scrollable" ui-shared-state="searchBar">
 	<input ng-if="Ui.active('searchBar')" type="search" class="form-control scrollable-header" ng-model="searchText" placeholder="Search.." />
 
 	<div class="scrollable-content" ui-scroll-bottom="bottomReached()">	
@@ -11,11 +17,15 @@
 		<div class="dish-list list-group">
 			<div ng-repeat="dish in dishes | filter:searchText">
 				<a class="list-group-item dist-list-item" href="#/{{ type }}/{{$index}}">
-					<span class="add-to-fav" ng-click="favToggle($event)" data-id="{{$index}}">
+					<span ng-if="firebaseUser" class="add-to-fav" ng-click="favToggle($event)" data-id="{{$index}}">
+						<i ng-class="dish.favorite ? 'fa fa-star' : 'fa fa-star-o'"></i>
+					</span>
+					<span ng-if="!firebaseUser" ui-toggle="uiSidebarRight" class="add-to-fav" ng-click="favToggle($event)" data-id="{{$index}}">
 						<i ng-class="dish.favorite ? 'fa fa-star' : 'fa fa-star-o'"></i>
 					</span>
 					<span class="dish-name">{{ dish.thai_name }} ({{ dish.thai_script }}) <i class="fa fa-chevron-right pull-right"></i></span>
 				</a>
+				 
 			</div>
 		</div>
 	</div>
