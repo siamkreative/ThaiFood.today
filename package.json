@@ -1,0 +1,29 @@
+{
+  "name": "thaifood.today",
+  "version": "1.0.0",
+  "description": "A simple progressive web app that helps you discover new Thai dishes",
+  "main": "assets/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiamKreative/ThaiFood.today.git"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "angular",
+    "firebase"
+  ],
+  "author": "Julien Vernet <julien@vernet.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiamKreative/ThaiFood.today/issues"
+  },
+  "homepage": "https://thaifood.today/",
+  "private": true
+}

@@ -1,7 +1,13 @@
 <div ui-content-for="title">
 	<span class="text-capitalize">ThaiFood.Today</span>
 </div>
-<div class="scrollable">
+
+<div ng-if="!data" id="spinnerWrapper">
+	<i id="spinner" class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+	<span class="sr-only">Loading...</span>
+</div>
+
+<div ng-if="data" class="scrollable">
 	<div class="scrollable-content">
 		<div class="home-content">
 			<div class="home-icon">
