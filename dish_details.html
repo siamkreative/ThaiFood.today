@@ -22,6 +22,9 @@
 					<a ng-if="firebaseUser" type="button" class="btn btn-default" ng-click="favToggle($event)" data-id="{{$index}}">
 						<i ng-class="dish.favorite ? 'fa fa-star' : 'fa fa-star-o'"></i> Favorites
 					</a>
+						<a ng-if="!firebaseUser" type="button" class="btn btn-default" ui-toggle="uiSidebarRight">
+						<i ng-class="dish.favorite ? 'fa fa-star' : 'fa fa-star-o'"></i> Favorites
+					</a>
 				</div>
 			</div>
 		</div>

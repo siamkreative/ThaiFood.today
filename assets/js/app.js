@@ -193,6 +193,9 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	 */
 	$scope.favToggle = function (obj) {
 		obj.preventDefault();
+		if (!$scope.firebaseUser) {
+			return;
+		}
 
 		// Get dish object
 		var id = $scope.id || obj.target.parentNode.getAttribute('data-id');
@@ -206,6 +209,8 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 
 		dataService.saveToFirebase($scope.data);
 	};
+
+
 
 	/**
 	 * Dish Details - Play Thai Script
