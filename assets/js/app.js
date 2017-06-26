@@ -30,16 +30,16 @@ app.run(function ($transform) {
 //
 app.config(function ($routeProvider) {
 	$routeProvider.when('/', {
-		templateUrl: 'home.html',
+		templateUrl: '/views/home.html',
 		reloadOnSearch: false
 	});
 	$routeProvider.when('/:type', {
-		templateUrl: 'dish_list.html',
+		templateUrl: '/views/dish_list.html',
 		reloadOnSearch: false,
 		controller: 'DishController'
 	});
 	$routeProvider.when('/:type/:id', {
-		templateUrl: 'dish_details.html',
+		templateUrl: '/views/dish_details.html',
 		reloadOnSearch: false,
 		controller: 'DishController'
 	});
