@@ -202,7 +202,7 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	 * Dish Details - Play Thai Script
 	 * http://responsivevoice.org/api/
 	 */
-	$scope.speak = function ($event, text) {
+	$scope.speak = function (text) {
 		var button = angular.element(event.currentTarget).find('span')[0];
 		if (responsiveVoice.voiceSupport()) {
 			responsiveVoice.speak(text, 'Thai Female', {
