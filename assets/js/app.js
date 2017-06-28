@@ -65,10 +65,6 @@ app.factory('Auth', ['$firebaseAuth',
  */
 app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 
-	// var dataSave = function (data) {
-	// 	console.log('dataSave', data);
-	// 	localStorage.setItem('dishAll', JSON.stringify(data));
-	// };
 	//save favorites to firebase
 	var saveToFirebase = function(data) {
 		var user = firebase.auth().currentUser;
@@ -90,27 +86,7 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 		return dbObj;
 	}
 
-	// var dataGet = function () {
-	// 	var data;
-	// 	var from;
-	// 	if (localStorage.getItem('dishAll')) {
-	// 		from = 'localStorage';
-	// 		data = angular.fromJson(localStorage.getItem('dishAll'));
-	// 	} else {
-	// 		from = 'jsonFile';
-	// 		$http.get('./data/all.json')
-	// 			.success(function (data) {
-	// 				data = data;
-	// 				localStorage.setItem('dishAll', JSON.stringify(data));
-	// 			})
-	// 	}
-	// 	console.log('Get Data from', from, data);
-	// 	return data;
-	// };
-
 	return {
-		// dataGet: dataGet,
-		// dataSave: dataSave,
 		saveToFirebase: saveToFirebase,
 		getDataFromFirebase: getDataFromFirebase
 	};
@@ -132,16 +108,6 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	$scope.categoryImg;
 	$scope.dishes;
 	$scope.dish;
-
-	// $scope.data = dataService.dataGet();
-	// $scope.type = $routeParams.type;
-	// $scope.id = $routeParams.id;
-	// $scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
-	// $scope.dishes = $scope.data[$scope.type];
-	// $scope.dishes.forEach(function (item) {
-	// 	dishNames.push(item.thai_name);
-	// });
-	// $scope.dish = $scope.dishes[$scope.id];
 
 	$scope.auth.$onAuthStateChanged(function(firebaseUser) {
 		$scope.firebaseUser = firebaseUser;
@@ -204,9 +170,7 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 		// Toggle value: true/false
 		dish.favorite = !dish.favorite;
 
-		// Update localStorage
-		// dataService.dataSave($scope.data);
-
+		// Save to Firebase
 		dataService.saveToFirebase($scope.data);
 	};
 
@@ -309,22 +273,4 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 	$rootScope.$on('$routeChangeSuccess', function () {
 		$rootScope.loading = false;
 	});
-
-
-	/**
-	 * Create the main navigation from JSON data
-	 * http://stackoverflow.com/a/19544982/1414881
-	 * http://stackoverflow.com/a/832262/1414881
-	 */
-	// $scope.data = dataService.dataGet();
-	// angular.forEach($scope.data, function (value, key) {
-	// 	var items = {};
-	// 	items['name'] = key;
-	// 	items['length'] = value.length;
-
-	// 	// Hide categories with less than 5 dishes
-	// 	if (value.length > 5) {
-	// 		$scope.categories.push(items);
-	// 	}
-	// });
 });
