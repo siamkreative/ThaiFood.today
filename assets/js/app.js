@@ -202,23 +202,19 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	 * Dish Details - Play Thai Script
 	 * http://responsivevoice.org/api/
 	 */
-	$scope.play = function (obj) {
-		obj.preventDefault();
-
-		var tts = document.getElementById('tts').innerHTML;
-		var button = document.getElementById('play_label');
+	$scope.speak = function ($event, text) {
+		var button = angular.element(event.currentTarget).find('span')[0];
 		if (responsiveVoice.voiceSupport()) {
-			responsiveVoice.speak(tts, 'Thai Female');
-			// Update the UI
-			button.innerHTML = ' Loading...';
-			setInterval(function () {
-				if (!responsiveVoice.isPlaying()) {
-					button.innerHTML = ' Speak';
-					button.blur();
+			responsiveVoice.speak(text, 'Thai Female', {
+				onstart: function () {
+					button.innerText = 'Loading...';
+				},
+				onend: function () {
+					button.innerText = 'Speak';
 				}
-			}, 100);
+			});
 		}
-	}
+	};
 });
 
 app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService) {

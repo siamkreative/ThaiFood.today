@@ -12,13 +12,13 @@
 		<img class="dish-details-image" alt="{{ dish.thai_name }}" ng-src="{{dish.image}}">
 		<div class="dish-details-list-group list-group">
 			<div class="list-group-item text-center">
-				<h1 class="dish-details-heading">{{ dish.thai_name }} <small id="tts">{{ dish.thai_script }}</small></h1>
+				<h1 class="dish-details-heading">{{ dish.thai_name }} <small>{{ dish.thai_script }}</small></h1>
 			</div>
 			<div class="list-group-item">{{ dish.description }}</div>
 			<div class="list-group-item list-group-item-home">
 				<div class="btn-group btn-group-justified" role="group" aria-label="...">
 					<a type="button" class="btn btn-default" href="#/{{ type }}"><i class="fa fa-chevron-left"></i> Back</a>
-					<a type="button" class="btn btn-default" ng-click="play($event);"><i class="fa fa-volume-up"></i> <span id="play_label">Speak</span></a>
+					<a type="button" class="btn btn-default" ng-click="speak('speakLabel', dish.thai_script);"><i class="fa fa-volume-up"></i> <span>Speak</span></a>
 					<a ng-if="firebaseUser" type="button" class="btn btn-default" ng-click="favToggle($event)" data-id="{{$index}}">
 						<i ng-class="dish.favorite ? 'fa fa-star' : 'fa fa-star-o'"></i> Favorites
 					</a>
