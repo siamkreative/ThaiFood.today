@@ -16,11 +16,13 @@
 		<!-- Register service worker -->
 		<script src="service-worker-registration.js"></script>
 
+		<!-- Stylesheets -->
 		<link rel="stylesheet" href="/bower_components/mobile-angular-ui/dist/css/mobile-angular-ui-hover.min.css" />
 		<link rel="stylesheet" href="/bower_components/mobile-angular-ui/dist/css/mobile-angular-ui-base.min.css" />
 		<link rel="stylesheet" href="/bower_components/mobile-angular-ui/dist/css/mobile-angular-ui-desktop.min.css" />
 		<link rel="stylesheet" href="assets/css/app.css" />
 
+		<!-- Angular -->
 		<script src="/bower_components/angular/angular.min.js"></script>
 		<script src="/bower_components/angularfire/dist/angularfire.min.js"></script>
 		<script src="/bower_components/angular-route/angular-route.min.js"></script>
@@ -29,31 +31,15 @@
 
 		<!-- Firebase -->
 		<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
-		<script>
-		var config = {
-			apiKey: "AIzaSyBygMs3vVN04SWO4EFgm_FbpUGAN0WKIk0",
-			authDomain: "thaifood-today.firebaseapp.com",
-			databaseURL: "https://thaifood-today.firebaseio.com",
-			storageBucket: "thaifood-today.appspot.com",
-			messagingSenderId: "1030275091340"
-		};
-		firebase.initializeApp(config);
-		</script>
 
-		<script src="/assets/js/responsivevoice.js"></script>
-		<script src="/assets/js/app.js"></script>
-
+		<!-- OneSignal -->		
 		<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
-		<script>
-		var OneSignal = window.OneSignal || [];
-		OneSignal.push(['init', {
-			appId: '2f72b950-1d3b-4fdf-b2be-fa3593e7f0a4',
-			autoRegister: true,
-			notifyButton: {
-				enable: false
-			}
-		}]);
-		</script>
+
+		<!-- ResponsiveVoice.JS -->
+		<script src="https://code.responsivevoice.org/responsivevoice.js" async></script>
+
+		<!-- Main -->
+		<script src="/assets/js/app.js"></script>
 	</head>
 	<body ng-app="thaifoodtoday" ng-controller="MainController" ui-prevent-touchmove-defaults>
 		<!-- Sidebars -->

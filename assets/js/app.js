@@ -2,6 +2,26 @@
 
 'use strict';
 
+// Firebase config
+var config = {
+    apiKey: "AIzaSyBygMs3vVN04SWO4EFgm_FbpUGAN0WKIk0",
+    authDomain: "thaifood-today.firebaseapp.com",
+    databaseURL: "https://thaifood-today.firebaseio.com",
+    storageBucket: "thaifood-today.appspot.com",
+    messagingSenderId: "1030275091340"
+};
+firebase.initializeApp(config);
+
+// OneSignal config
+var OneSignal = window.OneSignal || [];
+OneSignal.push(['init', {
+    appId: '2f72b950-1d3b-4fdf-b2be-fa3593e7f0a4',
+    autoRegister: true,
+    notifyButton: {
+        enable: false
+    }
+}]);
+
 //
 // Here is how to define your module
 // has dependent on mobile-angular-ui
