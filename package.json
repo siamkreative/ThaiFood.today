@@ -25,5 +25,8 @@
     "url": "https://github.com/SiamKreative/ThaiFood.today/issues"
   },
   "homepage": "https://thaifood.today/",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "sw-precache": "^5.2.0"
+  }
 }
