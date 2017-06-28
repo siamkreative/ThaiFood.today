@@ -131,9 +131,11 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 		}
 
 		function loadDefaultData() {
-			console.log('loading default data');			
-			$http.get('./data/all.json')
-				.success(function(jsonData) {
+			console.log('loading default data');
+			$http.get('./data/all.json', {
+					cache: true
+				})
+				.success(function (jsonData) {
 					setScopeWithData(jsonData);
 				});
 		}
@@ -245,10 +247,12 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 
 		function loadDefaultData() {
 			console.log('loading default data');
-			$http.get('./data/all.json')
+			$http.get('./data/all.json', {
+					cache: true
+				})
 				.success(function (jsonData) {
 					$scope.data = jsonData;
-					filterSmallCategories(jsonData);		
+					filterSmallCategories(jsonData);
 				});
 		}
 
