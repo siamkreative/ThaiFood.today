@@ -2,7 +2,7 @@
     <div class="scrollable-content">
         <div class="user-profile">
             <div ng-show="firebaseUser">
-                <p><img class="img-circle" src="{{ firebaseUser.providerData[0].photoURL }}" alt="{{ firebaseUser.displayName }}"></p>
+                <p><img class="img-circle" width="100" height="100" src="https://graph.facebook.com/{{ firebaseUser.providerData[0].uid }}/picture?height=200" alt="{{ firebaseUser.displayName }}"></p>
                 <p>Hi, <strong>{{ firebaseUser.displayName }}</strong>!</p>
                 <p>All your favorites Thai dishes are displayed below:</p>
 				<div ng-repeat="(categoryName, category) in data">
