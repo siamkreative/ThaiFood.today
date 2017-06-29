@@ -152,7 +152,7 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 
 		function loadDefaultData() {
 			console.log('loading default data');
-			$http.get('./data/all.json', {
+			$http.get('./ajax/data.json', {
 					cache: true
 				})
 				.success(function (jsonData) {
@@ -263,7 +263,7 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 
 		function loadDefaultData() {
 			console.log('loading default data');
-			$http.get('./data/all.json', {
+			$http.get('./ajax/data.json', {
 					cache: true
 				})
 				.success(function (jsonData) {

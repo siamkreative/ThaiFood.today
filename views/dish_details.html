@@ -9,7 +9,7 @@
 
 <div ng-if="data" class="scrollable">
 	<div class="scrollable-content">
-		<img class="dish-details-image" alt="{{ dish.thai_name }}" ng-src="{{dish.image}}">
+		<img class="dish-details-image" alt="{{ dish.thai_name }}" ng-src="{{ dish.image.largeUrl }}" width="{{ dish.image.largeWidth }}" height="{{ dish.image.largeHeight }}">
 		<div class="dish-details-list-group list-group">
 			<div class="list-group-item text-center">
 				<h1 class="dish-details-heading">{{ dish.thai_name }} <small>{{ dish.thai_script }}</small></h1>
