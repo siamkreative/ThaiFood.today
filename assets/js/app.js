@@ -30,6 +30,7 @@ var app = angular.module('thaifoodtoday', [
 	'ngRoute',
 	'mobile-angular-ui',
 	'firebase',
+	'me-lazyload',
 
 	// touch/drag feature: this is from 'mobile-angular-ui.gestures.js'.
 	// This is intended to provide a flexible, integrated and and
