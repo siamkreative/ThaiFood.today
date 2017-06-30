@@ -5,6 +5,7 @@
 		"thai_script": "โจ๊ก",
 		"english_name": "Rice congee",
 		"image": {
+			"ratio": 66.97916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jok_mu_sap.JPG/110px-Jok_mu_sap.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -20,6 +21,7 @@
 		"thai_script": "ข้าวกั๊นจิ๊น",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2013_Khao_kan_chin.jpg/110px-2013_Khao_kan_chin.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -35,6 +37,7 @@
 		"thai_script": "ข้าวขาหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Khao_kha_mu_02.JPG/110px-Khao_kha_mu_02.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -50,6 +53,7 @@
 		"thai_script": "ข้าวไข่เจียว",
 		"english_name": "Omelet on rice",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Khao_khai_chiao_songkhrueng.jpg/110px-Khao_khai_chiao_songkhrueng.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -65,6 +69,7 @@
 		"thai_script": "ข้าวคลุกกะปิ",
 		"english_name": "Fried rice with shrimp paste",
 		"image": {
+			"ratio": 133.33333333333331,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Khao.kluke.kapi-01.jpg/110px-Khao.kluke.kapi-01.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 147,
@@ -80,6 +85,7 @@
 		"thai_script": "ข้าวหมกไก่",
 		"english_name": "Thai chicken biryani",
 		"image": {
+			"ratio": 75.20833333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Khao_mok_kai.JPG/110px-Khao_mok_kai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -95,6 +101,7 @@
 		"thai_script": "ข้าวหมกเนื้อ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Khao_mok_nuea.jpg/110px-Khao_mok_nuea.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -110,6 +117,7 @@
 		"thai_script": "ข้าวมันไก่",
 		"english_name": "Chicken rice",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2013_Khao_man_kai_Chiang_Mai.jpg/110px-2013_Khao_man_kai_Chiang_Mai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -125,6 +133,7 @@
 		"thai_script": "ข้าวหมูกรอบ",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Khao_mu_krop.jpg/110px-Khao_mu_krop.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -140,6 +149,7 @@
 		"thai_script": "ข้าวหมูกรอบหมูแดง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Khao_mu_krop_mu_daeng_in_Nong_Khai.jpg/110px-Khao_mu_krop_mu_daeng_in_Nong_Khai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -155,6 +165,7 @@
 		"thai_script": "ข้าวหน้าเป็ด",
 		"english_name": "Red roast duck on rice",
 		"image": {
+			"ratio": 141.4885777450258,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Khao_na_pet.JPG/110px-Khao_na_pet.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 156,
@@ -170,6 +181,7 @@
 		"thai_script": "ข้าวเหนียว",
 		"english_name": "Glutinous or sticky rice",
 		"image": {
+			"ratio": 128.60013395847287,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kin_khao_niao.JPG/110px-Kin_khao_niao.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 141,
@@ -185,6 +197,7 @@
 		"thai_script": "ข้าวเนื้ออบ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Khao_nuea_op.jpg/110px-Khao_nuea_op.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -200,6 +213,7 @@
 		"thai_script": "ข้าวผัด",
 		"english_name": "Thai fried rice",
 		"image": {
+			"ratio": 93.01143583227446,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thaifriedrice.jpg/110px-Thaifriedrice.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 102,
@@ -215,6 +229,7 @@
 		"thai_script": "ข้าวผัดอเมริกัน",
 		"english_name": "American fried rice",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/American_fried_rice.jpg/110px-American_fried_rice.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -230,6 +245,7 @@
 		"thai_script": "ข้าวผัดแกงเขียวหวาน",
 		"english_name": "",
 		"image": {
+			"ratio": 74.63541666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Khao_phat_kaeng_khiao_wan.jpg/110px-Khao_phat_kaeng_khiao_wan.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 82,
@@ -245,6 +261,7 @@
 		"thai_script": "ข้าวผัดกะเพราหมู",
 		"english_name": "Basil fried rice with pork",
 		"image": {
+			"ratio": 55.57291666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Khao_phat_kraphao_mu.jpg/110px-Khao_phat_kraphao_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 61,
@@ -260,6 +277,7 @@
 		"thai_script": "ข้าวผัดหนำเลี้ยบ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Khao_phat_nam_liap.jpg/110px-Khao_phat_nam_liap.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -275,6 +293,7 @@
 		"thai_script": "ข้าวผัดน้ำพริกลงเรือ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Khao_phat_nam_phrik_long_ruea.jpg/110px-Khao_phat_nam_phrik_long_ruea.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -290,6 +309,7 @@
 		"thai_script": "ข้าวผัดน้ำพริกนรก",
 		"english_name": "",
 		"image": {
+			"ratio": 100.20876826722338,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Khao_phat_nam_phrik_narok.jpg/110px-Khao_phat_nam_phrik_narok.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -305,6 +325,7 @@
 		"thai_script": "ข้าวต้ม",
 		"english_name": "Thai rice soup",
 		"image": {
+			"ratio": 80,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Khao_tom_pla_01.jpg/110px-Khao_tom_pla_01.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 88,
@@ -320,6 +341,7 @@
 		"thai_script": "ข้าวต้มกุ๊ย",
 		"english_name": "Plain rice congee",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Khao_tom_kui.jpg/110px-Khao_tom_kui.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -336,6 +358,7 @@
 		"thai_script": "บะหมี่แห้งเป็ด",
 		"english_name": "Egg noodles served \"dry\" with duck",
 		"image": {
+			"ratio": 149.375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bami_haeng.jpg/110px-Bami_haeng.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 164,
@@ -351,6 +374,7 @@
 		"thai_script": "บะหมี่หมูแดง",
 		"english_name": "Egg noodle soup with red roast pork",
 		"image": {
+			"ratio": 66.97916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bami_mu_daeng_kiao.JPG/110px-Bami_mu_daeng_kiao.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -366,6 +390,7 @@
 		"thai_script": "ขนมจีนแกงเขียวหวานไก่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Khanom_chin_kaeng_kiao_wan_kai.jpg/110px-Khanom_chin_kaeng_kiao_wan_kai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -381,6 +406,7 @@
 		"thai_script": "ขนมจีนน้ำเงี้ยว",
 		"english_name": "",
 		"image": {
+			"ratio": 99.32,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Khanom_chin_nam_ngiao_supoe.jpg/110px-Khanom_chin_nam_ngiao_supoe.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 109,
@@ -396,6 +422,7 @@
 		"thai_script": "ขนมจีนน้ำยา",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Khanom_Jeen_Nam_Yaa.jpg/110px-Khanom_Jeen_Nam_Yaa.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -418,6 +445,7 @@
 		"thai_script": "ข้าวซอย",
 		"english_name": "Northern Thai curry noodles",
 		"image": {
+			"ratio": 66.23376623376623,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Khao_soi_Chiang_Mai.jpg/110px-Khao_soi_Chiang_Mai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -433,6 +461,7 @@
 		"thai_script": "ข้าวซอยแม่สาย",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Khao_soi_Mae_Sai.JPG/110px-Khao_soi_Mae_Sai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -448,6 +477,7 @@
 		"thai_script": "ข้าวซอยน้ำหน้า",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Khao_soi_nam_na.jpg/110px-Khao_soi_nam_na.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -463,6 +493,7 @@
 		"thai_script": "กวยจั๊บ",
 		"english_name": "",
 		"image": {
+			"ratio": 66.97916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kuaichap.JPG/110px-Kuaichap.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -485,6 +516,7 @@
 		"thai_script": "ก๋วยเตี๋ยวเนื้อเปื่อย",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kuaitiao_nuea_pueay.JPG/110px-Kuaitiao_nuea_pueay.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -500,6 +532,7 @@
 		"thai_script": "ก๋วยเตี๋ยวผัดขี้เมา",
 		"english_name": "Drunken noodles",
 		"image": {
+			"ratio": 80,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sen_yai_phat_khi_mao.jpg/110px-Sen_yai_phat_khi_mao.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 88,
@@ -515,6 +548,7 @@
 		"thai_script": "ก๋วยเตี๋ยวราดหน้า",
 		"english_name": "Wide rice noodles in gravy",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kuai-tiao_rat_na_mu.JPG/110px-Kuai-tiao_rat_na_mu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -530,6 +564,7 @@
 		"thai_script": "ก๋วยเตี๋ยวเรือ",
 		"english_name": "Boat noodles",
 		"image": {
+			"ratio": 66.89453125,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Boat_noodles.jpg/110px-Boat_noodles.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -545,6 +580,7 @@
 		"thai_script": "หมี่กรอบ",
 		"english_name": "Thai crispy fried noodles",
 		"image": {
+			"ratio": 67.5,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mee_krob_%28%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%29.jpg/110px-Mee_krob_%28%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%29.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -560,6 +596,7 @@
 		"thai_script": "ผัดมาม่า",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Phat_mama.jpg/110px-Phat_mama.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -575,6 +612,7 @@
 		"thai_script": "ผัดซีอิ๊ว",
 		"english_name": "Noodles stir-fried with soy sauce",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pad_see_ew.jpg/110px-Pad_see_ew.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -590,6 +628,7 @@
 		"thai_script": "ผัดไทย",
 		"english_name": "Noodles pad Thai",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/110px-Phat_Thai_kung_Chang_Khien_street_stall.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -605,6 +644,7 @@
 		"thai_script": "ผัดวุ้นเส้น",
 		"english_name": "Stir-fried glass noodles",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg/110px-Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -620,6 +660,7 @@
 		"thai_script": "สปาเกตตีผัดขี้เมา",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sapaketti_phat_khi_mao.jpg/110px-Sapaketti_phat_khi_mao.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -635,6 +676,7 @@
 		"thai_script": "ต้มยำโบราณ",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tom_yam_boran.jpg/110px-Tom_yam_boran.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -650,6 +692,7 @@
 		"thai_script": "เย็นตาโฟ",
 		"english_name": "",
 		"image": {
+			"ratio": 133.14840499306518,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Yen_tafo.jpg/110px-Yen_tafo.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 146,
@@ -666,6 +709,7 @@
 		"thai_script": "ไข่ดาว",
 		"english_name": "Fried egg",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Khai_dao.JPG/110px-Khai_dao.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -681,6 +725,7 @@
 		"thai_script": "หมูอบ",
 		"english_name": "",
 		"image": {
+			"ratio": 74.9609375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mu_op.jpg/110px-Mu_op.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 82,
@@ -696,6 +741,7 @@
 		"thai_script": "หมูรวมลวกจิ้ม",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mu_ruam_luak_chim.JPG/110px-Mu_ruam_luak_chim.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -711,6 +757,7 @@
 		"thai_script": "ปลาสามทัพ",
 		"english_name": "",
 		"image": {
+			"ratio": 65.78125,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pla_sam_thap.jpg/110px-Pla_sam_thap.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 72,
@@ -726,6 +773,7 @@
 		"thai_script": "โรตีทิชชู",
 		"english_name": "",
 		"image": {
+			"ratio": 66.66666666666666,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Roti_titchu_with_beef_curry.jpg/110px-Roti_titchu_with_beef_curry.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -742,6 +790,7 @@
 		"thai_script": "จิ๊นฮุ่ม",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chin_hum.jpg/110px-Chin_hum.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -764,6 +813,7 @@
 		"thai_script": "ฉู่ฉี่ปลาทูสด",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Chuchi_pla_thu_sot.jpg/110px-Chuchi_pla_thu_sot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -779,6 +829,7 @@
 		"thai_script": "แกงชะอม",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kaeng_chaom.JPG/110px-Kaeng_chaom.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -794,6 +845,7 @@
 		"thai_script": "แกงฟักใส่ไก่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kaeng_fak_sai_kai.JPG/110px-Kaeng_fak_sai_kai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -809,6 +861,7 @@
 		"thai_script": "แกงดอกสะแล",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kaeng_dok_salae.jpg/110px-Kaeng_dok_salae.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -824,6 +877,7 @@
 		"thai_script": "แกงฮังเล",
 		"english_name": "",
 		"image": {
+			"ratio": 125.32637075718016,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kaeng_hangle.jpg/110px-Kaeng_hangle.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 138,
@@ -839,6 +893,7 @@
 		"thai_script": "แกงเห็ด",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kaeng_het.jpg/110px-Kaeng_het.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -854,6 +909,7 @@
 		"thai_script": "แกงโฮะ",
 		"english_name": "",
 		"image": {
+			"ratio": 72.39583333333334,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kaeng_ho.jpg/110px-Kaeng_ho.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 80,
@@ -869,6 +925,7 @@
 		"thai_script": "แกงกะหรี่",
 		"english_name": "Yellow curry",
 		"image": {
+			"ratio": 136.65480427046265,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kaeng_kari_kai.JPG/110px-Kaeng_kari_kai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 150,
@@ -884,6 +941,7 @@
 		"thai_script": "แกงแค",
 		"english_name": "",
 		"image": {
+			"ratio": 73.07415406767458,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kaeng_khae-963.JPG/110px-Kaeng_khae-963.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 80,
@@ -899,6 +957,7 @@
 		"thai_script": "แกงขนุน",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kaeng_kanun_CM.jpg/110px-Kaeng_kanun_CM.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -914,6 +973,7 @@
 		"thai_script": "แกงเขียวหวาน",
 		"english_name": "Green curry",
 		"image": {
+			"ratio": 66.92708333333334,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Thai_green_chicken_curry_and_roti.jpg/110px-Thai_green_chicken_curry_and_roti.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -929,6 +989,7 @@
 		"thai_script": "แกงขี้เหล็ก",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kaeng_khilek.jpg/110px-Kaeng_khilek.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -944,6 +1005,7 @@
 		"thai_script": "แกงคั่ว",
 		"english_name": "",
 		"image": {
+			"ratio": 84.73958333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaeng_khua_het_fang.jpg/110px-Kaeng_khua_het_fang.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 93,
@@ -959,6 +1021,7 @@
 		"thai_script": "แกงคั่วหมูใบชะมวง",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kaeng_khua_mu_bai_chamuang.JPG/110px-Kaeng_khua_mu_bai_chamuang.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -974,6 +1037,7 @@
 		"thai_script": "แกงกระด้าง",
 		"english_name": "",
 		"image": {
+			"ratio": 100.05211047420532,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kaeng_kradang.jpg/110px-Kaeng_kradang.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -989,6 +1053,7 @@
 		"thai_script": "แกงเหลือง",
 		"english_name": "",
 		"image": {
+			"ratio": 74.47916666666666,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaeng_lueang.JPG/110px-Kaeng_lueang.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 82,
@@ -1004,6 +1069,7 @@
 		"thai_script": "แกงมัสมั่น",
 		"english_name": "Massaman curry",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kaeng_matsaman_kai.JPG/110px-Kaeng_matsaman_kai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1019,6 +1085,7 @@
 		"thai_script": "แกงอ่อม",
 		"english_name": "",
 		"image": {
+			"ratio": 65.72916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaeng_om_01.jpg/110px-Kaeng_om_01.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 72,
@@ -1034,6 +1101,7 @@
 		"thai_script": "แกงป่า",
 		"english_name": "Jungle curry",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kaeng_phak_wan.JPG/110px-Kaeng_phak_wan.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1049,6 +1117,7 @@
 		"thai_script": "แกงผักบุ้งใส่ปลา",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kaeng_phak_bung_sai_pla.jpg/110px-Kaeng_phak_bung_sai_pla.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1064,6 +1133,7 @@
 		"thai_script": "แกงผักกาดจอกระดูกหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kaeng_phak_kat_cho_kraduk_mu.jpg/110px-Kaeng_phak_kat_cho_kraduk_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1079,6 +1149,7 @@
 		"thai_script": "แกงผักเลือด",
 		"english_name": "",
 		"image": {
+			"ratio": 142.515923566879,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kaeng_phak_lueat.JPG/110px-Kaeng_phak_lueat.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 157,
@@ -1094,6 +1165,7 @@
 		"thai_script": "แกงผักเซียงดา",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kaeng_phak_siangda.jpg/110px-Kaeng_phak_siangda.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1109,6 +1181,7 @@
 		"thai_script": "แกงผักหวานป่า",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kaeng_phak_wan.JPG/110px-Kaeng_phak_wan.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1124,6 +1197,7 @@
 		"thai_script": "แกงพะแนง",
 		"english_name": "Phanaeng curry",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Phanaeng_kai.jpg/110px-Phanaeng_kai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1139,6 +1213,7 @@
 		"thai_script": "แกงเผ็ด",
 		"english_name": "Red curry",
 		"image": {
+			"ratio": 68.02083333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kaeng_phet_mu.jpg/110px-Kaeng_phet_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 75,
@@ -1154,6 +1229,7 @@
 		"thai_script": "แกงเผ็ดเป็ดย่าง",
 		"english_name": "Red curry with roast duck",
 		"image": {
+			"ratio": 76.6137566137566,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Red_roast_duck_curry.jpg/110px-Red_roast_duck_curry.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 84,
@@ -1169,6 +1245,7 @@
 		"thai_script": "แกงปลี",
 		"english_name": "",
 		"image": {
+			"ratio": 125.49019607843137,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kaeng_pli.jpg/110px-Kaeng_pli.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 138,
@@ -1184,6 +1261,7 @@
 		"thai_script": "แกงส้ม",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kaeng_som_chaom_thot.jpg/110px-Kaeng_som_chaom_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1199,6 +1277,7 @@
 		"thai_script": "แกงไตปลา",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kaeng_tai_pla.JPG/110px-Kaeng_tai_pla.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1214,6 +1293,7 @@
 		"thai_script": "แกงเทโพ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kaeng_thae_pho.jpg/110px-Kaeng_thae_pho.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1229,6 +1309,7 @@
 		"thai_script": "แกงตูน",
 		"english_name": "",
 		"image": {
+			"ratio": 80,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kaeng_tun.jpg/110px-Kaeng_tun.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 88,
@@ -1244,6 +1325,7 @@
 		"thai_script": "แกงยอดมะพร้าวอ่อนใส่ไก่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kaeng_yot_maphrao_sai_kai.JPG/110px-Kaeng_yot_maphrao_sai_kai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1259,6 +1341,7 @@
 		"thai_script": "แกงหยวก",
 		"english_name": "",
 		"image": {
+			"ratio": 99.89583333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kaeng_yuak.JPG/110px-Kaeng_yuak.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1274,6 +1357,7 @@
 		"thai_script": "คั่วกลิ้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 70.3125,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Khua_kling.JPG/110px-Khua_kling.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 77,
@@ -1289,6 +1373,7 @@
 		"thai_script": "คั่วกระดูกหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 71.875,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Khua_kraduk.JPG/110px-Khua_kraduk.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 79,
@@ -1304,6 +1389,7 @@
 		"thai_script": "ยำจิ๊นไก่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yam_chin_kai_sai_hua_pli.jpg/110px-Yam_chin_kai_sai_hua_pli.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1327,6 +1413,7 @@
 		"thai_script": "ไก่ตุ๋นยาจีน",
 		"english_name": "",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kai_tun_ya_chin.JPG/110px-Kai_tun_ya_chin.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -1342,6 +1429,7 @@
 		"thai_script": "น้ำซุป",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nam_sup.jpg/110px-Nam_sup.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1357,6 +1445,7 @@
 		"thai_script": "ต้มจืด\nแกงจืด",
 		"english_name": "Clear vegetable soup",
 		"image": {
+			"ratio": 66.92708333333334,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tom_jued_tahoo.jpg/110px-Tom_jued_tahoo.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -1372,6 +1461,7 @@
 		"thai_script": "ต้มข่าไก่",
 		"english_name": "Coconut soup with chicken",
 		"image": {
+			"ratio": 150.51647811116578,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flickr_preppybyday_4711943668--Tom_kha_gai.jpg/110px-Flickr_preppybyday_4711943668--Tom_kha_gai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -1387,6 +1477,7 @@
 		"thai_script": "ต้มโคล้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tom_khlong.JPG/110px-Tom_khlong.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1402,6 +1493,7 @@
 		"thai_script": "ต้มมะระ",
 		"english_name": "Bitter melon soup",
 		"image": {
+			"ratio": 122.44897959183673,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tom_mara_yat_sai_mu_sap_wunsen.jpg/110px-Tom_mara_yat_sai_mu_sap_wunsen.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 135,
@@ -1417,6 +1509,7 @@
 		"thai_script": "ต้มผักกาดดองหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tom_phak_kat_dong_mu.JPG/110px-Tom_phak_kat_dong_mu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1432,6 +1525,7 @@
 		"thai_script": "ต้มแซ่บ",
 		"english_name": "Hot and sour Isan soup",
 		"image": {
+			"ratio": 66.97916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_saep.JPG/110px-Tom_saep.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -1447,6 +1541,7 @@
 		"thai_script": "ต้มส้มกระดูกหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tom_som_kraduk_mu.JPG/110px-Tom_som_kraduk_mu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -1462,6 +1557,7 @@
 		"thai_script": "ต้มยำ",
 		"english_name": "Tom yum soup",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tom_yum.jpg/110px-Tom_yum.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1477,6 +1573,7 @@
 		"thai_script": "ต้มเยื่อไผ่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tom_yuea_phai.jpg/110px-Tom_yuea_phai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1493,6 +1590,7 @@
 		"thai_script": "ก้อยปลา",
 		"english_name": "",
 		"image": {
+			"ratio": 85.13379583746283,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Koi_pla.png/110px-Koi_pla.png",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 94,
@@ -1508,6 +1606,7 @@
 		"thai_script": "ลาบอีสาน",
 		"english_name": "Larb",
 		"image": {
+			"ratio": 67.86458333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lap_mu_isan.JPG/110px-Lap_mu_isan.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 75,
@@ -1523,6 +1622,7 @@
 		"thai_script": "ลาบล้านนา",
 		"english_name": "",
 		"image": {
+			"ratio": 100.05211047420532,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lap_khua_mu.JPG/110px-Lap_khua_mu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1538,6 +1638,7 @@
 		"thai_script": "ลาบเนื้อดิบ",
 		"english_name": "",
 		"image": {
+			"ratio": 80,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lap_nuea_dip.jpg/110px-Lap_nuea_dip.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 88,
@@ -1553,6 +1654,7 @@
 		"thai_script": "หมูน้ำตก",
 		"english_name": "",
 		"image": {
+			"ratio": 66.9375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moo_nam_tok.jpg/110px-Moo_nam_tok.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -1568,6 +1670,7 @@
 		"thai_script": "แหนมคลุก",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Naem_khluk_1.jpg/110px-Naem_khluk_1.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1583,6 +1686,7 @@
 		"thai_script": "เนื้อย่างน้ำตก",
 		"english_name": "",
 		"image": {
+			"ratio": 137.53581661891116,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nuea_yang_nam_tok.jpg/110px-Nuea_yang_nam_tok.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 151,
@@ -1598,6 +1702,7 @@
 		"thai_script": "พล่ากุ้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phla_kung.jpg/110px-Phla_kung.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -1613,6 +1718,7 @@
 		"thai_script": "พล่าหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 71.66666666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Phla_mu.jpg/110px-Phla_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 79,
@@ -1628,6 +1734,7 @@
 		"thai_script": "พล่าเนื้อมะเขืออ่อน",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Phla_nuea_makhuea_on.jpg/110px-Phla_nuea_makhuea_on.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1643,6 +1750,7 @@
 		"thai_script": "ส้าเนื้อสะดุ้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sa_nuea_sadung_Lap_Lung_Noi.jpg/110px-Sa_nuea_sadung_Lap_Lung_Noi.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1658,6 +1766,7 @@
 		"thai_script": "ส้มตำไข่เค็ม",
 		"english_name": "",
 		"image": {
+			"ratio": 68.0385288966725,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Som_tam_khai_khem.jpg/110px-Som_tam_khai_khem.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 75,
@@ -1673,6 +1782,7 @@
 		"thai_script": "ส้มตำปลาร้า",
 		"english_name": "",
 		"image": {
+			"ratio": 74.23611111111111,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/2013_Tam_Lao.jpg/110px-2013_Tam_Lao.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 82,
@@ -1688,6 +1798,7 @@
 		"thai_script": "ส้มตำปู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Som_tam_pu.jpg/110px-Som_tam_pu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1703,6 +1814,7 @@
 		"thai_script": "ส้มตำไทย",
 		"english_name": "Thai papaya salad",
 		"image": {
+			"ratio": 66.97916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Som_tam_thai.JPG/110px-Som_tam_thai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -1718,6 +1830,7 @@
 		"thai_script": "ตำขนุน",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tam_khanun.jpg/110px-Tam_khanun.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1733,6 +1846,7 @@
 		"thai_script": "ตำมะเขือ",
 		"english_name": "",
 		"image": {
+			"ratio": 65.96194503171247,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tam_makhuea.JPG/110px-Tam_makhuea.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1748,6 +1862,7 @@
 		"thai_script": "ตำมะม่วง",
 		"english_name": "",
 		"image": {
+			"ratio": 72.86458333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tam_mamuang_pla_haeng_thot.jpg/110px-Tam_mamuang_pla_haeng_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 80,
@@ -1763,6 +1878,7 @@
 		"thai_script": "ตำมะพร้าวอ่อนเส้นหมี่กรอบ",
 		"english_name": "",
 		"image": {
+			"ratio": 100.05211047420532,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tam_maphrao_on_sen_mi_krop_01.jpg/110px-Tam_maphrao_on_sen_mi_krop_01.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1778,6 +1894,7 @@
 		"thai_script": "ตำหมูยอ",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tam_mu_yo.jpg/110px-Tam_mu_yo.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1793,6 +1910,7 @@
 		"thai_script": "ตำผลไม้รวม",
 		"english_name": "",
 		"image": {
+			"ratio": 66.92708333333334,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tam_phonla_mai_ruam.jpg/110px-Tam_phonla_mai_ruam.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -1808,6 +1926,7 @@
 		"thai_script": "ตำส้มโอน้ำปู",
 		"english_name": "",
 		"image": {
+			"ratio": 75.72916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tam_som-o_nam_pu.JPG/110px-Tam_som-o_nam_pu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -1830,6 +1949,7 @@
 		"thai_script": "ยำใบชา",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Yam_bai_cha.jpg/110px-Yam_bai_cha.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1845,6 +1965,7 @@
 		"thai_script": "ยำหูหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Yam_hu_mu.jpg/110px-Yam_hu_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1860,6 +1981,7 @@
 		"thai_script": "ยำหัวปลีทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yam_huapli_thot_02.jpg/110px-Yam_huapli_thot_02.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1875,6 +1997,7 @@
 		"thai_script": "ยำหอยแครง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yam_hoi_khraeng.jpg/110px-Yam_hoi_khraeng.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -1890,6 +2013,7 @@
 		"thai_script": "ยำไข่ดาว",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Yam_khai_dao.JPG/110px-Yam_khai_dao.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1905,6 +2029,7 @@
 		"thai_script": "ยำขมิ้นขาวกุ้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Yam_khamin_khao_kung.jpeg/110px-Yam_khamin_khao_kung.jpeg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1920,6 +2045,7 @@
 		"thai_script": "ยำกุนเชียง",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Yam_kun_chiang.JPG/110px-Yam_kun_chiang.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1935,6 +2061,7 @@
 		"thai_script": "ยำหมูกรอบ",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Yam_mu_krop.JPG/110px-Yam_mu_krop.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1950,6 +2077,7 @@
 		"thai_script": "ยำหมูยอ",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Yam_mu_yo.jpg/110px-Yam_mu_yo.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1965,6 +2093,7 @@
 		"thai_script": "ยำหมูยอทอดไข่ดาว",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Yam_mu_yo_thot_khai_dao.jpg/110px-Yam_mu_yo_thot_khai_dao.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1980,6 +2109,7 @@
 		"thai_script": "ยำแหนมสด",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yam_naem.JPG/110px-Yam_naem.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -1995,6 +2125,7 @@
 		"thai_script": "ยำหน่อไม้",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Yam_no_mai.jpg/110px-Yam_no_mai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2010,6 +2141,7 @@
 		"thai_script": "ยำหน่อไม้ใส่น้ำปู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yam_no_mai_sai_nam_pu.JPG/110px-Yam_no_mai_sai_nam_pu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2025,6 +2157,7 @@
 		"thai_script": "ยำเนื้อย่าง",
 		"english_name": "Thai grilled beef salad",
 		"image": {
+			"ratio": 149.375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yam_nuea_yang.jpg/110px-Yam_nuea_yang.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 164,
@@ -2040,6 +2173,7 @@
 		"thai_script": "ยำผักกูด",
 		"english_name": "",
 		"image": {
+			"ratio": 133.33333333333331,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yam_phak_khut.jpg/110px-Yam_phak_khut.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 147,
@@ -2055,6 +2189,7 @@
 		"thai_script": "ยำปลาดุกฟู",
 		"english_name": "\"Exploded\" catfish salad",
 		"image": {
+			"ratio": 65.72916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yum_pladook_foo.jpg/110px-Yum_pladook_foo.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 72,
@@ -2070,6 +2205,7 @@
 		"thai_script": "ยำปลาเค็ม",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Yam_pla_khem.JPG/110px-Yam_pla_khem.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2085,6 +2221,7 @@
 		"thai_script": "ยำปลาทู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Yam_plathu.JPG/110px-Yam_plathu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2100,6 +2237,7 @@
 		"thai_script": "ยำสะนัด",
 		"english_name": "",
 		"image": {
+			"ratio": 86.4,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Yam_sanat.jpg/110px-Yam_sanat.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 95,
@@ -2115,6 +2253,7 @@
 		"thai_script": "ยำส้มโอ",
 		"english_name": "",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Yam_som-o.JPG/110px-Yam_som-o.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -2130,6 +2269,7 @@
 		"thai_script": "ยำตะไคร้กุ้งสด",
 		"english_name": "",
 		"image": {
+			"ratio": 134.92621222768798,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Yam_takhrai_kung_sot.jpg/110px-Yam_takhrai_kung_sot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 148,
@@ -2145,6 +2285,7 @@
 		"thai_script": "ยำทะเล",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yam_thale.jpg/110px-Yam_thale.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2160,6 +2301,7 @@
 		"thai_script": "ยำถั่วพู",
 		"english_name": "",
 		"image": {
+			"ratio": 65.57616170035423,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yam_thua_phu.jpg/110px-Yam_thua_phu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 72,
@@ -2175,6 +2317,7 @@
 		"thai_script": "ยำวุ้นเส้น",
 		"english_name": "Thai glass noodle salad",
 		"image": {
+			"ratio": 142.64487369985142,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Yam_wun_sen.JPG/110px-Yam_wun_sen.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 157,
@@ -2191,6 +2334,7 @@
 		"thai_script": "ไก่ผัดขิง",
 		"english_name": "Ginger fried chicken",
 		"image": {
+			"ratio": 79.58441558441558,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kai_phat_khing.jpg/110px-Kai_phat_khing.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 88,
@@ -2206,6 +2350,7 @@
 		"thai_script": "ไก่ผัดเม็ดมะม่วงหิมพานต์",
 		"english_name": "Chicken with cashewnuts",
 		"image": {
+			"ratio": 63.489583333333336,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kai_phat_met_mamuang_himaphan.JPG/110px-Kai_phat_met_mamuang_himaphan.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 70,
@@ -2228,6 +2373,7 @@
 		"thai_script": "คั่วจิ๊นส้มใส่ไข่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Khua_chin_som_sai_khai.JPG/110px-Khua_chin_som_sai_khai.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2243,6 +2389,7 @@
 		"thai_script": "คั่วห่อ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Khua_ho.JPG/110px-Khua_ho.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2258,6 +2405,7 @@
 		"thai_script": "คั่วหน่อไม้ใส่หมู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Khua_no_mai_sai_mu.jpg/110px-Khua_no_mai_sai_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2273,6 +2421,7 @@
 		"thai_script": "กะเพราหอยลาย",
 		"english_name": "",
 		"image": {
+			"ratio": 130.0813008130081,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kraphao_hoi_lai.jpg/110px-Kraphao_hoi_lai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 143,
@@ -2288,6 +2437,7 @@
 		"thai_script": "ไข่ลูกเขย",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Khai_luk_khoei.jpg/110px-Khai_luk_khoei.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2310,6 +2460,7 @@
 		"thai_script": "หมูผัดพริกขิง",
 		"english_name": "",
 		"image": {
+			"ratio": 149.375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mu_phat_phrik_khing.jpg/110px-Mu_phat_phrik_khing.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 164,
@@ -2325,6 +2476,7 @@
 		"thai_script": "หมูผัดสะตอ",
 		"english_name": "",
 		"image": {
+			"ratio": 81.40625,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mu_phat_sato.jpg/110px-Mu_phat_sato.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 90,
@@ -2340,6 +2492,7 @@
 		"thai_script": "หมูผัดสะตอภาคใต้",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mu_phat_sato_southern_style.jpg/110px-Mu_phat_sato_southern_style.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2355,6 +2508,7 @@
 		"thai_script": "หมูหวาน",
 		"english_name": "",
 		"image": {
+			"ratio": 100.05211047420532,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mu_wan.jpg/110px-Mu_wan.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2370,6 +2524,7 @@
 		"thai_script": "หน่อไม้ฝรั่งผัดกุ้ง",
 		"english_name": "Asparagus stir-fried with prawns",
 		"image": {
+			"ratio": 67.44791666666666,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nor_mai_farang_phat_kung.jpg/110px-Nor_mai_farang_phat_kung.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -2385,6 +2540,7 @@
 		"thai_script": "เนื้อผัดใบยี่หร่า",
 		"english_name": "Beef stir-fried with African basil",
 		"image": {
+			"ratio": 67.04668838219327,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Nuea_phat_bai_yira.jpg/110px-Nuea_phat_bai_yira.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -2400,6 +2556,7 @@
 		"thai_script": "ผักบุ้งไฟแดง",
 		"english_name": "Fried morning-glory",
 		"image": {
+			"ratio": 66.92708333333334,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pak_boong_fai_daeng.jpg/110px-Pak_boong_fai_daeng.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -2415,6 +2572,7 @@
 		"thai_script": "ผักคะน้าน้ำมันหอย",
 		"english_name": "Chinese kale stir-fried with oyster sauce",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Phak_kana_nam_man_hoi.jpg/110px-Phak_kana_nam_man_hoi.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -2430,6 +2588,7 @@
 		"thai_script": "ผัดบวบ",
 		"english_name": "Stir-fried Luffa",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Phat_buap.jpg/110px-Phat_buap.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2445,6 +2604,7 @@
 		"thai_script": "ผัดดอกหอม",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Phat_dok_hom.jpg/110px-Phat_dok_hom.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2460,6 +2620,7 @@
 		"thai_script": "ผัดคะน้าหมูกรอบ",
 		"english_name": "Fried kale with crispy pork",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Phat_khana_mu_krop.jpg/110px-Phat_khana_mu_krop.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -2475,6 +2636,7 @@
 		"thai_script": "ผัดแขนงหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 68.07291666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Phat_khanaeng_mu.jpg/110px-Phat_khanaeng_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 75,
@@ -2490,6 +2652,7 @@
 		"thai_script": "ผัดกะเพรา",
 		"english_name": "Fried with holy basil",
 		"image": {
+			"ratio": 67.70833333333334,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kraphao_moo.jpg/110px-Kraphao_moo.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -2505,6 +2668,7 @@
 		"thai_script": "ผัดแหนมไส่ไข่",
 		"english_name": "",
 		"image": {
+			"ratio": 74.16666666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Phat_naem_sai_khai.jpg/110px-Phat_naem_sai_khai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 82,
@@ -2520,6 +2684,7 @@
 		"thai_script": "ผัดหน่อไม้ใส่ไข่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Phat_no_mai_sai_khai.jpg/110px-Phat_no_mai_sai_khai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2535,6 +2700,7 @@
 		"thai_script": "ผัดผักโขม",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Phat_phak_khom.jpg/110px-Phat_phak_khom.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2550,6 +2716,7 @@
 		"thai_script": "ผัดผักรวม",
 		"english_name": "Stir fried mixed vegetables",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2008-06-14ThaiRestaurant03.jpg/110px-2008-06-14ThaiRestaurant03.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -2572,6 +2739,7 @@
 		"thai_script": "ผัดยอดฟักแม้ว",
 		"english_name": "Stir-fried mountain melon greens",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2013_Phat_sayongte.jpg/110px-2013_Phat_sayongte.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2587,6 +2755,7 @@
 		"thai_script": "ปูนิ่มผัดผงกะหรี่",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phunim_phat_pong_kari.jpg/110px-Phunim_phat_pong_kari.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2602,6 +2771,7 @@
 		"thai_script": "ปลาดุกผัดเผ็ด",
 		"english_name": "",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pla_duk_phat_phet.jpg/110px-Pla_duk_phat_phet.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -2617,6 +2787,7 @@
 		"thai_script": "ปลากะพงผัดขึ้นฉ่าย",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pla_kaphong_phat_khuen_chai.jpg/110px-Pla_kaphong_phat_khuen_chai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2632,6 +2803,7 @@
 		"thai_script": "ปลาหมึกผัดพริกเผา",
 		"english_name": "",
 		"image": {
+			"ratio": 64.375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pla_muek_phat_phrik_phao.JPG/110px-Pla_muek_phat_phrik_phao.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 71,
@@ -2647,6 +2819,7 @@
 		"thai_script": "ตับไก่ผัดพริกสด",
 		"english_name": "",
 		"image": {
+			"ratio": 79.56,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tap_kai_phat_phrik_sot.jpg/110px-Tap_kai_phat_phrik_sot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 88,
@@ -2662,6 +2835,7 @@
 		"thai_script": "ถั่วงอกปลาเค็ม",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Thua_ngok_pla_khem.jpg/110px-Thua_ngok_pla_khem.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -2678,6 +2852,7 @@
 		"thai_script": "ไก่ห่อใบเตย",
 		"english_name": "Chicken wrapped in pandan leaves",
 		"image": {
+			"ratio": 64.85303314571608,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kai_ho_bai_toei.jpg/110px-Kai_ho_bai_toei.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 71,
@@ -2693,6 +2868,7 @@
 		"thai_script": "ไก่ทอดตะไคร้",
 		"english_name": "Deep fried chicken and lemongrass",
 		"image": {
+			"ratio": 71.83229813664596,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kai_thot_takhrai.jpg/110px-Kai_thot_takhrai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 79,
@@ -2708,6 +2884,7 @@
 		"thai_script": "ไก่ทอด",
 		"english_name": "Deep-fried chicken",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kai_thot_krueng_thae.JPG/110px-Kai_thot_krueng_thae.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2723,6 +2900,7 @@
 		"thai_script": "แคบหมู",
 		"english_name": "Pork cracklings",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Khaep_mu.jpg/110px-Khaep_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2745,6 +2923,7 @@
 		"thai_script": "หมูทอดกระเทียม",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mu_thot_krathiam.jpg/110px-Mu_thot_krathiam.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2760,6 +2939,7 @@
 		"thai_script": "หนังไก่ทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nang_kai_thot.JPG/110px-Nang_kai_thot.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2775,6 +2955,7 @@
 		"thai_script": "หน่อยัดไส้ทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 74.08,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/No_yat_sai_thot_01.jpg/110px-No_yat_sai_thot_01.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 81,
@@ -2797,6 +2978,7 @@
 		"thai_script": "ปลาบ้วง",
 		"english_name": "",
 		"image": {
+			"ratio": 79.94791666666666,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2013_Pla_buang.jpg/110px-2013_Pla_buang.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 88,
@@ -2812,6 +2994,7 @@
 		"thai_script": "ปลากรายทอดกระเทียม",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pla_krai_thot.JPG/110px-Pla_krai_thot.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2827,6 +3010,7 @@
 		"thai_script": "ปลานิลทอดสมุนไพร",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pla_nin_thot_samun_prai.jpg/110px-Pla_nin_thot_samun_prai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2842,6 +3026,7 @@
 		"thai_script": "ปลาสามรส",
 		"english_name": "Three flavours fish",
 		"image": {
+			"ratio": 66.9375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pla_tub_tim_tod_samrod.jpg/110px-Pla_tub_tim_tod_samrod.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -2857,6 +3042,7 @@
 		"thai_script": "ปลาทอด",
 		"english_name": "Deep-fried fish",
 		"image": {
+			"ratio": 59.06249999999999,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pla_nin_thot.jpg/110px-Pla_nin_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 65,
@@ -2872,6 +3058,7 @@
 		"thai_script": "ปลาทอดขมิ้น",
 		"english_name": "",
 		"image": {
+			"ratio": 130.79019073569484,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pla_sai_daeng_thot.jpg/110px-Pla_sai_daeng_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 144,
@@ -2887,6 +3074,7 @@
 		"thai_script": "ปลาวงทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 65.98958333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pla_wong_thot.jpg/110px-Pla_wong_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -2909,6 +3097,7 @@
 		"thai_script": "ไส้หมูทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 108.65874363327674,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sai_mu_thot.JPG/110px-Sai_mu_thot.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 120,
@@ -2924,6 +3113,7 @@
 		"thai_script": "ซี่โครงหมูทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Si_khrong_mu_thot.JPG/110px-Si_khrong_mu_thot.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -2940,6 +3130,7 @@
 		"thai_script": "แอ็บหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aep_mu.JPG/110px-Aep_mu.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -2955,6 +3146,7 @@
 		"thai_script": "แอ็บอ่องออ",
 		"english_name": "",
 		"image": {
+			"ratio": 141.7233560090703,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aep_ong-o.jpg/110px-Aep_ong-o.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 156,
@@ -2970,6 +3162,7 @@
 		"thai_script": "แอ็บปลาน้อย",
 		"english_name": "",
 		"image": {
+			"ratio": 75.01960784313727,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aep_pla_noi.jpg/110px-Aep_pla_noi.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -2985,6 +3178,7 @@
 		"thai_script": "จิ๊นส้มหมก",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chin_som_mok.JPG/110px-Chin_som_mok.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3000,6 +3194,7 @@
 		"thai_script": "ไก่ย่าง",
 		"english_name": "Grilled chicken",
 		"image": {
+			"ratio": 63.69268897149938,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kai_yang_CM.jpg/110px-Kai_yang_CM.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 70,
@@ -3015,6 +3210,7 @@
 		"thai_script": "คอหมูย่างกระทะร้อน",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kho_mu_yang_kratha_ron.jpg/110px-Kho_mu_yang_kratha_ron.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3030,6 +3226,7 @@
 		"thai_script": "กุ้งย่าง/กุ้งเผา",
 		"english_name": "Grilled prawns",
 		"image": {
+			"ratio": 69.63541666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kung_yang.JPG/110px-Kung_yang.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 77,
@@ -3045,6 +3242,7 @@
 		"thai_script": "หมูมะนาว",
 		"english_name": "Pork with lime juice",
 		"image": {
+			"ratio": 66.97916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mu_manao.JPG/110px-Mu_manao.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -3060,6 +3258,7 @@
 		"thai_script": "หมูย่าง",
 		"english_name": "Isan grilled pork",
 		"image": {
+			"ratio": 66.92708333333334,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Huay_Kaew_waterfall_mu_yang.jpg/110px-Huay_Kaew_waterfall_mu_yang.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -3075,6 +3274,7 @@
 		"thai_script": "เนื้อปิ้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 87.55208333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nuea_ping.jpg/110px-Nuea_ping.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 96,
@@ -3090,6 +3290,7 @@
 		"thai_script": "ป่ามไข่มด",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pam_khai_mot.jpg/110px-Pam_khai_mot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3105,6 +3306,7 @@
 		"thai_script": "ไส้กรอกอีสาน",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sai_krok_Isan_yai.jpg/110px-Sai_krok_Isan_yai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3120,6 +3322,7 @@
 		"thai_script": "ไส้หมูปิ้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sai_mu_ping.jpg/110px-Sai_mu_ping.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3135,6 +3338,7 @@
 		"thai_script": "ไส้อั่ว",
 		"english_name": "\"Chiang mai sausage\"",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sai_ua_CR.jpg/110px-Sai_ua_CR.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3150,6 +3354,7 @@
 		"thai_script": "เสือร้องไห้",
 		"english_name": "Weeping tiger beef",
 		"image": {
+			"ratio": 64.03417378620546,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Suea_rong_hai.jpg/110px-Suea_rong_hai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 70,
@@ -3166,6 +3371,7 @@
 		"thai_script": "ใบปอ",
 		"english_name": "Jute leaves",
 		"image": {
+			"ratio": 71.97916666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bai_po.JPG/110px-Bai_po.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 79,
@@ -3181,6 +3387,7 @@
 		"thai_script": "ห่อหมกปลา",
 		"english_name": "Fish curry pâté",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thai_style_Otah.JPG/110px-Thai_style_Otah.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -3196,6 +3403,7 @@
 		"thai_script": "ห่อหมกมะพร้าวอ่อน",
 		"english_name": "",
 		"image": {
+			"ratio": 138.82863340563992,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ho_mok_thale.jpg/110px-Ho_mok_thale.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 153,
@@ -3211,6 +3419,7 @@
 		"thai_script": "ปลานึ่งมะนาว",
 		"english_name": "Steamed fish with lime juice",
 		"image": {
+			"ratio": 73.39782345828296,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Thai_steamed_fish_with_lime_juice-2.jpg/110px-Thai_steamed_fish_with_lime_juice-2.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 81,
@@ -3227,6 +3436,7 @@
 		"thai_script": "ไข่พะโล้",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mu_phalo.JPG/110px-Mu_phalo.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3243,6 +3453,7 @@
 		"thai_script": "น้ำจิ้มแจ่ว",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nam_chim_chaeo_2.jpg/110px-Nam_chim_chaeo_2.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -3258,6 +3469,7 @@
 		"thai_script": "น้ำจิ้มไก่",
 		"english_name": "Chicken chilli sauce",
 		"image": {
+			"ratio": 133.33333333333331,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sweet_chilli_sauce.jpg/110px-Sweet_chilli_sauce.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 147,
@@ -3273,6 +3485,7 @@
 		"thai_script": "น้ำจิ้มแป๊ะซะ",
 		"english_name": "",
 		"image": {
+			"ratio": 98.58793324775354,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nam_Chim_Paesa_-_Thai_dip.jpg/110px-Nam_Chim_Paesa_-_Thai_dip.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 108,
@@ -3295,6 +3508,7 @@
 		"thai_script": "น้ำปลาพริก",
 		"english_name": "",
 		"image": {
+			"ratio": 66.95833333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Phrik_nam_pla.jpg/110px-Phrik_nam_pla.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -3310,6 +3524,7 @@
 		"thai_script": "น้ำพริกอีเก๋",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nam_phrik_i-ke.jpg/110px-Nam_phrik_i-ke.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3325,6 +3540,7 @@
 		"thai_script": "น้ำพริกกะปิ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nam_phrik_kapi_2.jpg/110px-Nam_phrik_kapi_2.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3340,6 +3556,7 @@
 		"thai_script": "น้ำพริกข่า",
 		"english_name": "",
 		"image": {
+			"ratio": 109.58904109589041,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nam_phrik_kha.JPG/110px-Nam_phrik_kha.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 121,
@@ -3355,6 +3572,7 @@
 		"thai_script": "น้ำพริกแคบหมู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nam_phrik_kaep_mu.jpg/110px-Nam_phrik_kaep_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3370,6 +3588,7 @@
 		"thai_script": "น้ำพริกลงเรือ",
 		"english_name": "",
 		"image": {
+			"ratio": 150.9433962264151,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nam_phrik_long_ruea.jpg/110px-Nam_phrik_long_ruea.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 166,
@@ -3385,6 +3604,7 @@
 		"thai_script": "น้ำพริกหนุ่ม",
 		"english_name": "",
 		"image": {
+			"ratio": 99.94791666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nam_phrik_num.jpg/110px-Nam_phrik_num.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3400,6 +3620,7 @@
 		"thai_script": "น้ำพริกอ่อง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Nam_phrik_ong_02.jpg/110px-Nam_phrik_ong_02.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3422,6 +3643,7 @@
 		"thai_script": "น้ำพริกปลาจี่",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nam_phrik_pla_chi.jpg/110px-Nam_phrik_pla_chi.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3437,6 +3659,7 @@
 		"thai_script": "ปูอ่อง or อ่องปู",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pu_ong.jpg/110px-Pu_ong.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3452,6 +3675,7 @@
 		"thai_script": "ซอสศรีราชา",
 		"english_name": "Sriracha sauce",
 		"image": {
+			"ratio": 133.33333333333331,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Siracha_sauce.jpg/110px-Siracha_sauce.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 147,
@@ -3468,6 +3692,7 @@
 		"thai_script": "จิ้งหรีดทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chingrit_thot.jpg/110px-Chingrit_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -3483,6 +3708,7 @@
 		"thai_script": "ไก่รมควัน",
 		"english_name": "Smoked chicken",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kai_rom_khwan.jpg/110px-Kai_rom_khwan.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3498,6 +3724,7 @@
 		"thai_script": "กะหรี่ปั๊บ",
 		"english_name": "Curry puff",
 		"image": {
+			"ratio": 66.23376623376623,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Karipap_Chiang_Mai.jpg/110px-Karipap_Chiang_Mai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3513,6 +3740,7 @@
 		"thai_script": "แคบหมู",
 		"english_name": "Crispy pork rind",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Khaep_mu.jpg/110px-Khaep_mu.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3528,6 +3756,7 @@
 		"thai_script": "ขนมจีบ",
 		"english_name": "Siu mai",
 		"image": {
+			"ratio": 78.02083333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Khanom_chip.jpg/110px-Khanom_chip.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 86,
@@ -3543,6 +3772,7 @@
 		"thai_script": "ขนมกุยช่าย",
 		"english_name": "",
 		"image": {
+			"ratio": 119.38872970391594,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Khanom_kuichai.jpg/110px-Khanom_kuichai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 131,
@@ -3558,6 +3788,7 @@
 		"thai_script": "ขนมโตเกียว",
 		"english_name": "",
 		"image": {
+			"ratio": 144.25244177310293,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Khanom_Tokiao.jpg/110px-Khanom_Tokiao.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 159,
@@ -3573,6 +3804,7 @@
 		"thai_script": "ข้าวพันงาม้วน",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Khao_phan_nga_muan.jpg/110px-Khao_phan_nga_muan.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3588,6 +3820,7 @@
 		"thai_script": "ข้าวพันผัก",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Khao_phan_phak.jpg/110px-Khao_phan_phak.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3603,6 +3836,7 @@
 		"thai_script": "ลูกชิ้นปิ้ง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Grilled_pork_and_beef_balls.jpg/110px-Grilled_pork_and_beef_balls.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3618,6 +3852,7 @@
 		"thai_script": "มะม่วงน้ำปลาหวาน",
 		"english_name": "",
 		"image": {
+			"ratio": 66.69921875,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mamuang_nam_pla_wan.jpg/110px-Mamuang_nam_pla_wan.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3633,6 +3868,7 @@
 		"thai_script": "เมี่ยงคำ",
 		"english_name": "",
 		"image": {
+			"ratio": 139.80169971671387,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Miang_kam_ready.JPG/110px-Miang_kam_ready.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 154,
@@ -3648,6 +3884,7 @@
 		"thai_script": "เมี่ยงปลา",
 		"english_name": "",
 		"image": {
+			"ratio": 100.05211047420532,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Miang_pla.jpg/110px-Miang_pla.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3663,6 +3900,7 @@
 		"thai_script": "หมูแดดเดียว",
 		"english_name": "",
 		"image": {
+			"ratio": 100.10427528675704,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mu_daet_diao.jpg/110px-Mu_daet_diao.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3678,6 +3916,7 @@
 		"thai_script": "เนื้อแดดเดียวกะเพราทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 66.37005216324026,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nuea_daet_diao_kraphao_thot.jpg/110px-Nuea_daet_diao_kraphao_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -3693,6 +3932,7 @@
 		"thai_script": "เนื้อเค็มทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nuea_khem_thot.jpg/110px-Nuea_khem_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3708,6 +3948,7 @@
 		"thai_script": "ปลาหมึกย่าง",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Plamuk_yang.jpg/110px-Plamuk_yang.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -3723,6 +3964,7 @@
 		"thai_script": "สะเต๊ะ",
 		"english_name": "Satay",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mu_sate.JPG/110px-Mu_sate.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3738,6 +3980,7 @@
 		"thai_script": "ทอดมันข้าวโพด",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Thot_man_khaophot.JPG/110px-Thot_man_khaophot.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3753,6 +3996,7 @@
 		"thai_script": "ทอดมันปลา",
 		"english_name": "Fried fish cakes",
 		"image": {
+			"ratio": 66.9375,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Thanin_market_tod_man_pla.jpg/110px-Thanin_market_tod_man_pla.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -3782,6 +4026,7 @@
 		"thai_script": "ถุงทอง",
 		"english_name": "Money bag",
 		"image": {
+			"ratio": 132.2314049586777,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Thung_thong_kung_sot.jpg/110px-Thung_thong_kung_sot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 145,
@@ -3797,6 +4042,7 @@
 		"thai_script": "ตัวไหมทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tua_mai_thot.jpg/110px-Tua_mai_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -3813,6 +4059,7 @@
 		"thai_script": "เฉาก๊วย",
 		"english_name": "Grass jelly",
 		"image": {
+			"ratio": 75.88541666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chao_guay_thai_grass_jelly.jpg/110px-Chao_guay_thai_grass_jelly.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 83,
@@ -3828,6 +4075,7 @@
 		"thai_script": "ดาราทอง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dara_Thong2.jpg/110px-Dara_Thong2.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3843,6 +4091,7 @@
 		"thai_script": "ฝอยทอง",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Foi_thong.jpg/110px-Foi_thong.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3879,6 +4128,7 @@
 		"thai_script": "ขนมครก",
 		"english_name": "",
 		"image": {
+			"ratio": 132.2314049586777,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Khanom_khrok.jpg/110px-Khanom_khrok.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 145,
@@ -3894,6 +4144,7 @@
 		"thai_script": "ขนมหม้อแกง",
 		"english_name": "",
 		"image": {
+			"ratio": 100.11025358324146,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mo_Geng.JPG/110px-Mo_Geng.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3916,6 +4167,7 @@
 		"thai_script": "ขนมตะโก้",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Khanom_tako_sai.jpg/110px-Khanom_tako_sai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -3931,6 +4183,7 @@
 		"thai_script": "ขนมตะโก้เผือก",
 		"english_name": "",
 		"image": {
+			"ratio": 83.04172274562585,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Khanom_tako_pheuak70.jpg/110px-Khanom_tako_pheuak70.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 91,
@@ -3960,6 +4213,7 @@
 		"thai_script": "ขนมต้ม",
 		"english_name": "",
 		"image": {
+			"ratio": 119.62616822429905,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Khanom_tom.JPG/110px-Khanom_tom.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 132,
@@ -3975,6 +4229,7 @@
 		"thai_script": "ขนมวุ้น",
 		"english_name": "",
 		"image": {
+			"ratio": 69.16666666666667,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/CM_khanom_wun.jpg/110px-CM_khanom_wun.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 76,
@@ -3990,6 +4245,7 @@
 		"thai_script": "ข้าวเหนียวมะม่วง",
 		"english_name": "Mango with sticky rice",
 		"image": {
+			"ratio": 71.57534246575342,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mango_with_glutinous_rice.jpg/110px-Mango_with_glutinous_rice.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 79,
@@ -4005,6 +4261,7 @@
 		"thai_script": "ข้าวเหนียวสังขยา",
 		"english_name": "",
 		"image": {
+			"ratio": 66.25,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Khao_niao_sangkhaya.JPG/110px-Khao_niao_sangkhaya.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 73,
@@ -4020,6 +4277,7 @@
 		"thai_script": "ข้าวต้มมัดไส้กล้วย",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Khao_tom_mat_sai_kluai_01.jpg/110px-Khao_tom_mat_sai_kluai_01.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -4035,6 +4293,7 @@
 		"thai_script": "กล้วยทอด",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kluai_thot.jpg/110px-Kluai_thot.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -4064,6 +4323,7 @@
 		"thai_script": "มะม่วงดอง",
 		"english_name": "Pickled mango",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mamuang_dong.jpg/110px-Mamuang_dong.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -4079,6 +4339,7 @@
 		"thai_script": "โรตีกล้วยไข่",
 		"english_name": "",
 		"image": {
+			"ratio": 72.23958333333333,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Roti_kluai_khai_chiang_mai_04.jpg/110px-Roti_kluai_khai_chiang_mai_04.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 79,
@@ -4094,6 +4355,7 @@
 		"thai_script": "โรตีสายไหม",
 		"english_name": "",
 		"image": {
+			"ratio": 78.75,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Roti_sai_mai_2.jpg/110px-Roti_sai_mai_2.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 87,
@@ -4116,6 +4378,7 @@
 		"thai_script": "สังขยาฟักทอง",
 		"english_name": "Stuffed pumpkin",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sangkhaya_fak_thong.JPG/110px-Sangkhaya_fak_thong.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -4131,6 +4394,7 @@
 		"thai_script": "สาคูถั่วดำ",
 		"english_name": "",
 		"image": {
+			"ratio": 66.953125,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sakhu_thua_dam.jpg/110px-Sakhu_thua_dam.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 74,
@@ -4146,6 +4410,7 @@
 		"thai_script": "ทาร์ตไข่",
 		"english_name": "Egg tart",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Thad_khai.jpg/110px-Thad_khai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -4168,6 +4433,7 @@
 		"thai_script": "ทองหยิบ",
 		"english_name": "",
 		"image": {
+			"ratio": 56.43835616438356,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thong_yib.jpg/110px-Thong_yib.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 62,
@@ -4212,6 +4478,7 @@
 		"thai_script": "ชาเย็น",
 		"english_name": "Thai iced tea",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cha_yen.JPG/110px-Cha_yen.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -4227,6 +4494,7 @@
 		"thai_script": "กาแฟโบราณ",
 		"english_name": "",
 		"image": {
+			"ratio": 100,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kafae_boran_Chiang_Mai.jpg/110px-Kafae_boran_Chiang_Mai.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 110,
@@ -4242,6 +4510,7 @@
 		"thai_script": "กระทิงแดง",
 		"english_name": "Thai red bull",
 		"image": {
+			"ratio": 185.4140914709518,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Krating_Daeng.jpg/110px-Krating_Daeng.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 204,
@@ -4271,6 +4540,7 @@
 		"thai_script": "น้ำใบบัวบก",
 		"english_name": "",
 		"image": {
+			"ratio": 126.81638044914135,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nam_bai_bua_bok.JPG/110px-Nam_bai_bua_bok.JPG",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 139,
@@ -4300,6 +4570,7 @@
 		"thai_script": "น้ำพันช์",
 		"english_name": "Thai punch",
 		"image": {
+			"ratio": 110.09174311926606,
 			"thumbnailUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nam_phan.jpg/110px-Nam_phan.jpg",
 			"thumbnailWidth": 110,
 			"thumbnailHeight": 121,
