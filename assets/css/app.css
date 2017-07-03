@@ -187,16 +187,11 @@ input.scrollable-header {
 /**
  * Thai Dishes 1.0
  */
-body {
+body, .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 .app {
 	background: white;
-}
-#dish_categories img {
-	float: left;
-	width: 50%;
-	height: auto;
 }
 
 /**
