@@ -9,7 +9,7 @@
 
 <div ng-if="data" class="scrollable">
 	<div class="scrollable-content">
-		<div class="dish-details-image-wrap" style="padding-bottom: {{ dish.image.ratio }}%;">
+		<div ng-if="dish.image" class="dish-details-image-wrap" style="padding-bottom: {{ dish.image.ratio }}%;">
 			<img class="dish-details-image" alt="{{ dish.thai_name }}" lazy-src="https://res.cloudinary.com/siamkreative/image/fetch/w_480,fl_progressive/q_auto:eco/https:{{ dish.image.largeUrl }}" width="{{ dish.image.largeWidth }}" height="{{ dish.image.largeHeight }}">
 		</div>
 		<div class="dish-details-list-group list-group">
