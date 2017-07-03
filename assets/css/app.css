@@ -198,18 +198,28 @@ body, .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
 /**
  * Dish List
  */
+.dish-list-header {
+	background-size: cover;
+	padding: 12.5% 30px;
+	border-bottom: 5px solid #000;
+}
 .dish-list-heading {
 	display: block;
-	position: relative;
 	width: 100%;
 	text-align: center;
 	text-transform: capitalize;
-	padding: 2em 1em;
 	color: #fff;
 	font-weight: bold;
-	text-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
-	margin: 0;
-	background-size: cover;
+	text-shadow: 0 0 .25em rgba(0, 0, 0, 0.6);
+}
+.dish-list-search .form-control,
+.dish-list-search .btn {
+	background: rgba(0, 0, 0, 0.6);
+	border-color: #ddd;
+}
+.dish-list-search .fa,
+.dish-list-search .form-control::-webkit-input-placeholder {
+	color: #fff;
 }
 .dish-list {
 	margin-bottom: 0px;

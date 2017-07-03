@@ -9,10 +9,16 @@
 </div>
 
 <div ng-if="data" class="scrollable" ui-shared-state="searchBar">
-	<input ng-if="Ui.active('searchBar')" type="search" class="form-control scrollable-header" ng-model="searchText" placeholder="Search.." />
-
 	<div class="scrollable-content" ui-scroll-bottom="bottomReached()">
-		<h3 class="dish-list-heading" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(assets/img/categories/{{type}}.jpg);">{{ type | underscoreless }}</h3>
+		<div class="dish-list-header" style="background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url(assets/img/categories/{{type}}.jpg);">
+			<h3 class="dish-list-heading">{{ type | underscoreless }}</h3>
+			<div class="input-group dish-list-search">
+			    <input type="text" class="form-control input-lg" placeholder="Search in this list..." ng-model="searchText">
+			    <span class="input-group-btn">
+			        <button class="btn btn-default btn-lg" type="button" ng-click="searchText = undefined"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+			    </span>
+			</div>
+		</div>
 		<div class="dish-list list-group">
 			<div ng-repeat="dish in dishes | filter:searchText">
 				<a class="list-group-item dist-list-item" href="#/{{ type }}/{{$index}}">
@@ -28,11 +34,4 @@
 			</div>
 		</div>
 	</div>
-
-	<a class="btn btn-block btn-lg btn-primary scrollable-footer" ui-toggle="searchBar">
-		<i class="fa fa-search"></i>
-		<span ui-hide="searchBar">Show</span>
-		<span ui-show="searchBar">Hide</span>
-		Search Bar
-	</a>
 </div>
