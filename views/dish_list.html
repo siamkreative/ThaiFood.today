@@ -11,9 +11,8 @@
 <div ng-if="data" class="scrollable" ui-shared-state="searchBar">
 	<input ng-if="Ui.active('searchBar')" type="search" class="form-control scrollable-header" ng-model="searchText" placeholder="Search.." />
 
-	<div class="scrollable-content" ui-scroll-bottom="bottomReached()">	
-		<img class="dish-list-image" ng-src="assets/img/categories/{{type}}.jpg" alt="{{type}}" width="600" height="300">
-		<h3 class="dish-list-heading">{{ type | underscoreless }}</h3>
+	<div class="scrollable-content" ui-scroll-bottom="bottomReached()">
+		<h3 class="dish-list-heading" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(assets/img/categories/{{type}}.jpg);">{{ type | underscoreless }}</h3>
 		<div class="dish-list list-group">
 			<div ng-repeat="dish in dishes | filter:searchText">
 				<a class="list-group-item dist-list-item" href="#/{{ type }}/{{$index}}">

@@ -202,18 +202,18 @@ body {
 /**
  * Dish List
  */
-.dish-list-image {
-	max-width: 100%;
-	height: auto;
-}
 .dish-list-heading {
+	display: block;
+	position: relative;
+	width: 100%;
 	text-align: center;
 	text-transform: capitalize;
-	border-bottom: 1px solid #ccc;
-	padding: .75em 0;
-	color: #999;
-	background-color: #f5f5f5;
+	padding: 2em 0;
+	color: #fff;
+	font-weight: bold;
+	text-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
 	margin: 0;
+	background-size: cover;
 }
 .dish-list {
 	margin-bottom: 0px;
