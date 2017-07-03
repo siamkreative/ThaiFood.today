@@ -437,8 +437,9 @@
 		"thai_name": "Khanom chin sao nam",
 		"thai_script": "ขนมจีนซาวน้ำ",
 		"english_name": "",
-		"image": "Central",
-		"region": "Cold rice noodles served as a salad with thick coconut milk, finely chopped pineapple, sliced raw garlic and Thai chillies, pounded dried prawns, shredded ginger, lime juice, fish sauce and sugar."
+		"image": "",
+		"region": "Central",
+		"description": "Cold rice noodles served as a salad with thick coconut milk, finely chopped pineapple, sliced raw garlic and Thai chillies, pounded dried prawns, shredded ginger, lime juice, fish sauce and sugar."
 	}, {
 		"favorite": false,
 		"thai_name": "Khao soi",
@@ -509,7 +510,8 @@
 		"thai_script": "ก๋วยเตี๋ยวน้ำ",
 		"english_name": "Wide rice noodle soup",
 		"image": "",
-		"region": "A soup of wide rice noodles, often with minced pork, pork balls or fish balls."
+		"region": "",
+		"description": "A soup of wide rice noodles, often with minced pork, pork balls or fish balls."
 	}, {
 		"favorite": false,
 		"thai_name": "Kuai-tiao nuea pueai",
@@ -805,8 +807,9 @@
 		"thai_name": "Chuchi pla kaphong",
 		"thai_script": "ฉู่ฉี่ ปลากะพง",
 		"english_name": "",
-		"image": "Central",
-		"region": "A semi-dry red curry with fried Snapper."
+		"image": "",
+		"region": "Central",
+		"description": "A semi-dry red curry with fried Snapper."
 	}, {
 		"favorite": false,
 		"thai_name": "Chuchi pla thu sot",
@@ -1404,8 +1407,9 @@
 		"thai_name": "Kaeng ranchuan",
 		"thai_script": "แกงรัญจวน",
 		"english_name": "",
-		"image": "Central",
-		"region": "Kaeng ranchuan is a beef curry and fermented shrimp paste chilli sauce, similar to tom yam. It was created by chef in royal households from the leftovers and turned in new dish by combining pieces of meat and leftover sauce especially nam phrik kapi. The most popular of all dip is nam phrik kapi, a very delicious sauce of Thailand because this sauce can be eaten with everything. Many Thai chefs reformed kaeng ranchuan to restaurants after it was mentioned by culinary authority ML Nueang Ninrat, in a memoir explaining her life during the reign of King Rama V and VI. People misunderstand about the origin and preparation of kaeng ranchuan because of famous TV series that do the wrong method of this dish and make people remember that this is the real kaeng ranchuan preparation method. So, the real kaeng ranchuan is in ML Ninrat book “Life in the Palace” she tells how her grandmother, Princess Sabai Ninrat created this dish. At the end of dinner there was leftovers so she asked her assistant to separate the meat from chili and basil. Then, she mixed it into a broth and added leftover of Nam prhrik kapi ,so this is called the real kaeng ranchuan.[13]"
+		"image": "",
+		"region": "Central",
+		"description": "Kaeng ranchuan is a beef curry and fermented shrimp paste chilli sauce, similar to tom yam. It was created by chef in royal households from the leftovers and turned in new dish by combining pieces of meat and leftover sauce especially nam phrik kapi. The most popular of all dip is nam phrik kapi, a very delicious sauce of Thailand because this sauce can be eaten with everything. Many Thai chefs reformed kaeng ranchuan to restaurants after it was mentioned by culinary authority ML Nueang Ninrat, in a memoir explaining her life during the reign of King Rama V and VI. People misunderstand about the origin and preparation of kaeng ranchuan because of famous TV series that do the wrong method of this dish and make people remember that this is the real kaeng ranchuan preparation method. So, the real kaeng ranchuan is in ML Ninrat book “Life in the Palace” she tells how her grandmother, Princess Sabai Ninrat created this dish. At the end of dinner there was leftovers so she asked her assistant to separate the meat from chili and basil. Then, she mixed it into a broth and added leftover of Nam prhrik kapi ,so this is called the real kaeng ranchuan.[13]"
 	}],
 	"soups": [{
 		"favorite": false,
@@ -1942,7 +1946,8 @@
 		"thai_script": "ยำ",
 		"english_name": "Thai salad",
 		"image": "",
-		"region": "A general name for many types of sour Thai salads. The main ingredient can be vegetable, fruit, meat, seafood and even noodles, which can be raw, cooked, grilled, fried or deep-fried. The basic recipe for the dressing consists of sliced shallots or onion, fish sauce, lime juice, sugar, bird's eye chillies, tomato and Chinese celery (khuen chai)."
+		"region": "",
+		"description": "A general name for many types of sour Thai salads. The main ingredient can be vegetable, fruit, meat, seafood and even noodles, which can be raw, cooked, grilled, fried or deep-fried. The basic recipe for the dressing consists of sliced shallots or onion, fish sauce, lime juice, sugar, bird's eye chillies, tomato and Chinese celery (khuen chai)."
 	}, {
 		"favorite": false,
 		"thai_name": "Yam bai cha",
@@ -2366,7 +2371,8 @@
 		"thai_script": "ไข่ยัดไส้",
 		"english_name": "Stuffed omelette",
 		"image": "",
-		"region": "An omelette is fried filled with various ingredients of choice (minced beef or pork, prawns, and vegetables) and then folded over."
+		"region": "",
+		"description": "An omelette is fried filled with various ingredients of choice (minced beef or pork, prawns, and vegetables) and then folded over."
 	}, {
 		"favorite": false,
 		"thai_name": "Khua chin som sai khai",
@@ -2453,7 +2459,8 @@
 		"thai_script": "กุ้งทอดกระเทียมพริกไทย",
 		"english_name": "Deep fried prawns with garlic and pepper",
 		"image": "",
-		"region": "Prawns fried with garlic and fresh peppercorns."
+		"region": "",
+		"description": "Prawns fried with garlic and fresh peppercorns."
 	}, {
 		"favorite": false,
 		"thai_name": "Mu phat phrik khing",
@@ -2732,7 +2739,8 @@
 		"thai_script": "ผัดพริก",
 		"english_name": "Fried with chillies",
 		"image": "",
-		"region": "Stir fried meat (usually beef) or seafood with chillies, garlic and ginger."
+		"region": "",
+		"description": "Stir fried meat (usually beef) or seafood with chillies, garlic and ginger."
 	}, {
 		"favorite": false,
 		"thai_name": "Phat yot fak maeo",
@@ -2916,7 +2924,8 @@
 		"thai_script": "หมูกรอบ",
 		"english_name": "Crispy pork",
 		"image": "",
-		"region": "Cooked belly pork is first marinated and then deep fried until crispy. Often used sliced in vegetables stir fries."
+		"region": "",
+		"description": "Cooked belly pork is first marinated and then deep fried until crispy. Often used sliced in vegetables stir fries."
 	}, {
 		"favorite": false,
 		"thai_name": "Mu thot krathiam",
@@ -2971,7 +2980,8 @@
 		"thai_script": "ปีกไก่สอดไส้ทอด",
 		"english_name": "Stuffed chicken wings",
 		"image": "",
-		"region": "Deep fried, partially de-boned chicken wings, stuffed usually with minced pork."
+		"region": "",
+		"description": "Deep fried, partially de-boned chicken wings, stuffed usually with minced pork."
 	}, {
 		"favorite": false,
 		"thai_name": "Pla buang",
@@ -3090,7 +3100,8 @@
 		"thai_script": "ปูจ๋า",
 		"english_name": "Crab cakes",
 		"image": "",
-		"region": "A mixture of cooked crab meat, pork, garlic and pepper, deep fried inside the crab shells and usually served with nam chim buoy (Thai: น้ำจิ้มบ๋วย, plum sauce). Instead of being fried in the crab shell it is also sometimes served as patties."
+		"region": "",
+		"description": "A mixture of cooked crab meat, pork, garlic and pepper, deep fried inside the crab shells and usually served with nam chim buoy (Thai: น้ำจิ้มบ๋วย, plum sauce). Instead of being fried in the crab shell it is also sometimes served as patties."
 	}, {
 		"favorite": false,
 		"thai_name": "Sai mu thot",
@@ -3501,7 +3512,8 @@
 		"thai_script": "น้ำจิ้มสะเต๊ะ",
 		"english_name": "Peanut sauce",
 		"image": "",
-		"region": "A peanut sauce which is normally served with satay."
+		"region": "",
+		"description": "A peanut sauce which is normally served with satay."
 	}, {
 		"favorite": false,
 		"thai_name": "Nam pla phrik",
@@ -3636,7 +3648,8 @@
 		"thai_script": "น้ำพริกเผา",
 		"english_name": "Chilli jam",
 		"image": "",
-		"region": "A sweet roasted chilli paste, often used as an ingredient in Tom yam or when frying meat or seafood, and also popular as a spicy \"jam\" on bread or toast."
+		"region": "",
+		"description": "A sweet roasted chilli paste, often used as an ingredient in Tom yam or when frying meat or seafood, and also popular as a spicy \"jam\" on bread or toast."
 	}, {
 		"favorite": false,
 		"thai_name": "Nam phrik pla chi",
@@ -4012,14 +4025,16 @@
 		"thai_script": "ทอดมันปู",
 		"english_name": "Fried crab cakes",
 		"image": "",
-		"region": "Deep fried patties of minced crab meat. Plum sauce is commonly provided."
+		"region": "",
+		"description": "Deep fried patties of minced crab meat. Plum sauce is commonly provided."
 	}, {
 		"favorite": false,
 		"thai_name": "Thot man kung",
 		"thai_script": "ทอดมันกุ้ง",
 		"english_name": "Fried prawn cakes",
 		"image": "",
-		"region": "Another popular variety of thot man where minced shrimp or prawn is used. Plum sauce is commonly provided."
+		"region": "",
+		"description": "Another popular variety of thot man where minced shrimp or prawn is used. Plum sauce is commonly provided."
 	}, {
 		"favorite": false,
 		"thai_name": "Thung thong",
@@ -4107,21 +4122,24 @@
 		"thai_script": "ขนมบัวลอย",
 		"english_name": "",
 		"image": "",
-		"region": "Taro root mixed with flour into balls and served in coconut milk."
+		"region": "",
+		"description": "Taro root mixed with flour into balls and served in coconut milk."
 	}, {
 		"favorite": false,
 		"thai_name": "Khanom chan",
 		"thai_script": "ขนมชั้น",
 		"english_name": "",
 		"image": "",
-		"region": "A multi-colored pudding of layers of sticky rice flour and tapioca flour mixed with coconut milk and sugar. Each layer will be differently scented (pandan, jasmine and more). It is similar to the Indonesian, Malaysian and Singaporean kueh lapis."
+		"region": "",
+		"description": "A multi-colored pudding of layers of sticky rice flour and tapioca flour mixed with coconut milk and sugar. Each layer will be differently scented (pandan, jasmine and more). It is similar to the Indonesian, Malaysian and Singaporean kueh lapis."
 	}, {
 		"favorite": false,
 		"thai_name": "Khanom farang kutti chin",
 		"thai_script": "ขนมฝรั่งกุฎีจีน",
 		"english_name": "\"Foreigner's snack of the Chinese church\"",
-		"image": "Bangkok",
-		"region": "Small muffins. The main ingredients are duck eggs, sugar and wheat flour. No butter, milk or yeast. No preservatives. The little cakes are topped with raisins, gourds dipped in syrup, and persimmon.[30]"
+		"image": "",
+		"region": "Bangkok",
+		"description": "Small muffins. The main ingredients are duck eggs, sugar and wheat flour. No butter, milk or yeast. No preservatives. The little cakes are topped with raisins, gourds dipped in syrup, and persimmon.[30]"
 	}, {
 		"favorite": false,
 		"thai_name": "Khanom khrok",
@@ -4157,10 +4175,11 @@
 	}, {
 		"favorite": false,
 		"thai_name": "Khanom piakpun",
-		"thai_script": "",
+		"thai_script": "ขนมชั้น",
 		"english_name": "",
 		"image": "",
-		"region": "The unique smoky flavor and the deep black color comes from coconut ash. It is made from a mix of sticky rice flour and tapioca flour, together with coconut milk and sugar."
+		"region": "",
+		"description": "The unique smoky flavor and the deep black color comes from coconut ash. It is made from a mix of sticky rice flour and tapioca flour, together with coconut milk and sugar."
 	}, {
 		"favorite": false,
 		"thai_name": "Khanom tako",
@@ -4199,14 +4218,16 @@
 		"thai_script": "ขนมตาล",
 		"english_name": "",
 		"image": "",
-		"region": "Palm flavoured mini cake with shredded coconut on top."
+		"region": "",
+		"description": "Palm flavoured mini cake with shredded coconut on top."
 	}, {
 		"favorite": false,
 		"thai_name": "Khanom thuai talai",
 		"thai_script": "ขนมถ้วยตะไล",
 		"english_name": "",
 		"image": "",
-		"region": "Steamed sweet coconut jelly and cream."
+		"region": "",
+		"description": "Steamed sweet coconut jelly and cream."
 	}, {
 		"favorite": false,
 		"thai_name": "Khanom tom",
@@ -4309,14 +4330,16 @@
 		"thai_script": "กระยาสารท",
 		"english_name": "",
 		"image": "",
-		"region": "Wafers or chunks of rice candy with beans and sesame. Often prepared as an offering to the monks[31]"
+		"region": "",
+		"description": "Wafers or chunks of rice candy with beans and sesame. Often prepared as an offering to the monks[31]"
 	}, {
 		"favorite": false,
 		"thai_name": "Lot chong nam kathi",
 		"thai_script": "ลอดช่องน้ำกะทิ",
 		"english_name": "",
 		"image": "",
-		"region": "Pandan-flavoured rice flour noodles in sweetened coconut milk, similar to the Indonesian cendol."
+		"region": "",
+		"description": "Pandan-flavoured rice flour noodles in sweetened coconut milk, similar to the Indonesian cendol."
 	}, {
 		"favorite": false,
 		"thai_name": "Mamuang dong",
@@ -4371,7 +4394,8 @@
 		"thai_script": "รวมมิตร",
 		"english_name": "",
 		"image": "",
-		"region": "A chilled sweet snack/dessert with a mix of ingredients, such as sweetened chestnuts, jackfruit, lotus root, tapioca, and lot chong, in sweetened coconut milk."
+		"region": "",
+		"description": "A chilled sweet snack/dessert with a mix of ingredients, such as sweetened chestnuts, jackfruit, lotus root, tapioca, and lot chong, in sweetened coconut milk."
 	}, {
 		"favorite": false,
 		"thai_name": "Sangkhaya fak thong",
@@ -4426,7 +4450,8 @@
 		"thai_script": "สาคูไส้หมู",
 		"english_name": "Tapioca Balls with Pork Filling",
 		"image": "",
-		"region": "In Thailand tapioca balls with pork filling are call sakhu sai mu. Sakhu sai mu is a kind of snack which is very famous in Thailand and found at street stalls and markets. It is a dumpling which consists of a flour ball with a pork filling. Most people in Thailand eat it with khao kriap pak mo."
+		"region": "",
+		"description": "In Thailand tapioca balls with pork filling are call sakhu sai mu. Sakhu sai mu is a kind of snack which is very famous in Thailand and found at street stalls and markets. It is a dumpling which consists of a flour ball with a pork filling. Most people in Thailand eat it with khao kriap pak mo."
 	}, {
 		"favorite": false,
 		"thai_name": "Thong yip",
@@ -4450,28 +4475,32 @@
 		"thai_script": "ชาดำเย็น",
 		"english_name": "Black iced tea",
 		"image": "",
-		"region": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar and served with ice."
+		"region": "",
+		"description": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar and served with ice."
 	}, {
 		"favorite": false,
 		"thai_name": "Cha manao",
 		"thai_script": "ชามะนาว",
 		"english_name": "Lime flavored tea",
 		"image": "",
-		"region": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar flavored with sugar and lime and served hot or with ice. Mint may also be added."
+		"region": "",
+		"description": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar flavored with sugar and lime and served hot or with ice. Mint may also be added."
 	}, {
 		"favorite": false,
 		"thai_name": "Cha ron",
 		"thai_script": "ชาร้อน",
 		"english_name": "Thai hot tea",
 		"image": "",
-		"region": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar and condensed milk and served hot."
+		"region": "",
+		"description": "It is made from strongly brewed black tea (\"red tea\" in East Asia). The tea is sweetened with sugar and condensed milk and served hot."
 	}, {
 		"favorite": false,
 		"thai_name": "Nam wan",
 		"thai_script": "น้ำหวาน",
 		"english_name": "Concentrated artificial fruit-flavored syrup",
 		"image": "",
-		"region": "Normally poured on grated ice"
+		"region": "",
+		"description": "Normally poured on grated ice"
 	}, {
 		"favorite": false,
 		"thai_name": "Cha yen",
@@ -4526,14 +4555,16 @@
 		"thai_script": "เหล้าขาว",
 		"english_name": "Rice vodka",
 		"image": "",
-		"region": "A distilled alcohol made from glutinous rice, it is often a home-made moonshine."
+		"region": "",
+		"description": "A distilled alcohol made from glutinous rice, it is often a home-made moonshine."
 	}, {
 		"favorite": false,
 		"thai_name": "Lao Mae Khong",
 		"thai_script": "เหล้าแม่โขง",
 		"english_name": "Mekhong whiskey",
 		"image": "",
-		"region": "Closer to a rum, it is distilled from sugarcane and rice."
+		"region": "",
+		"description": "Closer to a rum, it is distilled from sugarcane and rice."
 	}, {
 		"favorite": false,
 		"thai_name": "Nam bai bua bok",
@@ -4556,14 +4587,16 @@
 		"thai_script": "น้ำดอกอัญชัน",
 		"english_name": "Clitoria ternatea drink",
 		"image": "",
-		"region": "A refreshing drink made from Clitoria ternatea flower flavored with sugar served with ice."
+		"region": "",
+		"description": "A refreshing drink made from Clitoria ternatea flower flavored with sugar served with ice."
 	}, {
 		"favorite": false,
 		"thai_name": "Nam manao",
 		"thai_script": "น้ำมะนาว",
 		"english_name": "Lime drink",
 		"image": "",
-		"region": "A refreshing drink made from lime juice flavored with sugar and a pinch of salt served with ice."
+		"region": "",
+		"description": "A refreshing drink made from lime juice flavored with sugar and a pinch of salt served with ice."
 	}, {
 		"favorite": false,
 		"thai_name": "Nam phan",
@@ -4586,27 +4619,31 @@
 		"thai_script": "น้ำตะไคร้",
 		"english_name": "Lemongrass tea",
 		"image": "",
-		"region": "A refreshing drink made from lemongrass. It can be served either hot or with ice."
+		"region": "",
+		"description": "A refreshing drink made from lemongrass. It can be served either hot or with ice."
 	}, {
 		"favorite": false,
 		"thai_name": "Oliang",
 		"thai_script": "โอเลี้ยง",
 		"english_name": "Iced black coffee",
 		"image": "",
-		"region": "A sweet Thai black ice coffee. The name is of Teochew origin where \"o\" means black, and \"liang\" means cold."
+		"region": "",
+		"description": "A sweet Thai black ice coffee. The name is of Teochew origin where \"o\" means black, and \"liang\" means cold."
 	}, {
 		"favorite": false,
 		"thai_name": "Saeng som",
 		"thai_script": "แสงโสม",
 		"english_name": "Sang Som",
 		"image": "",
-		"region": "A Thai rum which has been distilled since 1977."
+		"region": "",
+		"description": "A Thai rum which has been distilled since 1977."
 	}, {
 		"favorite": false,
 		"thai_name": "Satho",
 		"thai_script": "สาโท",
 		"english_name": "Thai rice wine",
 		"image": "",
-		"region": "A traditional rice wine from the Isan region."
+		"region": "",
+		"description": "A traditional rice wine from the Isan region."
 	}]
 }
