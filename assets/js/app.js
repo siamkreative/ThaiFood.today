@@ -122,11 +122,9 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
 app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, dataService, Auth) {
 	$scope.auth = Auth;
 	$scope.firebaseUser;
-	$scope.data;	
-	var dishNames = [];
+	$scope.data;
 	$scope.type;
 	$scope.id;
-	$scope.categoryImg;
 	$scope.dishes;
 	$scope.dish;
 	$scope.categories = [];
@@ -185,12 +183,8 @@ app.controller('MainController', function ($rootScope, $scope, $http, $routePara
 			$scope.data = jsonData;
 			$scope.type = $routeParams.type;
 			$scope.id = $routeParams.id;
-			$scope.categoryImg = 'assets/img/categories/' + $scope.type + '.jpg';
 			$scope.dishes = $scope.data[$scope.type];
 			if ($scope.dishes) {
-				$scope.dishes.forEach(function (item) {
-					dishNames.push(item.thai_name);
-				});
 				$scope.dish = $scope.dishes[$scope.id];
 			}			
 		}
