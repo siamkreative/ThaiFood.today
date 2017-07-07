@@ -10,7 +10,7 @@
 
 <div ng-if="data" class="scrollable" ui-shared-state="searchBar">
 	<div class="scrollable-content" ui-scroll-bottom="bottomReached()">
-		<div class="dish-list-header" style="background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url(assets/img/categories/{{type}}.jpg);">
+		<div class="dish-list-header" ng-style="{'background-image': 'linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url(/assets/img/categories/'+ type +'.jpg)'}">
 			<h3 class="dish-list-heading">{{ type | underscoreless }}</h3>
 			<div class="input-group dish-list-search">
 			    <input type="text" class="form-control input-lg" placeholder="Search in this list..." ng-model="searchText">
