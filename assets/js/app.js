@@ -57,12 +57,12 @@ app.config(function ($routeProvider) {
 	$routeProvider.when('/:type', {
 		templateUrl: '/views/dish_list.html',
 		reloadOnSearch: false,
-		controller: 'DishController'
+		controller: 'MainController'
 	});
 	$routeProvider.when('/:type/:id', {
 		templateUrl: '/views/dish_details.html',
 		reloadOnSearch: false,
-		controller: 'DishController'
+		controller: 'MainController'
 	});
 });
 
@@ -119,7 +119,7 @@ app.service('dataService', function ($http, $firebaseObject, $firebaseAuth) {
  * Allow passing $routeParams to different templates
  * http://stackoverflow.com/a/11535887/1414881
  */
-app.controller('DishController', function ($scope, $http, $routeParams, dataService, Auth) {
+app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, dataService, Auth) {
 	$scope.auth = Auth;
 	$scope.firebaseUser;
 	$scope.data;	
@@ -129,6 +129,7 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 	$scope.categoryImg;
 	$scope.dishes;
 	$scope.dish;
+	$scope.categories = [];
 
 	$scope.auth.$onAuthStateChanged(function(firebaseUser) {
 		$scope.firebaseUser = firebaseUser;
@@ -146,8 +147,14 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 				}
 			});
 		}
+
 		//NO USER logged in load default data
 		if(!firebaseUser) {
+			//empty previous users categories
+			$scope.categories = [];
+			//get rid of user data
+			$scope.firebaseUser = null;
+			//load default json
 			loadDefaultData();
 		}
 
@@ -157,8 +164,21 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 					cache: true
 				})
 				.success(function (jsonData) {
+					filterSmallCategories(jsonData);
 					setScopeWithData(jsonData);
 				});
+		}
+
+		function filterSmallCategories(jsonData) {
+			angular.forEach(jsonData, function (val, key) {
+				var items = {};
+				items['name'] = key;
+				items['length'] = val.length;
+				// Hide categories with less than 5 dishes
+				if (val.length > 5) {
+					$scope.categories.push(items);
+				}
+			});
 		}
 
 		function setScopeWithData(jsonData) {
@@ -216,75 +236,6 @@ app.controller('DishController', function ($scope, $http, $routeParams, dataServ
 			});
 		}
 	};
-});
-
-app.controller('MainController', function ($rootScope, $scope, $http, $routeParams, Auth, dataService) {
-	$scope.firebaseUser;
-	$scope.auth = Auth;
-	$scope.categories = [];	
-
-	/**
-	 * Any time auth state changes, add the user data to scope
-	 * https://github.com/firebase/angularfire
-	 */
-	$scope.auth.$onAuthStateChanged(function (firebaseUser) {
-		$scope.firebaseUser = firebaseUser;
-		//USER is logged in 
-		if(firebaseUser) {
-			var user = firebaseUser;
-			//we will store user's favorites here if they have favorites
-			var usersFavorites = dataService.getDataFromFirebase(user.uid);
-			//wait until the async request comes back
-			usersFavorites.$loaded().then(function() {
-				//check to see if the user has saved at least one favorite
-				// console.log(usersFavorites);
-				//USER has favorite food
-				if(usersFavorites.food) {
-					console.log('MainCtrl: recieved user\'s favorite food from DB');
-					$scope.data = usersFavorites.food;
-					filterSmallCategories(usersFavorites.food);		
-				}
-				//USER does not have favorite food
-				if(!usersFavorites.food) {
-					console.log('MainCtrl: NO favorite food saved in DB');
-					loadDefaultData();			
-				}
-
-			});
-		}
-		//NO USER logged in load default data
-		if(!firebaseUser) {
-			//empty previous users categories
-			$scope.categories = [];
-			//get rid of user data
-			$scope.firebaseUser = null;
-			//load default json
-			loadDefaultData();
-		}
-
-		function loadDefaultData() {
-			console.log('loading default data');
-			$http.get('./ajax/data.json', {
-					cache: true
-				})
-				.success(function (jsonData) {
-					$scope.data = jsonData;
-					filterSmallCategories(jsonData);
-				});
-		}
-
-		function filterSmallCategories(jsonData) {
-			angular.forEach(jsonData, function (val, key) {
-				var items = {};
-				items['name'] = key;
-				items['length'] = val.length;
-				// Hide categories with less than 5 dishes
-				if (val.length > 5) {
-					$scope.categories.push(items);
-				}
-			});
-		}
-	});
 
 	// Needed for the loading screen
 	$rootScope.$on('$routeChangeStart', function () {
