@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "http-server",
-    "precache": "sw-precache --config .config/sw-precache-config.js"
+    "precache": "sw-precache --config .config/sw-precache-config.js",
+    "deploy": "npm run precache && surge"
   },
   "repository": {
     "type": "git",
